@@ -1,0 +1,6 @@
+Trimethylaminuria is caused by mutations of the FMO3 gene in a North American cohort.
+
+Authors: 
+Akerman BR, Lemass H, Chow LM, Lambert DM, Greenberg C, Bibeau C, Mamer OA, Treacy EP
+
+Trimethylaminuria (TMAuria) (McKusick 602079) first described in 1970 is an autosomal recessive condition caused by a partial or total incapacity to catalyze the N-oxygenation of the odorous compound trimethylamine (TMA). The result is a severe body odor and associated psychosocial conditions. This inborn error of metabolism, previously thought to be rare, is now being increasingly detected in severe and milder presentations. Mutations of a phase 1 detoxicating gene, flavin-containing monooxygenase 3 (FMO3), have been shown to cause TMAuria. Herein we describe a cohort of individuals ascertained in North America with severe TMAuria, defined by a reduction of TMA oxidation below 50% of normal with genotype-phenotype correlations. We detected four new FMO3 mutations; two were missense (A52T and R387L), one was nonsense (E314X). The fourth allele is apparently composed of two relatively common polymorphisms (K158-G308) found in the general population. On the basis of this study we conclude that one common mutation and an increasing number of private mutations in individuals of different ethnic origins cause TMAuria in this cohort.

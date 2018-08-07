@@ -1,0 +1,8 @@
+{miriam-gene:23092 a ncit:C16612 .
+	
+	lld:C0349639 a ncit:C7057 .
+	
+	dgn-gda:DGN7acd591a9cb334cbf54dbdaa7c333c4b sio:SIO_000628 miriam-gene:23092 , lld:C0349639 ;
+		a sio:SIO_001122 .
+}
+

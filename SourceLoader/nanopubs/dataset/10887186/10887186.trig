@@ -1,0 +1,16 @@
+{miriam-gene:1406 a ncit:C16612 .
+	
+	lld:C0035334 a ncit:C7057 .
+	
+	dgn-gda:DGNa385a50614c3b5d8d26755dd523b8d21 sio:SIO_000628 miriam-gene:1406 , lld:C0035334 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:1406 a ncit:C16612 .
+	
+	lld:C3151192 a ncit:C7057 .
+	
+	dgn-gda:DGNa8d9e2a56065357eac00058098e5a811 sio:SIO_000628 miriam-gene:1406 , lld:C3151192 ;
+		a sio:SIO_001122 .
+}
+

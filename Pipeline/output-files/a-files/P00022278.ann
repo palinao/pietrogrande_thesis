@@ -1,0 +1,6 @@
+T0	GENE 0 6	mGluR5
+N0	Reference T0 :::GENE	mGluR5
+T1	GENE 7 15	PLCbeta4
+N1	Reference T1 :::GENE	PLCbeta4
+T2	GENE 25 33	PKCgamma
+N2	Reference T2 :::GENE	PKCgamma

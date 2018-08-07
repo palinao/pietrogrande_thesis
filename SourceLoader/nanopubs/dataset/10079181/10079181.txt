@@ -1,0 +1,6 @@
+Recurrent missense (R197C) and nonsense (Y89X) mutations in the XLRS1 gene in families with X-linked retinoschisis.
+
+Authors: 
+Shastry BS, Hejtmancik FJ, Trese MT
+
+Congenital retinoschisis (RS) is a hereditary eye disorder characterized by intraretinal schisis and central and peripheral retinal lesion. The gene responsible for the X-linked retinoschisis (XLRS1) has recently been isolated and found to contain mutations in affected members of several families. In this communication, two families with X-linked RS were analyzed for possible disease-causing mutations by polymerase chain reaction amplification of exons followed by DNA sequencing. Our analyses reveal a missense mutation at codon 197 in exon 6 and a nonsense mutation in exon-4 of XLRS1 gene. These changes resulted in the replacement of a highly conserved arginine by a cysteine residue and introduced a premature termination signal at codon 89, respectively. These mutations, which are transmitted through three generations, cosegregated with the disease, and are not found in the unaffected family members and 150 normal X-chromosomes, are likely to be pathogenic in these families.

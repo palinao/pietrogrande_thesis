@@ -1,0 +1,83 @@
+MODELS GENES
+
+model_a
+Exact match - precision: 0.79744524, recall: 0.7287382
+Partial match - precision: 0.8506691, recall: 0.7773763
+missing label: 335/3288
+
+model_b
+Exact match - precision: 0.7846013, recall: 0.71372986
+Partial match - precision: 0.852429, recall: 0.7754308
+missing label: 388/3273
+
+model_c
+Exact match - precision: 0.7758827, recall: 0.72067815
+Partial match - precision: 0.84859365, recall: 0.7882157
+missing label: 412/3342
+
+model_d
+Exact match - precision: 0.78005505, recall: 0.70872706
+Partial match - precision: 0.84735394, recall: 0.7698721
+missing label: 399/3269
+
+model_e
+Exact match - precision: 0.78808564, recall: 0.70594776
+Partial match - precision: 0.8575861, recall: 0.76820457
+missing label: 381/3223
+
+model_f
+Exact match - precision: 0.78808564, recall: 0.70594776
+Partial match - precision: 0.8575861, recall: 0.76820457
+missing label: 381/3223
+
+model_g
+Exact match - precision: 0.7902633, recall: 0.717343
+Partial match - precision: 0.85088795, recall: 0.77237356
+missing label: 351/3266
+
+model_h
+Exact match - precision: 0.7970744, recall: 0.7117843
+Partial match - precision: 0.8565204, recall: 0.7648694
+missing label: 342/3213
+
+MODELS DISEASES
+
+model_a1
+Exact match - precision: 0.8012259, recall: 0.733761
+Partial match - precision: 0.9067426, recall: 0.83039296
+missing label: 239/2284
+
+model_b1
+Exact match - precision: 0.7881579, recall: 0.72052926
+Partial match - precision: 0.9, recall: 0.82277465
+missing label: 251/2280
+
+model_c1
+Exact match - precision: 0.80209243, recall: 0.7377707
+Partial match - precision: 0.90627724, recall: 0.83360064
+missing label: 241/2294
+
+model_d1
+Exact match - precision: 0.8022648, recall: 0.7385726
+Partial match - precision: 0.9063589, recall: 0.83440256
+missing label: 241/2296
+
+model_e1
+Exact match - precision: 0.79741186, recall: 0.71651965
+Partial match - precision: 0.90361446, recall: 0.81194866
+missing label: 220/2241
+
+model_f1
+Exact match - precision: 0.79794824, recall: 0.7173216
+Partial match - precision: 0.90410346, recall: 0.8127506
+missing label: 220/2242
+
+model_g1
+Exact match - precision: 0.7986871, recall: 0.7317562
+Partial match - precision: 0.90853393, recall: 0.83239776
+missing label: 239/2285
+
+model_h1
+Exact match - precision: 0.79402584, recall: 0.7141139
+Partial match - precision: 0.90592957, recall: 0.81475544
+missing label: 241/2243

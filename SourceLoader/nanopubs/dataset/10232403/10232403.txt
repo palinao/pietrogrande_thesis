@@ -1,0 +1,6 @@
+An asparagine to threonine substitution in the 1A domain of keratin 1: a novel mutation that causes epidermolytic hyperkeratosis.
+
+Authors: 
+Arin MJ, Longley MA, Küster W, Huber M, Hohl D, Rothnagel JA, Roop DR
+
+Epidermolytic hyperkeratosis (EHK) is a congenital, autosomal dominant disorder of cornification characterized by hyperkeratosis and blister formation. The clinical manifestations are heterogeneous, with respect to the extent of body surface involvement, palmar and plantar hyperkeratosis and the presence of erythroderma. Point mutations in the genes encoding the suprabasal-specific keratins, keratins 1 and 10 have been identified in EHK patients. The inappropriate amino acid substitutions cause a collapse of the keratin filament network, resulting in cytolysis of the involved keratinocytes. We report a severe case of EHK with a single base pair mutation that causes a threonine for asparagine substitution in residue 8 (N8T) of the 1A region of the keratin 1 protein. This is the region involved in molecular overlaps between neighboring keratin heterodimers. These findings suggest that even conservative amino acid substitutions in overlap regions can cause tonofilament clumping.

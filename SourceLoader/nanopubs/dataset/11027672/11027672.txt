@@ -1,0 +1,6 @@
+The presenilin 1 C92S mutation increases abeta 42 production.
+
+Authors: 
+Lewis PA, Perez-Tur J, Golde TE, Hardy J
+
+Although wild-type human presenilin 1 (PS1) rescues the C. elegans egg-laying (egl) phenotype that is caused by a loss of function mutation in the C. elegans presenilin homologue sel12, most familial Alzheimer's disease (FAD)-linked PS1 mutants only partially rescue this phenotype. To investigate the effects of the loss of function sel12 mutation on Abeta production in mammalian cells, we analyzed Abeta production in transfected H4 neuroglioma cells expressing the PS1 homologue of the sel12 C60S mutant, PS1 C92S. This analysis revealed that PS1 C92S increased Abeta42 levels in a similar fashion to other pathogenic Alzheimer's disease (AD) PS1 mutations. Significantly, the PS1 C92S mutation has recently been identified as the pathogenic mutation in an Italian family with FAD. Thus, placing a mutation that results in loss of function in C. elegans into a context whereby its effect on mammalian cells can be evaluated suggests that all FAD-linked PS1 mutants result in increased Abeta42 production through a partial loss of function mechanism.

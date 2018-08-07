@@ -1,0 +1,4 @@
+T0	GENE 8 12	CD59
+N0	Reference T0 :::GENE	CD59
+T1	GENE 77 80	MAC
+N1	Reference T1 :::GENE	MAC

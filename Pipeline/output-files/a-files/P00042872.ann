@@ -1,0 +1,4 @@
+T0	GENE 151 157	leptin
+N0	Reference T0 :::GENE	leptin
+T1	GENE 218 226	orexin-A
+N1	Reference T1 :::GENE	orexin-A

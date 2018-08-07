@@ -1,0 +1,8 @@
+{miriam-gene:8074 a ncit:C16612 .
+	
+	lld:C0342642 a ncit:C7057 .
+	
+	dgn-gda:DGN63b64b892f68e709c0d482dc2b31f458 sio:SIO_000628 miriam-gene:8074 , lld:C0342642 ;
+		a sio:SIO_001122 .
+}
+

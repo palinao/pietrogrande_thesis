@@ -1,0 +1,56 @@
+{miriam-gene:18 a ncit:C16612 .
+	
+	lld:C0342708 a ncit:C7057 .
+	
+	dgn-gda:DGNe029740b87af45af058b3683d52b10dd sio:SIO_000628 miriam-gene:18 , lld:C0342708 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:18 a ncit:C16612 .
+	
+	lld:C0342708 a ncit:C7057 .
+	
+	dgn-gda:DGN1e2e23c92a54ddd92a9648c2c9d9a6e1 sio:SIO_000628 miriam-gene:18 , lld:C0342708 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:18 a ncit:C16612 .
+	
+	lld:C0033922 a ncit:C7057 .
+	
+	dgn-gda:DGNbcbe8945ec8b7992025eb73e23b1f027 sio:SIO_000628 miriam-gene:18 , lld:C0033922 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:18 a ncit:C16612 .
+	
+	lld:C0026827 a ncit:C7057 .
+	
+	dgn-gda:DGN448b9695f0dfae7a369f92e34f21cfdf sio:SIO_000628 miriam-gene:18 , lld:C0026827 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:18 a ncit:C16612 .
+	
+	lld:C0034933 a ncit:C7057 .
+	
+	dgn-gda:DGN3f97c45953b4710653d11583912b5edc sio:SIO_000628 miriam-gene:18 , lld:C0034933 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:18 a ncit:C16612 .
+	
+	lld:C0023380 a ncit:C7057 .
+	
+	dgn-gda:DGN5e484e0095d17455dec70ae8535164a4 sio:SIO_000628 miriam-gene:18 , lld:C0023380 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:18 a ncit:C16612 .
+	
+	lld:C0036572 a ncit:C7057 .
+	
+	dgn-gda:DGN54a43b9270005b5f3982702b6812e06d sio:SIO_000628 miriam-gene:18 , lld:C0036572 ;
+		a sio:SIO_001121 .
+}
+

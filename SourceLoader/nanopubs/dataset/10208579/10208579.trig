@@ -1,0 +1,8 @@
+{miriam-gene:5663 a ncit:C16612 .
+	
+	lld:C1843013 a ncit:C7057 .
+	
+	dgn-gda:DGNde97ba04817ba79624dd0a2de4a1d8c8 sio:SIO_000628 miriam-gene:5663 , lld:C1843013 ;
+		a sio:SIO_001122 .
+}
+

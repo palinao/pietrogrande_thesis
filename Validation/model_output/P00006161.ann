@@ -1,0 +1,4 @@
+T0	GENE 60 70	keratin 74
+N0	Reference T0 :::GENE	keratin 74
+T1	GENE 72 77	KRT74
+N1	Reference T1 :::GENE	KRT74

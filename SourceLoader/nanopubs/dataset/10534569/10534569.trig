@@ -1,0 +1,8 @@
+{miriam-gene:4221 a ncit:C16612 .
+	
+	lld:C0025267 a ncit:C7057 .
+	
+	dgn-gda:DGN4358f97d457b917f3619970e1a570821 sio:SIO_000628 miriam-gene:4221 , lld:C0025267 ;
+		a sio:SIO_001122 .
+}
+

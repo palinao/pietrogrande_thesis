@@ -1,0 +1,4 @@
+T0	GENE 0 20	HSPG-binding peptide
+N0	Reference T0 :::GENE	HSPG-binding peptide
+T1	GENE 68 72	VEGF
+N1	Reference T1 :::GENE	VEGF

@@ -1,0 +1,6 @@
+Restricted distribution of loss-of-function mutations within the LMX1B genes of nail-patella syndrome patients.
+
+Authors: 
+Clough MV, Hamlington JD, McIntosh I
+
+Nail-patella syndrome (NPS) is a pleiotropic condition characterized by dysplasia of the nails, hypoplasia of the patellae, elbow dysplasia, and progressive kidney disease. The syndrome is inherited in an autosomal dominant manner and has been shown to result from mutations in the LIM-homeodomain encoding LMX1B gene. The LMX1B transcription factor plays a role in defining the development of dorsal-specific structures during limb development. To date, a total of 64 point mutations and small deletions or insertions have been reported, concentrated within either the LIM or homeodomains. No NPS mutations have been observed within the carboxy-terminal third of the coding sequence, suggesting that mutations in this region are not inactivating. These findings support the hypothesis that NPS results from a 50% reduction in LMX1B function via a reduction in synthesis, disruption of secondary structure, or failure to bind DNA.

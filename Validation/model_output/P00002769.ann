@@ -1,0 +1,4 @@
+T0	GENE 102 121	myelin protein zero
+N0	Reference T0 :::GENE	myelin protein zero
+T1	GENE 123 126	MPZ
+N1	Reference T1 :::GENE	MPZ

@@ -1,0 +1,16 @@
+{miriam-gene:26503 a ncit:C16612 .
+	
+	lld:C1096903 a ncit:C7057 .
+	
+	dgn-gda:DGN499940516b8490cf9d548ed42dd25507 sio:SIO_000628 miriam-gene:26503 , lld:C1096903 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:26503 a ncit:C16612 .
+	
+	lld:C1096902 a ncit:C7057 .
+	
+	dgn-gda:DGN87f06f00f4be58255dce52f030baf8a2 sio:SIO_000628 miriam-gene:26503 , lld:C1096902 ;
+		a sio:SIO_001122 .
+}
+

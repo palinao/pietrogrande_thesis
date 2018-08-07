@@ -1,0 +1,8 @@
+{miriam-gene:860 a ncit:C16612 .
+	
+	lld:C0008928 a ncit:C7057 .
+	
+	dgn-gda:DGNff48e00334aa39525117575316c8cce8 sio:SIO_000628 miriam-gene:860 , lld:C0008928 ;
+		a sio:SIO_001122 .
+}
+

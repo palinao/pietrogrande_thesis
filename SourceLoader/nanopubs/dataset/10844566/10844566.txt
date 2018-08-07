@@ -1,0 +1,6 @@
+Novel point mutations in the steroid sulfatase gene in patients with X-linked ichthyosis: transfection analysis using the mutated genes.
+
+Authors: 
+Oyama N, Satoh M, Iwatsuki K, Kaneko F
+
+X-linked ichthyosis is caused by steroid sulfatase deficiency which results from abnormalities in its coding gene. The majority of X-linked ichthyosis patients ( approximately 90%) have complete or partial deletions of the steroid sulfatase gene. In this study, we examined the mutations of the steroid sulfatase gene in two unrelated X-linked ichthyosis patients without complete deletion of the gene. Polymerase chain reaction-single-strand conformation polymorphism and direct sequencing analyses showed that each patient has a different single base pair substitution within exon 8 encoding the C-terminal half of the steroid sulfatase polypeptide. Both mutations resulted in the transversion of functional amino acids: a G-->C substitution at nucleotide 1344, causing a predicted change of a glycine to an arginine, and a C-->T substitution at nucleotide 1371, causing a change from a glutamine to a stop codon. In vitro steroid sulfatase cDNA expression using site-directed mutagenesis revealed that these mutations are in fact pathogenic and reflect the levels of steroid sulfatase enzyme activities in each of the X-linked ichthyosis patients.

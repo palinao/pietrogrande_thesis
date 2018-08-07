@@ -1,0 +1,4 @@
+T0	GENE 123 145	Na-K-2Cl cotransporter
+N0	Reference T0 :::GENE	Na-K-2Cl cotransporter
+T1	GENE 147 152	NKCC2
+N1	Reference T1 :::GENE	NKCC2

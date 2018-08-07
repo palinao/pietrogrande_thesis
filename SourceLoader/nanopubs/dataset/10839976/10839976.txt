@@ -1,0 +1,6 @@
+Novel HOXA13 mutations and the phenotypic spectrum of hand-foot-genital syndrome.
+
+Authors: 
+Goodman FR, Bacchelli C, Brady AF, Brueton LA, Fryns JP, Mortlock DP, Innis JW, Holmes LB, Donnenfeld AE, Feingold M, Beemer FA, Hennekam RC, Scambler PJ
+
+Hand-foot-genital syndrome (HFGS) is a rare, dominantly inherited condition affecting the distal limbs and genitourinary tract. A nonsense mutation in the homeobox of HOXA13 has been identified in one affected family, making HFGS the second human syndrome shown to be caused by a HOX gene mutation. We have therefore examined HOXA13 in two new and four previously reported families with features of HFGS. In families 1, 2, and 3, nonsense mutations truncating the encoded protein N-terminal to or within the homeodomain produce typical limb and genitourinary abnormalities; in family 4, an expansion of an N-terminal polyalanine tract produces a similar phenotype; in family 5, a missense mutation, which alters an invariant domain, produces an exceptionally severe limb phenotype; and in family 6, in which limb abnormalities were atypical, no HOXA13 mutation could be detected. Mutations in HOXA13 can therefore cause more-severe limb abnormalities than previously suspected and may act by more than one mechanism.

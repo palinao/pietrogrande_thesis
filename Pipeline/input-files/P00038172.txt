@@ -1,0 +1,1 @@
+We identified four previously unreported CRC risk loci at 14q22.2 (rs4444235, BMP4; P = 8.1 x 10(-10)), 16q22.1 (rs9929218, CDH1; P = 1.2 x 10(-8)), 19q13.1 (rs10411210, RHPN2; P = 4.6 x 10(-9)) and 20p12.3 (rs961253; P = 2.0 x 10(-10))

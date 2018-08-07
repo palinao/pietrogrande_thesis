@@ -1,0 +1,8 @@
+{miriam-gene:999 a ncit:C16612 .
+	
+	lld:C1708349 a ncit:C7057 .
+	
+	dgn-gda:DGN07c6cf253ad856c747d528a4c1a1f578 sio:SIO_000628 miriam-gene:999 , lld:C1708349 ;
+		a sio:SIO_001122 .
+}
+

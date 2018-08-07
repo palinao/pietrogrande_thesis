@@ -1,0 +1,6 @@
+Mutational-screening in the factor VIII gene resulting in the identification of three novel mutations, one of which is a donor splice mutation. Mutations in brief no. 245. Online.
+
+Authors: 
+Möller-Morlang K, Tavassoli K, Eigel A, Pollmann H, Horst J
+
+Hemophilia A is an X-linked bleeding disease caused by mutations in the coagulation factor VIII gene. The identification and characterization of pathogenic mutations allows the recognition of new mechanisms of functional disturbances of factor VIII. To screen for mutations exons 1-26 of the factor VIII gene have been amplified genomically and analyzed by SSCP followed by direct sequencing of respective exons showing abnormal electrophoretic mobility on SSCP analysis. In the present study we report the detection of four mutations in the factor VIII gene, of which three are novel. The mutational analysis of a patient with severe hemophilia A has revealed that the ac transversion at position 3 of the donor-splice-site of intron 23 results in the skipping of exon 23. A novel nonsense mutation Q1778X in exon 16 of factor VIII gene has been identified in a second hemophilia A case. Furthermore two missense mutations have been ascertained: a novel, S183R, causing a mild phenotype of hemophilia A and R282H, previously described in association with severe hemophilia A.

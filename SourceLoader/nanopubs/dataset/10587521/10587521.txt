@@ -1,0 +1,6 @@
+A nemaline myopathy mutation in alpha-tropomyosin causes defective regulation of striated muscle force production.
+
+Authors: 
+Michele DE, Albayya FP, Metzger JM
+
+Nemaline myopathy (NM) is a rare autosomal dominant skeletal muscle myopathy characterized by severe muscle weakness and the subsequent appearance of nemaline rods within the muscle fibers. Recently, a missense mutation inTPM3, which encodes the slow skeletal alpha-tropomyosin (alphaTm), was linked to NM in a large kindred with an autosomal-dominant, childhood-onset form of the disease. We used adenoviral gene transfer to fully differentiated rat adult myocytes in vitro to determine the effects of NM mutant human alphaTm expression on striated muscle sarcomeric structure and contractile function. The mutant alphaTm was expressed and incorporated correctly into sarcomeres of adult muscle cells. The primary defect caused by expression of the mutant alphaTm was a decrease in the sensitivity of contraction to activating Ca(2+), which could help explain the hypotonia seen in NM. Interestingly, NM mutant alphaTm expression did not directly result in nemaline rod formation, which suggests that rod formation is secondary to contractile dysfunction and that load-dependent processes are likely involved in nemaline rod formation in vivo.

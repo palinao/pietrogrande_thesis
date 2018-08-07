@@ -1,0 +1,8 @@
+{miriam-gene:27032 a ncit:C16612 .
+	
+	lld:C0085106 a ncit:C7057 .
+	
+	dgn-gda:DGNfd2e00cc87c335327dccbe9e0171f46e sio:SIO_000628 miriam-gene:27032 , lld:C0085106 ;
+		a sio:SIO_001122 .
+}
+

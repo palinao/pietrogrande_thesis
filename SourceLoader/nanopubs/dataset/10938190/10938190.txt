@@ -1,0 +1,6 @@
+A new de novo mutation of the connexin-32 gene in a patient with X-linked Charcot-Marie-Tooth type 1 disease.
+
+Authors: 
+Di Iorio G, Cappa V, Ciccodicola A, Sampaolo S, Ammendola A, Sanges G, Giugliano R, D'Urso M
+
+We report a 26-year-old Italian man with X-linked Charcot-Marie-Tooth (CMT) disease type 1 (CMT-X1) and a negative family history for neuromuscular diseases. Clinical and electrophysiological examinations of the patient's mother and siblings were normal. Molecular analysis by polymerase chain reaction--single-strand conformation polymorphism (PCR-SSCP) on genomic DNA from the patient and all members of his family revealed a C-to-T transition in codon 8 of exon 2 of the connexin-32 (Cx32) gene on the X chromosome only in the patient. This transition in the 5'-coding region, resulting in a Thr-Ile substitution, is likely to be the cause of CMT phenotype in our patient, and it represents a new de novo mutation of the Cx32 gene.

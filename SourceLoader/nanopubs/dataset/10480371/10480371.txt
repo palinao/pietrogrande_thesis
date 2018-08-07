@@ -1,0 +1,6 @@
+Identification of two novel mutations in OCTN2 of three patients with systemic carnitine deficiency.
+
+Authors: 
+Vaz FM, Scholte HR, Ruiter J, Hussaarts-Odijk LM, Pereira RR, Schweitzer S, de Klerk JB, Waterham HR, Wanders RJ
+
+Systemic carnitine deficiency is a potentially lethal, autosomal recessive disorder characterized by cardiomyopathy, myopathy, recurrent episodes of hypoketotic hypoglycemia, hyperammonemia, and failure to thrive. This form of carnitine deficiency is caused by a defect in the active cellular uptake of carnitine, and the gene encoding the high affinity carnitine transporter OCTN2 has recently been shown to be mutated in patients suffering from this disorder. Here, we report the underlying molecular defect in three unrelated patients. Two patients were homozygous for the same missense mutation 632A-->G, which changes the tyrosine at amino acid position 211 into a cysteine (Y211C). The third patient was homozygous for a nonsense mutation, 844C-->T, which converts the arginine at amino acid position 282 into a stop codon (R282X). Reintroduction of wild-type OCTN2 cDNA into fibroblasts of the three patients by transient transfection restored the cellular carnitine uptake, confirming that mutations in OCTN2 are the cause of systemic carnitine deficiency.

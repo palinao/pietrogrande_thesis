@@ -1,0 +1,6 @@
+Detection of mutations in the ALD gene (ABCD1) in seven Italian families: description of four novel mutations.
+
+Authors: 
+Lira MG, Mottes M, Pignatti PF, Medica I, Uziel G, Cappa M, Bertini E, Rizzuto N, Salviati A
+
+The study describes the mutations causing adrenoleukodystrophy in seven Italian families. Four missense mutations leading to amino acid substitutions, two frameshift mutations leading to a premature termination signal, and a splicing mutation were identified. Mutations 2014C>T (P543L), 2053A>G (Q556A), 673-674insCC, and 1874+1G>A are described for the first time in this report. Mutations 1638C>T (R418W), 1588G>A(R401Q), and 1801-1802delAG are already known to be link to ALD.

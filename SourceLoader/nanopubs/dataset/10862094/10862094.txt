@@ -1,0 +1,6 @@
+Survey of the coding region of the HERG gene in long QT syndrome reveals six novel mutations and an amino acid polymorphism with possible phenotypic effects.
+
+Authors: 
+Laitinen P, Fodstad H, Piippo K, Swan H, Toivonen L, Viitasalo M, Kaprio J, Kontula K
+
+Analysis of the entire coding region of the HERG gene of 39 Finnish LQTS patients revealed eight mutations, six of which are hitherto unreported. All these mutations are located in the evolutionarily conserved regions of HERG, including the transmembrane domains (P451L, Y569H, 1631delAG, G584S, G601S, T613M) and the cytoplasmic N-terminus (453delC, R176W) of the channel. Our present and earlier results suggest that the LQT2 subtype accounts for approximately 20-30% of LQTS cases in Finland. We also report the first common amino acid polymorphism (K897T) of the HERG channel, with allele frequencies of 0.84 and 0.16. Investigation of 170 genetically homogenous LQT1 patients suggests that this polymorphism may influence QT interval in female individuals.

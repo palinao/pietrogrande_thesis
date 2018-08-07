@@ -1,0 +1,6 @@
+Genetic heterogeneity of glycogen storage disease type Ia in France: a study of 48 patients.
+
+Authors: 
+Trioche P, Francoual J, Chalas J, Capel L, Lindenbaum A, Odièvre M, Labrune P
+
+Forty-eight patients with glycogen storage disease type Ia (GSD Ia) were studied. Using a combination of single-strand conformation polymorphism (SSCP) analysis, restriction enzyme digestion and direct sequencing, we were able to identify 93/96 mutant alleles, comprising 23 different mutations in the glucose-6-phosphatase gene (G6PC). Among these, 7 are novel mutations of G6PC: M5R, T111I, A241T, C270R, F322L, and two deletions, 793delG and 872delC, resulting in the same mutation at the amino acid level, fs300Ter (300X).

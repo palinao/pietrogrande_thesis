@@ -1,0 +1,8 @@
+{miriam-gene:9997 a ncit:C16612 .
+	
+	lld:C1858424 a ncit:C7057 .
+	
+	dgn-gda:DGN1fd7ff752ac1143eba5b8a63080db9c0 sio:SIO_000628 miriam-gene:9997 , lld:C1858424 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,8 @@
+{miriam-gene:7428 a ncit:C16612 .
+	
+	lld:C0019562 a ncit:C7057 .
+	
+	dgn-gda:DGN51b8b1680eaffad17e70b0f8aa42d077 sio:SIO_000628 miriam-gene:7428 , lld:C0019562 ;
+		a sio:SIO_001122 .
+}
+

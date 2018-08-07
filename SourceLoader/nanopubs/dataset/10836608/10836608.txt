@@ -1,0 +1,6 @@
+A de novo glycine substitution mutation in the collagenous domain of COL7A1 in dominant dystrophic epidermolysis bullosa.
+
+Authors: 
+Lee JY, Li C, Chao SC, Pulkkinen L, Uitto J
+
+Dystrophic epidermolysis bullosa (DEB) is a hereditary mechanobullous disorder characterized by fragility of the skin and mucous membrane due to abnormalities of anchoring fibrils. Both dominant and recessive DEB have been shown to be caused by mutations in COL7A1, the gene encoding type VII collagen which is the major component of anchoring fibrils. De novo mutation in dominant DEB is rare. In this study, we report a novel de novo glycine substitution mutation in COL7A1 in a Chinese female patient presenting with mild DEB. In search of the mutation, we scanned the entire COL7A1 using polymerase chain reaction (PCR) amplification of all exons of COL7A1, followed by heteroduplex analysis and direct sequencing of the PCR products that exhibited heteroduplex pattern. A G-to-A transition at nucleotide position 6082 within exon 73 of COL7Al was detected. The mutation converted a glycine to an arginine (G2028R) within the triple-helical domain of type VII collagen. It was confirmed that the mutation was present only in the proband. Haplotype analyses suggested that the case arose as a de novo occurrence of autosomal dominant DEB.

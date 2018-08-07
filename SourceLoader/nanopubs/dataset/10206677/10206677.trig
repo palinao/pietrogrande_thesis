@@ -1,0 +1,8 @@
+{miriam-gene:686 a ncit:C16612 .
+	
+	lld:C0220754 a ncit:C7057 .
+	
+	dgn-gda:DGN98bdca4fa40516752124f594316444e8 sio:SIO_000628 miriam-gene:686 , lld:C0220754 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,4 @@
+T0	GENE 6 13	insulin
+N0	Reference T0 :::GENE	insulin
+T1	GENE 117 128	tau protein
+N1	Reference T1 :::GENE	tau protein

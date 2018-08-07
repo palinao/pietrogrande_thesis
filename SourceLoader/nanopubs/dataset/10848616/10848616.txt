@@ -1,0 +1,6 @@
+Orphan receptor DAX-1 is a shuttling RNA binding protein associated with polyribosomes via mRNA.
+
+Authors: 
+Lalli E, Ohe K, Hindelang C, Sassone-Corsi P
+
+The DAX-1 (NR0B1) gene encodes an unusual member of the nuclear hormone receptor superfamily which acts as a transcriptional repressor. Mutations in the human DAX-1 gene cause X-linked adrenal hypoplasia congenita (AHC) associated with hypogonadotropic hypogonadism (HHG). We have studied the intracellular localization of the DAX-1 protein in human adrenal cortex and mouse Leydig tumor cells and found it to be both nuclear and cytoplasmic. A significant proportion of DAX-1 is associated with polyribosomes and is found complexed with polyadenylated RNA. DAX-1 directly binds to RNA, two domains within the protein being responsible for cooperative binding activity and specificity. Mutations in DAX-1 found in AHC-HHG patients significantly impair RNA binding. These findings reveal that DAX-1 plays multiple regulatory roles at the transcriptional and posttranscriptional levels.

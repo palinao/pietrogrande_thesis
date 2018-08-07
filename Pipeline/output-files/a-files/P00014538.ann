@@ -1,0 +1,4 @@
+T0	GENE 0 14	Hepatic lipase
+N0	Reference T0 :::GENE	Hepatic lipase
+T1	GENE 166 173	insulin
+N1	Reference T1 :::GENE	insulin

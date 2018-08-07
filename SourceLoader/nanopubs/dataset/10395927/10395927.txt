@@ -1,0 +1,6 @@
+Interferon regulatory factor 1 tryptophan 11 to arginine point mutation abolishes DNA binding.
+
+Authors: 
+Eason DD, Shepherd AT, Blanck G
+
+Interferon regulatory factor-1 (IRF-1) is a transcriptional activator of genes induced by a variety of cytokines and growth factors. Defects in IRF-1 occur frequently in human cancers and may contribute to tumorigenesis. The IRF family of transcription factors share invariant tryptophan residues that have been proposed to function by orienting the DNA contacting residues of IRF-1 with the DNA core sequence of the IRF element. Here we describe a point mutation in IRF-1 that converts the tryptophan at codon 11 to arginine (W11R). The IRF-1 (W11R) mutation abolishes IRF-1 DNA binding and transactivating activities demonstrating the critical role of this invariant tryptophan in IRF-1 function.

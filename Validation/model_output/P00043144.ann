@@ -1,0 +1,4 @@
+T0	GENE 0 10	Huntingtin
+N0	Reference T0 :::GENE	Huntingtin
+T1	GENE 45 52	calpain
+N1	Reference T1 :::GENE	calpain

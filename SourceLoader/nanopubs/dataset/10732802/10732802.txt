@@ -1,0 +1,6 @@
+Identification of a novel missense mutation of the SMN(T) gene in two siblings with spinal muscular atrophy.
+
+Authors: 
+Wang CH, Papendick BD, Bruinsma P, Day JK
+
+Spinal muscular atrophy (SMA) is a motor neuron disease caused by mutations in the telomeric copy of the survival motor neuron (SMN(T)) gene. Over 90% of SMA patients harbor a deletion of SMN(T), but relatively few base-pair mutations have been reported. We report here a novel G279C mutation with a G to T transversion on exon 7 (nucleotide position 868) of SMN(T). Another missense mutation has been reported recently on position 869. The fact that two mutations on the same codon both result in SMA suggest a functional significance of this amino acid within the SMN protein.

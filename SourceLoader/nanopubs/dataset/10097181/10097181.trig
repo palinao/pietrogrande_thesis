@@ -1,0 +1,8 @@
+{miriam-gene:6261 a ncit:C16612 .
+	
+	lld:C0751951 a ncit:C7057 .
+	
+	dgn-gda:DGNb76c8b724c47ea05f601710f7320877c sio:SIO_000628 miriam-gene:6261 , lld:C0751951 ;
+		a sio:SIO_001122 .
+}
+

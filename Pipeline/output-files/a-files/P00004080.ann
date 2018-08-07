@@ -1,0 +1,6 @@
+T0	GENE 48 58	keratin 2e
+N0	Reference T0 :::GENE	keratin 2e
+T1	GENE 60 63	K2e
+N1	Reference T1 :::GENE	K2e
+T2	GENE 182 185	K2e
+N2	Reference T2 :::GENE	K2e

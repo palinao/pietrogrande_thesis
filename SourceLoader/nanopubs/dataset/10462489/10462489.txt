@@ -1,0 +1,6 @@
+Structural analysis of the titin gene in hypertrophic cardiomyopathy: identification of a novel disease gene.
+
+Authors: 
+Satoh M, Takahashi M, Sakamoto T, Hiroe M, Marumo F, Kimura A
+
+Hypertrophic cardiomyopathy (HCM) is characterized by ventricular hypertrophy accompanied by myofibrillar disarrays. Molecular genetic analyses have revealed that mutations in 8 different genes cause HCM. Mutations in these disease genes, however, could be found in about half of HCM patients, suggesting that there are other unknown disease gene(s). Because the known disease genes encode sarcomeric proteins expressed in the cardiac muscle, we searched for a disease-associated mutation in the titin gene in 82 HCM patients who had no mutation in the known disease genes. A G to T transversion in codon 740, from CGC to CTC, replacing Arginine with Leucine was found in a patient. This mutation was not found in more than 500 normal chromosomes and increased the binding affinity of titin to alpha-actitin in the yeast two-hybrid assay. These observations suggest that the titin mutation may cause HCM in this patient via altered affinity to alpha-actinin.

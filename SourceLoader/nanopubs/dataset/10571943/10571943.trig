@@ -1,0 +1,8 @@
+{miriam-gene:7490 a ncit:C16612 .
+	
+	lld:C0950122 a ncit:C7057 .
+	
+	dgn-gda:DGN1e0d6696a40b8d689a6f2864d22f9c8d sio:SIO_000628 miriam-gene:7490 , lld:C0950122 ;
+		a sio:SIO_001122 .
+}
+

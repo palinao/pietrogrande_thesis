@@ -1,0 +1,8 @@
+{miriam-gene:1287 a ncit:C16612 .
+	
+	lld:C1567742 a ncit:C7057 .
+	
+	dgn-gda:DGNd3c148e71b05c790d6d5ad725720f616 sio:SIO_000628 miriam-gene:1287 , lld:C1567742 ;
+		a sio:SIO_001122 .
+}
+

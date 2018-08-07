@@ -1,0 +1,4 @@
+T0	GENE 8 28	arginine vasopressin
+N0	Reference T0 :::GENE	arginine vasopressin
+T1	GENE 79 95	neurohypophyseal
+N1	Reference T1 :::GENE	neurohypophyseal

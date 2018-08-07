@@ -1,0 +1,6 @@
+Hot spot mutations in keratin 2e suggest a correlation between genotype and phenotype in patients with ichthyosis bullosa of Siemens.
+
+Authors: 
+Suga Y, Arin MJ, Scott G, Goldsmith LA, Magro CM, Baden LA, Baden HP, Roop DR
+
+Ichthyosis bullosa of Siemens (IBS) is a rare disorder of cornification characterized by blister formation in the upper suprabasal layers of the epidermis. Molecular analysis of IBS has identified mutations in the keratin 2e (K2e) gene, which is located in the type II keratin gene cluster on chromosome 12q. We have studied two IBS families and have identified heterozygous point mutations in codon 493 of the K2e gene in both families. Whereas a non-conservative amino acid substitution at position 117 of the 2B region of K2e (E117K) was associated with a severe phenotype in family 1, family 2 showed mild clinical features as a result of a conservative substitution (E117D). These data suggest a phenotype-genotype correlation in these families.

@@ -1,0 +1,6 @@
+T0	GENE 56 78	glycyl-tRNA synthetase
+N0	Reference T0 :::GENE	glycyl-tRNA synthetase
+T1	GENE 120 124	GARS
+N1	Reference T1 :::GENE	GARS
+T2	GENE 154 180	aminoacyl-tRNA synthetases
+N2	Reference T2 :::GENE	aminoacyl-tRNA synthetases

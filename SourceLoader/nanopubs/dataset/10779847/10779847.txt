@@ -1,0 +1,6 @@
+Identification of a novel mutation in the paired domain of PAX3 in an Iranian family with waardenburg syndrome type I.
+
+Authors: 
+Sotirova VN, Rezaie TM, Khoshsorour MM, Sarfarazi M
+
+Waardenburg syndrome Type I (WS1) is an autosomal dominant disorder that has previously been associated with mutations in the PAX3 gene on the 2q35 region. In this study, we used an Iranian WS1 family with seven affected individuals in three generations. The phenotypic characteristics of the family include sensorineural deafness, dystopia canthorum, hypopigmented skin patches of the upper limbs, congenital white forelock, confluent white eyebrows, nonpigmented iris, poliosis, and hypopigmentation of the retina. Herein, we report a previously unidentified single-base substitution in exon II (C-->T at position 218) that results in a change of serine to leucine (S73L) in this family. This change was not observed in 100 chromosomes of healthy unrelated individuals. This mutation is within the PAX3 paired domain region, a structure that is highly conserved and implicated in DNA binding. This is the first identification of a PAX3 mutation for this phenotype in the Iranian population. This also provides additional confirmation for the involvement of this gene in the etiology of WS1.

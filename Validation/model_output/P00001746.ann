@@ -1,0 +1,4 @@
+T0	GENE 161 172	lipoprotein
+N0	Reference T0 :::GENE	lipoprotein
+T1	GENE 201 205	LRP5
+N1	Reference T1 :::GENE	LRP5

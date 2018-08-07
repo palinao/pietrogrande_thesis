@@ -1,0 +1,4 @@
+T0	GENE 28 31	APC
+N0	Reference T0 :::GENE	APC
+T1	GENE 33 59	adenomatous polyposis coli
+N1	Reference T1 :::GENE	adenomatous polyposis coli

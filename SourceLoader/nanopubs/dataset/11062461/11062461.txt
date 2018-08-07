@@ -1,0 +1,6 @@
+Mutations in MERTK, the human orthologue of the RCS rat retinal dystrophy gene, cause retinitis pigmentosa.
+
+Authors: 
+Gal A, Li Y, Thompson DA, Weir J, Orth U, Jacobson SG, Apfelstedt-Sylla E, Vollrath D
+
+Mutation of a receptor tyrosine kinase gene, Mertk, in the Royal College of Surgeons (RCS) rat results in defective phagocytosis of photoreceptor outer segments by the retinal pigment epithelium (RPE) and retinal degeneration. We screened the human orthologue, MERTK, located at 2q14.1 (ref. 10), in 328 DNA samples from individuals with various retinal dystrophies and found three mutations in three individuals with retinitis pigmentosa (RP). Our findings are the first conclusive evidence implicating the RPE phagocytosis pathway in human retinal disease.

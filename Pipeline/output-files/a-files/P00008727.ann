@@ -1,0 +1,4 @@
+T0	GENE 24 50	von Willebrand factor gene
+N0	Reference T0 :::GENE	von Willebrand factor gene
+T1	GENE 52 55	VWF
+N1	Reference T1 :::GENE	VWF

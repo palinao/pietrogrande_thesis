@@ -1,0 +1,4 @@
+T0	GENE 70 81	factor VIII
+N0	Reference T0 :::GENE	factor VIII
+T1	GENE 83 88	FVIII
+N1	Reference T1 :::GENE	FVIII

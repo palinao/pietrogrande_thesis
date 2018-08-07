@@ -1,0 +1,8 @@
+{miriam-gene:7345 a ncit:C16612 .
+	
+	lld:C3150899 a ncit:C7057 .
+	
+	dgn-gda:DGN9a40c4192f84e452c8c7bc40e6b8bdaf sio:SIO_000628 miriam-gene:7345 , lld:C3150899 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,6 @@
+Tietz syndrome (hypopigmentation/deafness) caused by mutation of MITF.
+
+Authors: 
+Smith SD, Kelley PM, Kenyon JB, Hoover D
+
+Patients with Tietz syndrome have congenital profound deafness and generalised hypopigmentation, inherited in a fully penetrant autosomal dominant fashion. The pigmentary features and complete penetrance make this syndrome distinct among syndromes with pigmentary anomalies and deafness, which characteristically have patchy depigmentation and variable penetrance. Only one family has been reported with the exact features described in the original report of this syndrome. This family was reascertained and a missense mutation was found in the basic region of the MITF gene in family members with Tietz syndrome. Mutations in other regions of this gene have been found to produce Waardenburg syndrome type 2 (WS2), which also includes pigmentary changes and hearing loss, but in contrast to Tietz syndrome, depigmentation is patchy and hearing loss is variable in WS2.

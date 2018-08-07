@@ -1,0 +1,6 @@
+X-linked adrenomyeloneuropathy associated with 14 novel ALD-gene mutations: no correlation between type of mutation and age of onset.
+
+Authors: 
+Wichers M, Köhler W, Brennemann W, Boese V, Sokolowski P, Bidlingmaier F, Ludwig M
+
+Adrenomyeloneuropathy (AMN) represents a milder form of X-linked adrenoleukodystrophy (ALD), the most frequent peroxisomal disorder. The disease is characterised by an abnormal accumulation of saturated, very long chain, fatty acids, because of altered peroxisomal beta-oxidation that concomitantly leads to demyelination in the central and peripheral nervous systems. ALD shows a highly variable phenotypic expression and extensive mutation analysis in ALD patients has failed to establish a genotype-phenotype correlation, even in the presence of the same ALD-gene defect. Therefore, we have looked for a relationship between the molecular lesion and the age of onset in 19 patients with a well-classified clinical course of AMN. The nearly complete novel spectrum of ALD gene mutations identified has revealed no obvious correlation between the type of mutation and age of AMN onset in this small series. However, intrafamiliar concordance could be observed with respect to the occurrence of adrenocortical insufficiency. This supports the idea of one (or more) additional gene(s) contributing to the phenotypic expression of ALD.

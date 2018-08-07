@@ -1,0 +1,6 @@
+Molecular analysis of 9 new families with chronic granulomatous disease caused by mutations in CYBA, the gene encoding p22(phox).
+
+Authors: 
+Rae J, Noack D, Heyworth PG, Ellis BA, Curnutte JT, Cross AR
+
+Chronic granulomatous disease is a rare inherited disorder caused by nonexistent or severely decreased phagocyte superoxide production that results in a severe defect in host defense and consequent predisposition to microbial infection. The enzyme responsible for generating the superoxide, NADPH oxidase, involves at least 5 protein components. The absence of, or a defect in, any 1 of 4 of these proteins (p22(phox), p47(phox), p67(phox), or gp91(phox)) gives rise to the known types of chronic granulomatous disease. One of the rarest forms of the disease is due to defects in the CYBA gene encoding p22(phox), which together with gp91(phox) forms flavocytochrome b(558), the catalytic core of NADPH oxidase. To date, only 9 kindreds with p22(phox) deficiency have been described in the literature comprising 10 mutant alleles. Four polymorphisms in the CYBA gene have also been reported. Here we describe 9 new, unrelated kindreds containing 12 mutations, 9 of which are novel. In addition, we report 3 new polymorphisms. The novel mutations are (a) deletion of exons 2 and 3, (b) a missense mutation in exon 3 (T155-->C),

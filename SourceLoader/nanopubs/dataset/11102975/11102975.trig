@@ -1,0 +1,24 @@
+{miriam-gene:270 a ncit:C16612 .
+	
+	lld:C3714933 a ncit:C7057 .
+	
+	dgn-gda:DGN8e30535f0e903b4495fd1476e50671fa sio:SIO_000628 miriam-gene:270 , lld:C3714933 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:270 a ncit:C16612 .
+	
+	lld:C0026848 a ncit:C7057 .
+	
+	dgn-gda:DGN198a433dae6b0cc7273acd2164bed31d sio:SIO_000628 miriam-gene:270 , lld:C0026848 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:270 a ncit:C16612 .
+	
+	lld:C2931781 a ncit:C7057 .
+	
+	dgn-gda:DGN0bb337f1f7a3b3cd3705986117131294 sio:SIO_000628 miriam-gene:270 , lld:C2931781 ;
+		a sio:SIO_001121 .
+}
+

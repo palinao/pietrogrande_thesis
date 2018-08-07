@@ -1,0 +1,1 @@
+The strongest association with DN as a primary phenotype was seen for an intronic SNP in the ERBB4 gene (rs7588550, P = 2.1 × 10(-7)), a gene with type 2 diabetes DN differential expression and in the same intron as a variant with cis-eQTL expression of ERBB4

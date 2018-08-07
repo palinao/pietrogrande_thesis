@@ -1,0 +1,6 @@
+Mutations in the 4-hydroxyphenylpyruvate dioxygenase gene (HPD) in patients with tyrosinemia type III.
+
+Authors: 
+Rüetschi U, Cerone R, Pérez-Cerda C, Schiaffino MC, Standing S, Ugarte M, Holme E
+
+Tyrosinemia type III (OMIM 276710) is an autosomal recessive disorder caused by the deficiency of 4-hydroxyphenylpyruvate dioxygenase (HPD), the second enzyme in the tyrosine catabolic pathway. The enzyme deficiency results in an accumulation and increased excretion of tyrosine and phenolic metabolites. Only a few cases with the disorder have been described, and the clinical spectrum of the disorder is unknown. Reported patients have presented with mental retardation or neurological symptoms or have been picked up by neonatal screening. We have identified four presumed pathogenic mutations (two missense and two nonsense mutations) in the HPD gene in three unrelated families encompassing four homozygous individuals and one compound heterozygous individual with tyrosinemia type III. Furthermore, a number of polymorphic mutations have been identified in the HPD gene. No correlation of the severity of the mutation and enzyme deficiency and mental function has been found; neither do the recorded tyrosine levels correlate with the clinical phenotype.

@@ -1,0 +1,4 @@
+T0	GENE 124 132	tenascin
+N0	Reference T0 :::GENE	tenascin
+T1	GENE 171 175	CD44
+N1	Reference T1 :::GENE	CD44

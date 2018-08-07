@@ -1,0 +1,6 @@
+The spectrum of somatic mutations in the PIG-A gene in paroxysmal nocturnal hemoglobinuria includes large deletions and small duplications.
+
+Authors: 
+Nafa K, Bessler M, Castro-Malaspina H, Jhanwar S, Luzzatto L
+
+Paroxysmal nocturnal hemoglobinuria (PNH) is an acquired clonal blood disorder characterized by chronic hemolysis with hemoglobinuria and venous thrombosis. PNH clones arise through somatic mutations in the X-linked PIG-A gene that occur in early hematopoietic stem cells. Here we report 28 previously undescribed mutations; we confirm that somatic mutations are spread throughout the entire coding region of the PIG-A gene and that the majority are frameshift mutations producing a non-functional PIG-A protein (PIG-A(o)). In addition, we found 1 total deletion of the PIG-A gene, and 2 short nucleotide duplications. Although mutations are spread throughout the entire coding region, we observe more missense mutations in exon 2 than in the other exons. The increasing number of identified missense PIG-A mutations should help elucidate structure-function relationships in the PIG-A protein.

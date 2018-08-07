@@ -1,0 +1,6 @@
+A novel mutation (D305V) in the early growth response 2 gene is associated with severe Charcot-Marie-Tooth type 1 disease.
+
+Authors: 
+Bellone E, Di Maria E, Soriani S, Varese A, Doria LL, Ajmar F, Mandich P
+
+Hereditary motor and sensory neuropathies (HMSN) comprises a wide clinical spectrum of related disorders with defects in peripheral nerve myelination. Charcot-Marie-Tooth type 1 (CMT1) is the most common form and is usually a mild disease with onset in the first or second decade; however there is a interfamilial and intrafamilial clinical variation, ranging from asymptomatic expression to severe muscular weakness and atrophy. Recently point mutations in the early growth response 2 gene (EGR2/Krox-20) have been associated with hereditary myelinopathies. We investigated for mutations at the EGR2 gene a patient with severe CMT1 phenotype. Direct sequencing of EGR2 gene showed a heterozygous A T transversion at nucleotide 1064 that predicts an Asp305Val substitution within the first zinc-finger domain. The finding of a novel EGR2 mutation associated with a different phenotype confirms that peripheral neuropathies represent a continuum spectrum of related disorders due to an underlying defect in myelination.

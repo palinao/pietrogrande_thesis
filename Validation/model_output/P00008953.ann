@@ -1,0 +1,4 @@
+T0	GENE 6 39	glucose-6-phosphate dehydrogenase
+N0	Reference T0 :::GENE	glucose-6-phosphate dehydrogenase
+T1	GENE 49 53	G6PD
+N1	Reference T1 :::GENE	G6PD

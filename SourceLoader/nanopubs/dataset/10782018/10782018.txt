@@ -1,0 +1,6 @@
+Identification of a prevalent nonsense mutation (W283X) and two novel mutations in the porphobilinogen deaminase gene of Swiss patients with acute intermittent porphyria.
+
+Authors: 
+Schneider-Yin X, Bogard C, Rüfenacht UB, Puy H, Nordmann Y, Minder EI, Deybach J
+
+Acute intermittent porphyria (AIP) is an autosomal dominant disorder caused by decreased activity of porphobilinogen deaminase (PBGD), the third enzyme in the heme biosynthetic pathway. We report the first molecular analysis of PBGD gene mutations in AIP patients of Swiss origin. The PBGD gene of 18 Swiss AIP patients was analyzed by denaturing gradient gel electrophoresis screening of the genomic DNA and direct sequencing. Thirteen of the 18 patients (72%) carried a nonsense mutation G(849)-->A, W283X. In addition, 4 different mutations including 2 novel mutations (Q217L and Q292X), were identified in the 5 remaining AIP patients originating from both German- and Italian-speaking regions of Switzerland.

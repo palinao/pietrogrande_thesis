@@ -1,0 +1,4 @@
+T0	GENE 0 30	Cardiac ankyrin repeat protein
+N0	Reference T0 :::GENE	Cardiac ankyrin repeat protein
+T1	GENE 83 86	CAT
+N1	Reference T1 :::GENE	CAT

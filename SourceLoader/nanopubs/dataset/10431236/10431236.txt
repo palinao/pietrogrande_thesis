@@ -1,0 +1,6 @@
+Mutations in ABC1 in Tangier disease and familial high-density lipoprotein deficiency.
+
+Authors: 
+Brooks-Wilson A, Marcil M, Clee SM, Zhang LH, Roomp K, van Dam M, Yu L, Brewer C, Collins JA, Molhuizen HO, Loubser O, Ouelette BF, Fichter K, Ashbourne-Excoffon KJ, Sensen CW, Scherer S, Mott S, Denis M, Martindale D, Frohlich J, Morgan K, Koop B, Pimstone S, Kastelein JJ, Genest J Jr, Hayden MR
+
+Genes have a major role in the control of high-density lipoprotein (HDL) cholesterol (HDL-C) levels. Here we have identified two Tangier disease (TD) families, confirmed 9q31 linkage and refined the disease locus to a limited genomic region containing the gene encoding the ATP-binding cassette transporter (ABC1). Familial HDL deficiency (FHA) is a more frequent cause of low HDL levels. On the basis of independent linkage and meiotic recombinants, we localized the FHA locus to the same genomic region as the TD locus. Mutations in ABC1 were detected in both TD and FHA, indicating that TD and FHA are allelic. This indicates that the protein encoded by ABC1 is a key gatekeeper influencing intracellular cholesterol transport, hence we have named it cholesterol efflux regulatory protein (CERP).

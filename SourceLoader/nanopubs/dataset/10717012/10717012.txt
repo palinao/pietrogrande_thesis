@@ -1,0 +1,6 @@
+Desmin myopathy, a skeletal myopathy with cardiomyopathy caused by mutations in the desmin gene.
+
+Authors: 
+Dalakas MC, Park KY, Semino-Mora C, Lee HS, Sivakumar K, Goldfarb LG
+
+Myofibrillar myopathies, often referred to as desmin-related myopathies, are a heterogeneous group of inherited or sporadic distal-onset skeletal myopathies associated with cardiomyopathy. Among the myofibrillar proteins that characteristically accumulate within the muscle fibers of affected patients, the one found most consistently is desmin, a muscle-specific intermediate-filament protein responsible for the structural integrity of the myofibrils. Skeletal and cardiac myopathy develops in mice that lack desmin, suggesting that mutations in the desmin gene may be pathogenic.

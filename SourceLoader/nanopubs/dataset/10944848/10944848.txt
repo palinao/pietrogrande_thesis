@@ -1,0 +1,6 @@
+Structural and functional study of K453E mutant protective protein/cathepsin A causing the late infantile form of galactosialidosis.
+
+Authors: 
+Takiguchi K, Itoh K, Shimmoto M, Ozand PT, Doi H, Sakuraba H
+
+To clarify the molecular basis of the late infantile form of galactosialidosis, we characterized a defective protective protein/cathepsin A (PPCA) gene product with the K453E mutation newly found in an Arabic patient with this disease. Immunocytochemical, expression, and metabolic studies revealed that the precursor PPCA was synthesized but not processed to the mature form, and it was degraded in the mutant. A structural model of the mutant PPCA was constructed by amino acid substitution of 453glutamic acid for lysine in the crystal structure of the wild type PPCA precursor reported. The results show that the K453E mutation is located at the dimer interface of the PPCA and reduces the hydrogen bond formation in the dimer. This structural change may cause instability of the PPCA dimer.

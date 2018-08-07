@@ -1,0 +1,6 @@
+T0	GENE 41 76	methylenetetrahydrofolate reductase
+N0	Reference T0 :::GENE	methylenetetrahydrofolate reductase
+T1	GENE 78 83	MTHFR
+N1	Reference T1 :::GENE	MTHFR
+T2	GENE 134 139	MTHFR
+N2	Reference T2 :::GENE	MTHFR

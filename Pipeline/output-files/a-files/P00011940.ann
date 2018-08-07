@@ -1,0 +1,4 @@
+T0	GENE 55 63	morphine
+N0	Reference T0 :::GENE	morphine
+T1	GENE 67 88	histamine H1 receptor
+N1	Reference T1 :::GENE	histamine H1 receptor

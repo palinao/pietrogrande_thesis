@@ -1,0 +1,4 @@
+T0	GENE 45 68	giant axonal neuropathy
+N0	Reference T0 :::GENE	giant axonal neuropathy
+T1	GENE 70 73	GAN
+N1	Reference T1 :::GENE	GAN

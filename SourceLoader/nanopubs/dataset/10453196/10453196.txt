@@ -1,0 +1,6 @@
+Molecular analysis and diagnosis in Japanese patients with Wilson's disease.
+
+Authors: 
+Shimizu N, Nakazono H, Takeshita Y, Ikeda C, Fujii H, Watanabe A, Yamaguchi Y, Hemmi H, Shimatake H, Aoki T
+
+Wilson's disease is characterized by the toxic accumulation of copper in the liver, brain, cornea and other organs. It is caused by both impaired excretion via the bile and impaired incorporation of copper into ceruloplasmin in the liver. The Wilson's disease gene (ATP7B) has been cloned as a putative copper-transporting P-type ATPase gene. We therefore analysed mutations of ATP7B in Japanese patients with Wilson's disease.

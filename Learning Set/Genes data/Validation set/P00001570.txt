@@ -1,0 +1,1 @@
+We have trialled denaturing high-performance liquid chromatography (dHPLC) as a tool for rapid germline mutation scanning of genes implicated in three familial cancer syndromes -- Cowden syndrome (PTEN mutation), multiple endocrine neoplasia type 2 (RET mutation) and von Hippel-Lindau disease (VHL mutation)

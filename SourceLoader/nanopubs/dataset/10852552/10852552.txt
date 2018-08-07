@@ -1,0 +1,6 @@
+A novel mutation of KCNQ3 (c.925T-->C) in a Japanese family with benign familial neonatal convulsions.
+
+Authors: 
+Hirose S, Zenri F, Akiyoshi H, Fukuma G, Iwata H, Inoue T, Yonetani M, Tsutsumi M, Muranaka H, Kurokawa T, Hanai T, Wada K, Kaneko S, Mitsudome A
+
+At present, only one mutation of KCNQ3, a KCNQ potassium channel gene, has been identified as a cause of benign familial neonatal convulsions type 2 (BFNC2). We found a T to C substitution (c.925T-C) on one allele of affected individuals in a Japanese family with BFNC but not on 200 alleles from healthy subjects. c.925T-->C replaced Trp309, a conserved residue within the P-loop of the KCNQ potassium channel family that holds the channel pore open, with an Arg (W309R). We report c.925T-->C as the second mutation of KCNQ3 responsible for BFNC2.

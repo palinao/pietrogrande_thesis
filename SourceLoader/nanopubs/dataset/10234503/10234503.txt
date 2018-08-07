@@ -1,0 +1,6 @@
+Mutational analysis of PAX6: 16 novel mutations including 5 missense mutations with a mild aniridia phenotype.
+
+Authors: 
+Grønskov K, Rosenberg T, Sand A, Brøndum-Nielsen K
+
+Mutations in the developmental control gene PAX6 have been shown to be the genetic cause of aniridia, which is a severe panocular eye disease characterised by iris hypoplasia. The inheritance is autosomal dominant with high penetrance but variable expressivity. Here we describe a mutational analysis of 27 Danish patients using a dideoxy fingerprinting method, which identified PAX6 mutations in 18 individuals with aniridia. A thorough phenotype description was made for the 18 patients. A total of 19 mutations, of which 16 were novel, are described. Among these were five missense mutations which tended to be associated with a milder aniridia phenotype, and in fact one of them seemed to be non-penetrant. Four of the five missense mutations were located in the paired domain. We also describe a third alternative spliced PAX6 isoform in which two of the four missense mutations would be spliced out. Our observations support the concept of dosage effects of PAX6 mutations as well as presenting evidence for variable expressivity and gonadal mosaicism.

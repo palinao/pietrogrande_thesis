@@ -1,0 +1,16 @@
+{miriam-gene:158 a ncit:C16612 .
+	
+	lld:C0268126 a ncit:C7057 .
+	
+	dgn-gda:DGN0a1edb889dcca3855d5cc57c27b0f2be sio:SIO_000628 miriam-gene:158 , lld:C0268126 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:158 a ncit:C16612 .
+	
+	lld:C0268126 a ncit:C7057 .
+	
+	dgn-gda:DGN689a9875dd1454a6fff669de77786b1d sio:SIO_000628 miriam-gene:158 , lld:C0268126 ;
+		a sio:SIO_001121 .
+}
+

@@ -1,0 +1,6 @@
+Defective copper-induced trafficking and localization of the Menkes protein in patients with mild and copper-treated classical Menkes disease.
+
+Authors: 
+Ambrosini L, Mercer JF
+
+Menkes disease is an X-linked disorder of copper metabolism. An overall copper deficiency reduces the activity of copper-dependent enzymes accounting for the clinical presentation of affected individuals. The Menkes gene product (MNK) is a P-type ATPase and is considered to be the main copper efflux protein in most cells. The protein is located primarily at the trans -Golgi network (TGN), but relocalizes to the plasma membrane in elevated copper conditions to expel the excess copper from the cell. Here we report the first missense mutation which causes mild Menkes disease, a mutation in a successfully copper-treated classical Menkes patient and the effect of each mutation on the localization of MNK within the cell. Using western blot analysis, MNK was detectable in cells from both patients, but appeared to be mislocalized in the treated case. In the mild Menkes patient, the protein appeared to be located in the TGN but failed to redistribute towards the cell periphery in response to copper. This is the first description of a mutation in a Menkes patient which affects the trafficking of MNK, and the loss of this process is consistent with the clinical phenotype.

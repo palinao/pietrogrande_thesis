@@ -1,0 +1,8 @@
+{miriam-gene:1959 a ncit:C16612 .
+	
+	lld:C1843247 a ncit:C7057 .
+	
+	dgn-gda:DGN2a6e49e94f901cd5a9d30ae5bdd58b84 sio:SIO_000628 miriam-gene:1959 , lld:C1843247 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,8 @@
+{miriam-gene:1674 a ncit:C16612 .
+	
+	lld:C1832370 a ncit:C7057 .
+	
+	dgn-gda:DGN5c2df37fbfbe6865ba65241eec5a026f sio:SIO_000628 miriam-gene:1674 , lld:C1832370 ;
+		a sio:SIO_001122 .
+}
+

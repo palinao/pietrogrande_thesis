@@ -1,0 +1,6 @@
+Mutation analysis of the GLUT2 gene in patients with Fanconi-Bickel syndrome.
+
+Authors: 
+Sakamoto O, Ogawa E, Ohura T, Igarashi Y, Matsubara Y, Narisawa K, Iinuma K
+
+Fanconi-Bickel syndrome (FBS) is an autosomal recessive disorder manifesting hepatorenal glycogen accumulation, Fanconi nephropathy, and impaired utilization of glucose and galactose. Several mutations in a gene encoding a glucose transporter, GLUT2, have recently been reported in patients with FBS. We performed molecular analysis on three Japanese patients and found four novel mutations: a splice-site mutation (IVS2-2A>G), a nonsense mutation (Q287X), and two missense mutations (L389P and V423E). Heterozygotes of L389P or V423E mutation from the patients' families showed renal glucosuria. These data suggested that GLUT2 gene defects may be a cause of renal glucosuria.

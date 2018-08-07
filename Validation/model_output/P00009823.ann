@@ -1,0 +1,4 @@
+T0	GENE 12 15	SRY
+N0	Reference T0 :::GENE	SRY
+T1	GENE 105 108	SRY
+N1	Reference T1 :::GENE	SRY

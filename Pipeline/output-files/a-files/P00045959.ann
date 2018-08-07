@@ -1,0 +1,4 @@
+T0	GENE 123 126	VIP
+N0	Reference T0 :::GENE	VIP
+T1	GENE 166 174	S100beta
+N1	Reference T1 :::GENE	S100beta

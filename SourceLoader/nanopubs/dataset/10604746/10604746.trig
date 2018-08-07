@@ -1,0 +1,24 @@
+{miriam-gene:4137 a ncit:C16612 .
+	
+	lld:C0236642 a ncit:C7057 .
+	
+	dgn-gda:DGNd34dfea9f5e97bda18d8d2c7ce1c703b sio:SIO_000628 miriam-gene:4137 , lld:C0236642 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:4137 a ncit:C16612 .
+	
+	lld:C0949664 a ncit:C7057 .
+	
+	dgn-gda:DGNbe0061de79e655b7d7ddcb0fc7f53a7b sio:SIO_000628 miriam-gene:4137 , lld:C0949664 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:4137 a ncit:C16612 .
+	
+	lld:C0236642 a ncit:C7057 .
+	
+	dgn-gda:DGN3fd93c0f5b3a2aaeaccbb1e7154b0a00 sio:SIO_000628 miriam-gene:4137 , lld:C0236642 ;
+		a sio:SIO_001121 .
+}
+

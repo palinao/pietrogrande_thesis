@@ -1,0 +1,6 @@
+Absence of MHC class II gene expression in a patient with a single amino acid substitution in the class II transactivator protein CIITA.
+
+Authors: 
+Quan V, Towey M, Sacks S, Kelly AP
+
+We investigated the underlying genetic defect in an immunodeficient patient who presented with recurrent bacterial infections in his late twenties and demonstrated a transcriptional defect in major histocompatibility complex (MHC) class II regulation. Transient heterokaryon analysis implicated functional loss of CIITA, the MHC class II transactivator protein, and in support of this MHC class II antigen expression was restored by stable transfection with the wild-type molecule. A single amino acid substitution, phenylalanine to serine, in the COOH-terminal portion of the CIITA sequence correlated with reduced transcription of both classical (HLA-DP, -DQ, and -DR) and nonclassical (HLA-DM and -DO) class II genes. The long survival of the patient, although remarkable, was not associated with partial CIITA function as evidenced by residual MHC class II expression. These data define at high resolution a region of CIITA that is essential for function in both professional and nonprofessional antigen presenting cells and which could potentially constitute a target for therapeutic intervention by novel factors with a propensity to downregulate MHC class II antigen expression.

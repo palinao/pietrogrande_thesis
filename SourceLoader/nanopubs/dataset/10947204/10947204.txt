@@ -1,0 +1,6 @@
+Molecular characterization of methylmalonate semialdehyde dehydrogenase deficiency.
+
+Authors: 
+Chambliss KL, Gray RG, Rylance G, Pollitt RJ, Gibson KM
+
+Three patients have been reported with (putative) methylmalonic semialdehyde dehydrogenase (MMSDH) deficiency. The urine metabolic pattern was strikingly different in all, including beta-alanine, 3-hydroxypropionic acid, both isomers of 3-amino- and 3-hydroxyisobutyric acids in one and 3-hydroxyisobutyric and lactic acids in a second, and mild methylmalonic aciduria in a third patient. In an effort to clarify these disparate metabolite patterns, we completed the cDNA structure, and characterized the genomic structure of human MMSDH gene in order to undertake molecular analysis. Only the first patient had alterations in the MMSDH coding region, revealing homozygosity for a 1336G > A transversion, which leads to substitution of arginine for highly conserved glycine at amino acid 446. No abnormalities of the MMSDH cDNA were detected in the other patients. These data provide the first molecular characterization of an inborn error of metabolism specific to the L-valine catabolic pathway.

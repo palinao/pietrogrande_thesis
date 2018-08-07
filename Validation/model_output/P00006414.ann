@@ -1,0 +1,4 @@
+T0	GENE 0 4	PDYN
+N0	Reference T0 :::GENE	PDYN
+T1	GENE 84 89	SCA23
+N1	Reference T1 :::GENE	SCA23

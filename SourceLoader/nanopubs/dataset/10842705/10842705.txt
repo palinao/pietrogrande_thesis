@@ -1,0 +1,6 @@
+A novel variant of transthyretin (Glu89Lys) associated with familial amyloidotic polyneuropathy.
+
+Authors: 
+Nakamura M, Hamidi Asl K, Benson MD
+
+We detected a point mutation in the transthyretin (TTR) gene associated with familial amyloidotic polyneuropathy (FAP) in a 57-year old male presenting with sensorimotor polyneuropathy, severe autonomic dysfunction and cardiomyopathy using a non-isotopic RNase cleavage assay (NIRCA). NIRCA suggested that the mutation site was near either amino acid position 58 of mature TTR or the 3' end of exon 3. Direct DNA sequencing showed both a normal GAG (Glu) and a variant AAG (Lys) codon at amino acid position 89 of mature TTR, which has not been previously reported. The site of this mutation is near the 3' end of exon 3, consistent with the result of NIRCA. This mutation was also confirmed by polymerase chain reaction-induced mutation restriction analysis (PCR-IMRA).

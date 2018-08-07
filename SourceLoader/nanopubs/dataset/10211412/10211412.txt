@@ -1,0 +1,6 @@
+A new amyloidogenic transthyretin variant (Val122Ala) found in a compound heterozygous patient.
+
+Authors: 
+Théberge R, Connors L, Skare J, Skinner M, Falk RH, Costello CE
+
+A new TTR variant, Val122Ala, was characterized in an individual who carried the Gly6Ser polymorphism on the opposite allele. The main clinical feature of this familial transthyretin amyloidosis (ATTR) variant is extensive cardiomyopathy. The detection and characterization of the variant were performed using a combination of isoelectric focusing (IEF), restriction fragment length polymorphism (RFLP), immunoprecipitation, electrospray ionization mass spectrometry (ESIMS), HPLC (high performance liquid chromatography)/ESIMS, and matrix-assisted laser desorption/ionization mass spectrometry (MALDIMS). The results were confirmed by DNA analysis. The propositus has a brother who carries the new variant but not the polymorphism.

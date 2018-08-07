@@ -1,0 +1,8 @@
+{miriam-gene:551 a ncit:C16612 .
+	
+	lld:C0687720 a ncit:C7057 .
+	
+	dgn-gda:DGNbc10ba4b1bbf6c9bddb0e2f601e362a6 sio:SIO_000628 miriam-gene:551 , lld:C0687720 ;
+		a sio:SIO_001122 .
+}
+

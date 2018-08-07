@@ -1,0 +1,8 @@
+{miriam-gene:6716 a ncit:C16612 .
+	
+	lld:C0268297 a ncit:C7057 .
+	
+	dgn-gda:DGN51a8c23383804c8b2ab9a8d3336e6d54 sio:SIO_000628 miriam-gene:6716 , lld:C0268297 ;
+		a sio:SIO_001122 .
+}
+

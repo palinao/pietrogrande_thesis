@@ -1,0 +1,4 @@
+T0	GENE 74 78	TSC1
+N0	Reference T0 :::GENE	TSC1
+T1	GENE 146 150	mTOR
+N1	Reference T1 :::GENE	mTOR

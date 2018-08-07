@@ -1,0 +1,6 @@
+Three novel mutations (G27E, insAAC, R179X) in the ORNT1 gene of Japanese patients with hyperornithinemia, hyperammonemia, and homocitrullinuria syndrome.
+
+Authors: 
+Tsujino S, Kanazawa N, Ohashi T, Eto Y, Saito T, Kira J, Yamada T
+
+Hyperornithinemia, hyperammonemia and homocitrullinuria (HHH) syndrome presents with various neurological symptoms, including mental retardation, spastic paraparesis with pyramidal signs, cerebellar ataxia, and episodic disturbance of consciousness or coma caused by hyperammonemia. We report three novel mutations in the mitochondrial ornithine transporter gene (ORNT1) of Japanese patients with HHH syndrome: a nonsense mutation (R179X) associated with exon skipping and a frameshift, a missense mutation (G27E), and an insertion of AAC between codons 228 and 229, leading to an insertion of the amino acid Asn. The ORNT1 gene consists of at least six exons, and all exon-intron junction sequences conform to the GT/AG rule. All 3 patients were homozygous for their respective mutations. This study confirms that defects in the ORNT1 gene cause the HHH syndrome and that the genetic basis in Japanese patients is heterogeneous.

@@ -1,0 +1,6 @@
+Identification of a novel mutation R42P in the gap junction protein beta-3 associated with autosomal dominant erythrokeratoderma variabilis.
+
+Authors: 
+Wilgoss A, Leigh IM, Barnes MR, Dopping-Hepenstal P, Eady RA, Walter JM, Kennedy CT, Kelsell DP
+
+We report a missense mutation in the gap junction protein beta-3 (encoding Connexin 31), which was detected in only the affected members of a family in which the autosomal dominant skin disease erythrokeratoderma variabilis was segregating. The nucleotide change results in an arginine to proline substitution in codon 42. This residue is positioned on the first transmembrane/first extracellular domain of the gap junction protein with the mutation replacing a negatively charged residue with a nonpolar residue. This change may disrupt the conformation of the protein and voltage gating polarity leading to impaired channel function.

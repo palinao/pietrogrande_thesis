@@ -1,0 +1,8 @@
+{miriam-gene:6223 a ncit:C16612 .
+	
+	lld:C2676137 a ncit:C7057 .
+	
+	dgn-gda:DGNf992044b509cd4cb08ecbb8f223bb30f sio:SIO_000628 miriam-gene:6223 , lld:C2676137 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,8 @@
+T0	GENE 52 56	RyR2
+N0	Reference T0 :::GENE	RyR2
+T1	GENE 108 121	calsequestrin
+N1	Reference T1 :::GENE	calsequestrin
+T2	GENE 226 229	PLB
+N2	Reference T2 :::GENE	PLB
+T3	GENE 266 273	PLB-T17
+N3	Reference T3 :::GENE	PLB-T17

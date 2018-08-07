@@ -1,0 +1,4 @@
+T0	GENE 0 8	Renalase
+N0	Reference T0 :::GENE	Renalase
+T1	GENE 97 111	norepinephrine
+N1	Reference T1 :::GENE	norepinephrine

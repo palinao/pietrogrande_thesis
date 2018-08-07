@@ -1,0 +1,1 @@
+In addition to CFH (rs800292, P = 4.23 × 10(-15)) and ARMS2 (rs3750847, P = 8.67 × 10(-29)) loci, we identified two new susceptibility loci for exudative AMD: TNFRSF10A-LOC389641 on chromosome 8p21 (rs13278062, combined P = 1.03 × 10(-12), odds ratio = 0.73) and REST-C4orf14-POLR2B-IGFBP7 on chromosome 4q12 (rs1713985, combined P = 2.34 × 10(-8), odds ratio = 1.30)

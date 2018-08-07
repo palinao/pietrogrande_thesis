@@ -1,0 +1,4 @@
+T0	GENE 0 3	Tau
+N0	Reference T0 :::GENE	Tau
+T1	GENE 33 42	tauopathy
+N1	Reference T1 :::GENE	tauopathy

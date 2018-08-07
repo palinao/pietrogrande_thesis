@@ -1,0 +1,6 @@
+Human SCN5A gene mutations alter cardiac sodium channel kinetics and are associated with the Brugada syndrome.
+
+Authors: 
+Rook MB, Bezzina Alshinawi C, Groenewegen WA, van Gelder IC, van Ginneken AC, Jongsma HJ, Mannens MM, Wilde AA
+
+Primary dysrhythmias other than those associated with the long QT syndrome, are increasingly recognized. One of these are represented by patients with a history of resuscitation from cardiac arrest but without any structural heart disease. These patients exhibit a distinct electrocardiographic (ECG) pattern consisting of a persistent ST-segment elevation in the right precordial leads often but not always accompanied by a right bundle branch block (Brugada syndrome). This syndrome is associated with a high mortality rate and has been shown to display familial occurrence.

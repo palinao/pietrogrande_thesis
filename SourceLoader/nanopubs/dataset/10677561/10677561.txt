@@ -1,0 +1,6 @@
+Familial neurohypophyseal diabetes insipidus associated with a novel mutation in the vasopressin-neurophysin II gene.
+
+Authors: 
+Fujii H, Iida S, Moriwaki K
+
+Familial neurohypophyseal diabetes insipidus (FNDI) is an autosomal dominant disorder of renal water conservation due to deficiency of arginine vasopressin as the result of mutations in the arginine vasopressin-neurophysin II (AVP-NPII) gene that encodes the hormone or its carrier protein. Thirty-one different mutations have been reported. In this study, we evaluated the AVP-NPII gene in a family with FNDI and identified a new mutation (1911Gright curved arrow A) in the coding sequence for NPII in affected family members. This mutation substitutes Tyr for 74 Cys in the NPII moiety. NPII is an intracellular carrier protein for AVP during the axonal transport from the hypothalamus to the posterior pituitary and contains 14 conserved cysteine residues forming 7 disulfide bonds. Because the mutation cosegregates with the phenotype, it is possible that this mutation causes neurohypophyseal diabetes insipidus in this family.

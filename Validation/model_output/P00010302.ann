@@ -1,0 +1,4 @@
+T0	GENE 0 14	Erythropoietin
+N0	Reference T0 :::GENE	Erythropoietin
+T1	GENE 83 97	erythropoietin
+N1	Reference T1 :::GENE	erythropoietin

@@ -1,0 +1,1 @@
+Genes identified as being commonly overexpressed in parent BDEneu cells, tumors, and in a BDEneu tumor-derived cholangiocarcinoma cell line included Sox17, Krt20, Erbb2, and Sphk1 when respectively compared to BDEsp cells, tumors, and tumor-derived BDEsp cholangiocarcinoma cells

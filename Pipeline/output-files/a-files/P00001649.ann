@@ -1,0 +1,4 @@
+T0	GENE 96 99	tau
+N0	Reference T0 :::GENE	tau
+T1	GENE 122 125	tau
+N1	Reference T1 :::GENE	tau

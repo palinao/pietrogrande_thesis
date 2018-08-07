@@ -1,0 +1,32 @@
+{miriam-gene:785 a ncit:C16612 .
+	
+	lld:C1866039 a ncit:C7057 .
+	
+	dgn-gda:DGNe9967388c90ec83a63e09f17d9993f4e sio:SIO_000628 miriam-gene:785 , lld:C1866039 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:785 a ncit:C16612 .
+	
+	lld:C0014548 a ncit:C7057 .
+	
+	dgn-gda:DGN5ed53a69b9310b3b71b92e07434a4b88 sio:SIO_000628 miriam-gene:785 , lld:C0014548 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:785 a ncit:C16612 .
+	
+	lld:C0004134 a ncit:C7057 .
+	
+	dgn-gda:DGNc29823454791b4c7b028476a2fe3224a sio:SIO_000628 miriam-gene:785 , lld:C0004134 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:785 a ncit:C16612 .
+	
+	lld:C0270853 a ncit:C7057 .
+	
+	dgn-gda:DGN01d27fa15192ef3d75c8ce92383cebb0 sio:SIO_000628 miriam-gene:785 , lld:C0270853 ;
+		a sio:SIO_001121 .
+}
+

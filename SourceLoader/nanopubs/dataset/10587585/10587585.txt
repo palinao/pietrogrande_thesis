@@ -1,0 +1,6 @@
+Nuclear lamin A/C R482Q mutation in canadian kindreds with Dunnigan-type familial partial lipodystrophy.
+
+Authors: 
+Cao H, Hegele RA
+
+Patients with Dunnigan-type familial partial lipodystrophy (FPLD) are born with normal fat distribution, but after puberty experience regional and progressive adipocyte degeneration, often associated with profound insulin resistance and diabetes. Recently, the FPLD gene was mapped to chromosome 1q21-22, which harbours the LMNA gene encoding nuclear lamins A and C. Mutations in LMNA were shown to underlie autosomal dominant Emery-Dreifuss muscular dystrophy (EDMD-AD), which is characterized by regional and progressive skeletal muscle wasting and cardiac effects. We hypothesized that the analogy between the regional muscle wasting in EDMD-AD and the regional adipocyte degeneration in FPLD, in addition to its chromosomal localization, made LMNA a good candidate gene for FPLD. DNA sequencing of LMNA in five Canadian FPLD probands indicated that each had a novel missense mutation, R482Q, which co-segregated with the FPLD phenotype and was absent from 2000 normal alleles ( P = 1.1 x 10(-13)). This is the first report of a mutation underlying a degenerative disorder of adipose tissue and suggests that LMNA mutations could underlie other diseases characterized by tissue type- and anatomical site-specific cellular degeneration.

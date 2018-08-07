@@ -1,0 +1,6 @@
+A series of mutations in the dihydropteridine reductase gene resulting in either abnormal RNA splicing or DHPR protein defects. Mutations in brief no. 244. Online.
+
+Authors: 
+Smooker PM, Gough TJ, Cotton RG, Alliaudi C, de Sanctis L, Dianzani I
+
+Five novel mutations are described which result in the rare hyperphenylalaninemia DHPR-deficiency. Three of these are located at different intron/exon boundaries within the DHPR gene, and disrupt the maturation of the DHPR transcript such that little full-length mRNA can be detected by RT-PCR. Each mutation alters a conserved nucleotide within the splice site consensus sequence, and results in the skipping of an exon and, in one case, the activation of an inappropriate splicing signal. Two further mutations are missense mutations resulting in a non-conservative amino acid change within the DHPR protein (L14P and G17V) and are associated with a severe phenotype.

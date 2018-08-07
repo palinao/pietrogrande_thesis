@@ -1,0 +1,8 @@
+{miriam-gene:367 a ncit:C16612 .
+	
+	lld:C0268301 a ncit:C7057 .
+	
+	dgn-gda:DGNc129f5a9e4cbc9c3a2f1a4494ed3e6c7 sio:SIO_000628 miriam-gene:367 , lld:C0268301 ;
+		a sio:SIO_001122 .
+}
+

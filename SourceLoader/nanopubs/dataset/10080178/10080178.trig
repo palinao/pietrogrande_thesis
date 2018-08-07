@@ -1,0 +1,8 @@
+{miriam-gene:488 a ncit:C16612 .
+	
+	lld:C0022595 a ncit:C7057 .
+	
+	dgn-gda:DGN2f23f49648fb346d913c4c9ee805740d sio:SIO_000628 miriam-gene:488 , lld:C0022595 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,4 @@
+T0	GENE 94 107	interleukin 6
+N0	Reference T0 :::GENE	interleukin 6
+T1	GENE 136 158	interleukin 6 receptor
+N1	Reference T1 :::GENE	interleukin 6 receptor

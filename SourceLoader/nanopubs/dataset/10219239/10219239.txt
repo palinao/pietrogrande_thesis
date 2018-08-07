@@ -1,0 +1,6 @@
+MiRP1 forms IKr potassium channels with HERG and is associated with cardiac arrhythmia.
+
+Authors: 
+Abbott GW, Sesti F, Splawski I, Buck ME, Lehmann MH, Timothy KW, Keating MT, Goldstein SA
+
+A novel potassium channel gene has been cloned, characterized, and associated with cardiac arrhythmia. The gene encodes MinK-related peptide 1 (MiRP1), a small integral membrane subunit that assembles with HERG, a pore-forming protein, to alter its function. Unlike channels formed only with HERG, mixed complexes resemble native cardiac IKr channels in their gating, unitary conductance, regulation by potassium, and distinctive biphasic inhibition by the class III antiarrhythmic E-4031. Three missense mutations associated with long QT syndrome and ventricular fibrillation are identified in the gene for MiRP1. Mutants form channels that open slowly and close rapidly, thereby diminishing potassium currents. One variant, associated with clarithromycin-induced arrhythmia, increases channel blockade by the antibiotic. A mechanism for acquired arrhythmia is revealed: genetically based reduction in potassium currents that remains clinically silent until combined with additional stressors.

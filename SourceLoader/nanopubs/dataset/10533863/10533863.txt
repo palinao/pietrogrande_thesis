@@ -1,0 +1,6 @@
+Mutations in the ABC1 gene in familial HDL deficiency with defective cholesterol efflux.
+
+Authors: 
+Marcil M, Brooks-Wilson A, Clee SM, Roomp K, Zhang LH, Yu L, Collins JA, van Dam M, Molhuizen HO, Loubster O, Ouellette BF, Sensen CW, Fichter K, Mott S, Denis M, Boucher B, Pimstone S, Genest J Jr, Kastelein JJ, Hayden MR
+
+A low concentration of HDL cholesterol is the most common lipoprotein abnormality in patients with premature atherosclerosis. We have shown that Tangier disease, a rare and severe form of HDL deficiency characterised by a biochemical defect in cellular cholesterol efflux, is caused by mutations in the ATP-binding-cassette (ABC1) gene. This gene codes for the cholesterol-efflux regulatory protein (CERP). We investigated the presence of mutations in this gene in patients with familial HDL deficiency.

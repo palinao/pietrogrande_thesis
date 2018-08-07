@@ -1,0 +1,16 @@
+{miriam-gene:1545 a ncit:C16612 .
+	
+	lld:C0339573 a ncit:C7057 .
+	
+	dgn-gda:DGN3caa15bd66bec50c8bbea2c21ecd3a63 sio:SIO_000628 miriam-gene:1545 , lld:C0339573 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:1545 a ncit:C16612 .
+	
+	lld:C1856439 a ncit:C7057 .
+	
+	dgn-gda:DGN2eb45b223479d17dd098017e898d62a8 sio:SIO_000628 miriam-gene:1545 , lld:C1856439 ;
+		a sio:SIO_001122 .
+}
+

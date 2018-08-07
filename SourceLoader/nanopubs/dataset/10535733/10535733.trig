@@ -1,0 +1,8 @@
+{miriam-gene:8626 a ncit:C16612 .
+	
+	lld:C1858562 a ncit:C7057 .
+	
+	dgn-gda:DGN40710a13874b9d47fe9128ce4f1b3baa sio:SIO_000628 miriam-gene:8626 , lld:C1858562 ;
+		a sio:SIO_001122 .
+}
+

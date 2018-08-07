@@ -1,0 +1,6 @@
+Identification of three novel mutations (E196K, V203I, E211Q) in the prion protein gene (PRNP) in inherited prion diseases with Creutzfeldt-Jakob disease phenotype.
+
+Authors: 
+Peoc'h K, Manivet P, Beaudry P, Attane F, Besson G, Hannequin D, Delasnerie-Lauprêtre N, Laplanche JL
+
+Inherited prion diseases are characterized by mutations in the PRNP gene encoding the prion protein (PrP). As the other sporadic or infectious prion disease forms, they are almost all characterized by the accumulation in the brain of an abnormal misfolded form of the patient's PrP. Brain extracts can often transmit the disease once inoculated in a recipient animal. Inherited prion diseases with Creutzfeldt-Jakob disease (CJD) phenotype are autosomal forms, although sporadic cases have been reported. We report three novel mutations of the PRNP gene in unrelated patients with clinical and histopathologic features of CJD. The three mutations were missense: c635G>A (E196K), c656G>A (V203I) and c680G>C (E211Q). Familial history of neurologic disorders was evidenced for patients carrying the E196K and E211Q mutations. E196K would be predicted to have more severe effects on protein stability than V203I and E211Q. These mutations expand the spectrum of mutations in PRNP and reduce the proportion of CJD patients in whom genetic alterations have not been found.

@@ -1,0 +1,6 @@
+Association between early-onset Parkinson's disease and mutations in the parkin gene.
+
+Authors: 
+Lücking CB, Dürr A, Bonifati V, Vaughan J, De Michele G, Gasser T, Harhangi BS, Meco G, Denèfle P, Wood NW, Agid Y, Brice A, French Parkinson's Disease Genetics Study Group, European Consortium on Genetic Susceptibility in Parkinson's Disease
+
+Mutations in the parkin gene have recently been identified in patients with early-onset Parkinson's disease, but the frequency of the mutations and the associated phenotype have not been assessed in a large series of patients.

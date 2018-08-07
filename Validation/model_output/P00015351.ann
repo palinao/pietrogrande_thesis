@@ -1,0 +1,4 @@
+T0	GENE 28 50	oxytocin receptor gene
+N0	Reference T0 :::GENE	oxytocin receptor gene
+T1	GENE 52 56	OXTR
+N1	Reference T1 :::GENE	OXTR

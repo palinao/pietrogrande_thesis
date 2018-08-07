@@ -1,0 +1,6 @@
+A novel mutation in the gene for the adult skeletal muscle sodium channel alpha-subunit (SCN4A) that causes paramyotonia congenita of von Eulenburg.
+
+Authors: 
+Sasaki R, Takano H, Kamakura K, Kaida K, Hirata A, Saito M, Tanaka H, Kuzuhara S, Tsuji S
+
+Paramyotonia congenita (PMC) of von Eulenburg is an autosomal dominant muscular disease characterized by exercise- and cold-induced myotonia and weakness. To date, 18 missense mutations in the adult skeletal muscle sodium channel alpha-subunit (SCN4A) gene have been identified to cause a spectrum of muscular diseases, including PMC of von Eulenburg, PMC without cold paralysis, potassium-aggravating myotonia, and hyperkalemic periodic paralysis. However, no obvious correlations can be made between the location or nature of amino acid substitutions in SCN4A and its clinical phenotypes.

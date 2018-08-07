@@ -1,0 +1,4 @@
+T0	GENE 17 20	CCN
+N0	Reference T0 :::GENE	CCN
+T1	GENE 40 45	WISP3
+N1	Reference T1 :::GENE	WISP3

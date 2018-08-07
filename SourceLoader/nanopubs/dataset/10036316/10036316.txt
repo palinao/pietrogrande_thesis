@@ -1,0 +1,6 @@
+Maroteaux-lamy syndrome: five novel mutations and their structural localization.
+
+Authors: 
+Villani GR, Balzano N, Vitale D, Saviano M, Pavone V, Di Natale P
+
+Maroteaux-Lamy syndrome (mucopolysaccharidosis type VI, MPS VI) is an autosomal recessive disorder due to the deficiency of the lysosomal enzyme N-acetylgalactosamine-4-sulfatase (arylsulfatase B, ASB). Mutation analysis in Maroteaux-Lamy syndrome resulted in the identification of approximately 40 molecular defects underlying a great genetic heterogeneity. Here we report five novel mutations in Italian subjects: S65F, P116H, R315Q, Q503X, P531R; each defect was confirmed by restriction enzyme or amplification refractory mutation system (ARMS) analysis. We also performed a three-dimensional (3-D) structure analysis of the alterations identified by us, and of an additional 22 point mutations reported by other groups, in an attempt to draw helpful information about their possible effects on protein conformation.

@@ -1,0 +1,8 @@
+{miriam-gene:7399 a ncit:C16612 .
+	
+	lld:C1848634 a ncit:C7057 .
+	
+	dgn-gda:DGN1677363634e553866f43c27f2b1a8660 sio:SIO_000628 miriam-gene:7399 , lld:C1848634 ;
+		a sio:SIO_001122 .
+}
+

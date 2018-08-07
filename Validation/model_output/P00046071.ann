@@ -1,0 +1,4 @@
+T0	GENE 278 293	alpha-synuclein
+N0	Reference T0 :::GENE	alpha-synuclein
+T1	GENE 362 365	D2R
+N1	Reference T1 :::GENE	D2R

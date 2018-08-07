@@ -1,0 +1,8 @@
+T0	GENE 50 76	matrix metalloproteinase 1
+N0	Reference T0 :::GENE	matrix metalloproteinase 1
+T1	GENE 78 82	MMP1
+N1	Reference T1 :::GENE	MMP1
+T2	GENE 98 120	superoxide dismutase 2
+N2	Reference T2 :::GENE	superoxide dismutase 2
+T3	GENE 122 126	SOD2
+N3	Reference T3 :::GENE	SOD2

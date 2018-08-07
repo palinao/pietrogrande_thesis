@@ -1,0 +1,1 @@
+We found 2 independent associations among European-Americans in the 19q13.32 region: rs769449 (APOE intron; p = 3.1 × 10(-20)) and rs115881343 (TOMM40 intron; p = 6.6 × 10(-11)). rs769449 was also associated with cognitive decline among African-Americans (p = 0.005), but rs115881343 was not

@@ -1,0 +1,4 @@
+T0	GENE 19 24	hMLH1
+N0	Reference T0 :::GENE	hMLH1
+T1	GENE 54 59	HNPCC
+N1	Reference T1 :::GENE	HNPCC

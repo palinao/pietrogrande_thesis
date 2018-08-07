@@ -1,0 +1,16 @@
+{miriam-gene:859 a ncit:C16612 .
+	
+	lld:C1832567 a ncit:C7057 .
+	
+	dgn-gda:DGN6088917adf076cb406953ab51a4b7a9a sio:SIO_000628 miriam-gene:859 , lld:C1832567 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:859 a ncit:C16612 .
+	
+	lld:C1853698 a ncit:C7057 .
+	
+	dgn-gda:DGN5174446eab9138e76edc66e3bd8b66ae sio:SIO_000628 miriam-gene:859 , lld:C1853698 ;
+		a sio:SIO_001122 .
+}
+

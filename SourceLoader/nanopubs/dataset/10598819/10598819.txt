@@ -1,0 +1,6 @@
+SH2D1A mutation analysis for diagnosis of XLP in typical and atypical patients.
+
+Authors: 
+Yin L, Ferrand V, Lavoué MF, Hayoz D, Philippe N, Souillet G, Seri M, Giacchino R, Castagnola E, Hodgson S, Sylla BS, Romeo G
+
+X-linked lymphoproliferative disease (XLP) is a rare inherited immunodeficiency to Epstein-Barr virus (EBV). The gene responsible for XLP has recently been identified as the four-exon SH2D1A gene encoding a 128-amino-acid protein that contains an SH2-domain. Functional studies indicate the SH2D1A protein acts as a regulator of at least two signal transduction pathways initiated by the cell surface molecules SLAM and 2B4, respectively, and possibly related to the host immune response to EBV infection. We have carried out a systematic mutation study of the SH2D1A gene in our series of 19 typical and 8 atypical XLP patients by polymerase chain reaction (PCR), reverse transcription/PCR, and sequencing, and have reconstructed the haplotypes of the patients. Four out of the 13 mutations detected are previously unreported. The identification of SH2D1A mutations in carriers from all three XLP families screened and the detection of mutations in two out of eight atypical patients indicates the usefulness of a DNA-based diagnosis for XLP disease.

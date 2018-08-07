@@ -1,0 +1,4 @@
+T0	GENE 0 26	Ornithine transcarbamylase
+N0	Reference T0 :::GENE	Ornithine transcarbamylase
+T1	GENE 28 31	OTC
+N1	Reference T1 :::GENE	OTC

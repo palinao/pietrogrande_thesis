@@ -1,0 +1,6 @@
+Aberrant transcripts of the cyclin-dependent kinase-associated protein phosphatase in hepatocellular carcinoma.
+
+Authors: 
+Yeh CT, Lu SC, Chen TC, Peng CY, Liaw YF
+
+The cyclin-dependent kinase (Cdk)-associated protein phosphatase (KAP) is a human dual specificity protein phosphatase that dephosphorylates Cdk2 on threonine 160 in a cyclin-dependent manner. To investigate whether mutations of this enzyme occur in hepatocellular carcinoma (HCC), KAP mRNA was analyzed by reverse transcription-PCR (RT-PCR), followed by cloning and sequencing. Eight of 14 biopsy tissues obtained from advanced HCC, 6 of 13 surgically removed HCC tissues, and 2 of the adjacent noncancerous tissues contained aberrant KAP transcripts. Using the yeast two-hybrid system, five of seven representative KAP mutants were shown to be defective in interacting with Cdk2. These data suggest a possible role of KAP mutations in multiple-step hepatocarcinogenesis.

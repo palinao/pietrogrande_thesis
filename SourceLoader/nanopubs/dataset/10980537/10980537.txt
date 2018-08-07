@@ -1,0 +1,6 @@
+Novel mutations in the myocilin gene in Japanese glaucoma patients.
+
+Authors: 
+Kubota R, Mashima Y, Ohtake Y, Tanino T, Kimura T, Hotta Y, Kanai A, Tokuoka S, Azuma I, Tanihara H, Inatani M, Inoue Y, Kudoh J, Oguchi Y, Shimizu N
+
+Myocilin is a gene responsible for juvenile onset primary open angle glaucoma (POAG) mapped as the GLC1A locus and, many mutations have been reported worldwide. Some mutations were found not only in patients with juvenile onset POAG, but also in patients with late onset POAG and in patients with normal tension glaucoma. To investigate the mutation prevalence in Japan, we performed a mutation analysis in 140 unrelated Japanese patients. We have identified the 10 sequence variants, of which four were highly probable for disease-causing mutations (Arg46ter, Arg158Gln, Ile360Asn, and Ala363Thr), and six polymorphisms (Gln19His, Arg76Lys, Asp208Glu, Val439Val, Arg470His, and Ala488Ala). Thus, myocilin mutations were found at the rate of 4/140 (2.9%) probands, similar to previous reports with other ethnic populations.

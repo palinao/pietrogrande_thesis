@@ -1,0 +1,6 @@
+Cys97-->Tyr mutation in the glycoprotein IX gene associated with Bernard-Soulier syndrome.
+
+Authors: 
+Kunishima S, Tomiyama Y, Honda S, Kurata Y, Kamiya T, Ozawa K, Saito H
+
+Bernard-Soulier syndrome (BSS) is an autosomal recessive bleeding disorder due to quantitative or qualitative abnormalities in the glycoprotein (GP) Ib/IX/V complex, the platelet receptor for von Willebrand factor. We describe here the genetic basis of the disorder in a patient with BSS. Flow cytometric analysis of the patient's platelets showed a greatly reduced GPIbalpha and completely absent GPIX surface expression. Immunoblot analysis disclosed greatly reduced GPIbalpha and residual amounts of GPIbbeta and GPIX in the platelets. DNA sequencing analysis revealed the patient to be homozygous for a novel missense mutation in the GPIX gene that converts Cys (TGT) to Tyr (TAT) at residue 97. Transient transfection studies confirmed that mutant GPIX was not expressed on the transfected cells, showing that the mutation was responsible for the BSS phenotype observed in the patient.

@@ -1,0 +1,6 @@
+Assessment of pathogenicity criteria for constitutional missense mutations of the hereditary nonpolyposis colorectal cancer genes MLH1 and MSH2.
+
+Authors: 
+Genuardi M, Carrara S, Anti M, Ponz de Leòn M, Viel A
+
+To determine the role played by MLH1 and MSH2 missense variants in cancer susceptibility, we have investigated the following genetic and biological characteristics associated with six MLH1 and four MSH2 missense changes identified in Italian hereditary nonpolyposis colorectal cancer (HNPCC) families: co-segregation with disease phenotype and/or bonafide pathogenetic mutations; presence of the variant in healthy control subjects; evolutionary conservation of the involved aminoacid and type of aminoacid change; and presence/absence of microsatellite instability (MSI) in tumour DNA. Overall, nine variants did not fulfil > or = 2 pathogenicity criteria. MSI was investigated in tumour samples from carriers of nine different missense mutations. Only 3/9 variants were associated with MSI in tumour DNA. In addition, four variants were not present in affected pedigree members, and five variants were observed in the control population. Based upon these results, we conclude that most MLH1 and MSH2 missense changes are unlikely to act as major causative factors in colorectal cancer susceptibility and development.

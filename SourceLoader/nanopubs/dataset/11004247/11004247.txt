@@ -1,0 +1,6 @@
+Three novel PHEX gene mutations in Japanese patients with X-linked hypophosphatemic rickets.
+
+Authors: 
+Sato K, Tajima T, Nakae J, Adachi M, Asakura Y, Tachibana K, Suwa S, Katsumata N, Tanaka T, Hayashi Y, Abe S, Murashita M, Okuhara K, Shinohara N, Fujieda K
+
+X-linked hypophosphatemic rickets (XLH) is an X-linked dominant disorder characterized by renal phosphate wasting, abnormal vitamin D metabolism, and defects of bone mineralization. The phosphate-regulating gene on the X-chromosome (PHEX) that is defective in XLH has been cloned, and its location identified at Xp22.1. It has been recognized to be homologous to certain endopeptidases. So far, a variety of PHEX mutations have been identified mainly in European and North American patients with XLH. To analyze the molecular basis of four unrelated Japanese families with XLH, we determined the nucleotide sequence of the PHEX gene of affected members. We detected a new nonsense mutation (R198X) in exon 5, a new 3 nucleotides insertion mutation in exon 12 and a new missense mutation (L160R) in exon 5 as well as a previously reported nonsense mutation in exon 8 (R291X). These results suggest that: 1) PHEX gene mutations are responsible for XLH in Japanese patients, and 2) PHEX gene mutations are heterogeneous in the Japanese population similarly to other ethnic populations.

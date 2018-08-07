@@ -1,0 +1,6 @@
+T0	GENE 18 26	podosome
+N0	Reference T0 :::GENE	podosome
+T1	GENE 43 47	TKS4
+N1	Reference T1 :::GENE	TKS4
+T2	GENE 49 57	SH3PXD2B
+N2	Reference T2 :::GENE	SH3PXD2B

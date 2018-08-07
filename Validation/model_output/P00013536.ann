@@ -1,0 +1,4 @@
+T0	GENE 14 30	cyclooxygenase-2
+N0	Reference T0 :::GENE	cyclooxygenase-2
+T1	GENE 64 88	hepatocyte growth factor
+N1	Reference T1 :::GENE	hepatocyte growth factor

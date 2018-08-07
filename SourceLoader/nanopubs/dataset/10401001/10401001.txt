@@ -1,0 +1,6 @@
+Identification and characterization of three novel missense mutations in mevalonate kinase cDNA causing mevalonic aciduria, a disorder of isoprene biosynthesis.
+
+Authors: 
+Houten SM, Romeijn GJ, Koster J, Gray RG, Darbyshire P, Smit GP, de Klerk JB, Duran M, Gibson KM, Wanders RJ, Waterham HR
+
+Mevalonic aciduria is a rare autosomal recessive metabolic disorder, characterized by psychomotor retardation, failure to thrive, hepatosplenomegaly, anemia and recurrent febrile crises. The disorder is caused by a deficient activity of mevalonate kinase due to mutations in the encoding gene. Thus far, only two disease-causing mutations have been identified. We now report four different missense mutations including three novel ones, which were identified by sequence analysis of mevalonate kinase cDNA from three mevalonic aciduria patients. All mutations affect conserved amino acids. Heterologous expression of the corresponding mutant mevalonate kinases as fusion proteins with glutathione S -transferase in Escherichia coli showed a profound effect of each of the mutations on enzyme activity. In addition, immunoblot analysis of fibroblast lysates from patients using specific antibodies against mevalonate kinase identified virtually no protein. These results demonstrate that the mutations affect not only the activity but also the stability of the mutant proteins.

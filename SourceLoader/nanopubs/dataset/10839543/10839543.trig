@@ -1,0 +1,8 @@
+{miriam-gene:8517 a ncit:C16612 .
+	
+	lld:C2930820 a ncit:C7057 .
+	
+	dgn-gda:DGN3757d73cb35f701a0b6e2bd043310335 sio:SIO_000628 miriam-gene:8517 , lld:C2930820 ;
+		a sio:SIO_001122 .
+}
+

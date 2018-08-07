@@ -1,0 +1,4 @@
+T0	GENE 22 48	insulin-like growth factor
+N0	Reference T0 :::GENE	insulin-like growth factor
+T1	GENE 129 135	IGF-II
+N1	Reference T1 :::GENE	IGF-II

@@ -1,0 +1,8 @@
+T0	GENE 210 245	, microtubule-associated protein 1B
+N0	Reference T0 :::GENE	, microtubule-associated protein 1B
+T1	GENE 247 252	MAP1B
+N1	Reference T1 :::GENE	MAP1B
+T2	GENE 259 287	tissue plasminogen activator
+N2	Reference T2 :::GENE	tissue plasminogen activator
+T3	GENE 289 292	tPA
+N3	Reference T3 :::GENE	tPA

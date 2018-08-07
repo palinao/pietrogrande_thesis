@@ -1,0 +1,6 @@
+A missense mutation in the mitochondrial cytochrome b gene in a revisited case with histiocytoid cardiomyopathy.
+
+Authors: 
+Andreu AL, Checcarelli N, Iwata S, Shanske S, DiMauro S
+
+We describe a pathogenic mutation in the mitochondrial cytochrome b gene in a patient with a multisystem disorder presenting as histiocytoid cardiomyopathy in whom a defect of ubiquinol cytochrome c oxidoreductase of the electron transport chain had been documented biochemically. The mutation, a G to A transition at nucleotide 15498, results in the substitution of glycine with aspartic acid at amino acid position 251. The mutation, which is heteroplasmic and fulfills all accepted criteria for pathogenicity, is likely to impair the function of the holoenzyme as deduced from its effects on the crystal structure of ubiquinol cytochrome c oxidoreductase. This is the first molecular defect associated with histiocytoid cardiomyopathy.

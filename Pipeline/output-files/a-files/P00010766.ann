@@ -1,0 +1,6 @@
+T0	GENE 8 11	YAC
+N0	Reference T0 :::GENE	YAC
+T1	GENE 74 84	PDGFRalpha
+N1	Reference T1 :::GENE	PDGFRalpha
+T2	GENE 123 133	PDGFRalpha
+N2	Reference T2 :::GENE	PDGFRalpha

@@ -1,0 +1,24 @@
+{miriam-gene:9241 a ncit:C16612 .
+	
+	lld:C0342282 a ncit:C7057 .
+	
+	dgn-gda:DGN80e62596de32a9191a115d3498642c26 sio:SIO_000628 miriam-gene:9241 , lld:C0342282 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:9241 a ncit:C16612 .
+	
+	lld:C3714899 a ncit:C7057 .
+	
+	dgn-gda:DGN54a3242e56e9584cbe6a2746e3f6b3de sio:SIO_000628 miriam-gene:9241 , lld:C3714899 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:9241 a ncit:C16612 .
+	
+	lld:C1861305 a ncit:C7057 .
+	
+	dgn-gda:DGN59013c3445e2d4b94dfe201a7da2c2ed sio:SIO_000628 miriam-gene:9241 , lld:C1861305 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,8 @@
+{miriam-gene:348 a ncit:C16612 .
+	
+	lld:C2673196 a ncit:C7057 .
+	
+	dgn-gda:DGN6ea724918ee43f610493c3260e3f7c0e sio:SIO_000628 miriam-gene:348 , lld:C2673196 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,6 @@
+Novel TSC2 mutation in a patient with pulmonary tuberous sclerosis: lack of loss of heterozygosity in a lung cyst.
+
+Authors: 
+Zhang H, Yamamoto T, Nanba E, Kitamura Y, Terada T, Akaboshi S, Yuasa I, Ohtani K, Nakamoto S, Takeshita K, Ohno K
+
+A Japanese patient with tuberous sclerosis (TSC), who manifested with multiple lung cysts and pneumothorax, is described. All exons of two TSC genes, TSC1 and TSC2, in peripheral blood leukocytes from the patient were analyzed by polymerase chain reaction-single strand conformation polymorphism (PCR-SSCP). A novel T-to-G transition was found in exon 19 of TSC2 at nucleotide position 2168. This mutation caused an amino acid change, L717R. There was no such mutation in any other family members or in 100 normal Japanese. An automated sequencer-assisted quantitative analysis of normal and mutated SSCP-bands revealed no loss of heterozygosity (LOH) in the lung cyst tissue of the patient.

@@ -1,0 +1,8 @@
+{miriam-gene:8419 a ncit:C16612 .
+	
+	lld:C3808115 a ncit:C7057 .
+	
+	dgn-gda:DGN0cb415cc85d724594b76926785554ef3 sio:SIO_000628 miriam-gene:8419 , lld:C3808115 ;
+		a sio:SIO_001122 .
+}
+

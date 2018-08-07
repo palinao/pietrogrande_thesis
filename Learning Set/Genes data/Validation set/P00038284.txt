@@ -1,0 +1,1 @@
+KITLG, encoding the ligand for the receptor tyrosine kinase KIT, which has previously been implicated in the pathogenesis of TGCT and the biology of germ cells, may explain the association on chromosome 12

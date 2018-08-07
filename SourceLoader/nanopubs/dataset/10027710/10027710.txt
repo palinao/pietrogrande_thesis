@@ -1,0 +1,6 @@
+Identification of a novel mutation in a non-Jewish factor XI deficient kindred.
+
+Authors: 
+Alhaq A, Mitchell M, Sethi M, Rahman S, Flynn G, Boulton P, Caeno G, Smith M, Savidge G
+
+The role of factor XI (FXI) in blood coagulation has been clarified in recent years by descriptions of FXI-deficient patients who are prone to excessive bleeding after haemostatic challenge. We have studied a large kindred of an Italian FXI-deficient patient with a previously undescribed mutation. The propositus, a 68-year-old woman, presented with a cerebral thromboembolic event but had no history of bleeding (FXI activity 1.6 U/dl). A sensitive ELISA failed to detect FXI antigen in the propositus. Sequence analysis of the entire FXI gene revealed a TGG to TGC transversion in codon 228 of exon 7 (FXI-W228C). This missense mutation results in a Trp to Cys substitution within the third apple domain of FXI. We conclude that this novel mutation occurred in a structurally conserved region and may therefore have interfered with either chain folding and secretion or stability of FXI and was responsible for the inherited abnormality seen in this kindred. It is unclear why this kindred does not exhibit a bleeding tendency but it may correlate with a FXI-like antigen and factor IX binding activity expressed on platelets.

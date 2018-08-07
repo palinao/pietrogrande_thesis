@@ -1,0 +1,8 @@
+{miriam-gene:6690 a ncit:C16612 .
+	
+	lld:C1842402 a ncit:C7057 .
+	
+	dgn-gda:DGN2fa78d11aa4288363529fa27ea1d47f5 sio:SIO_000628 miriam-gene:6690 , lld:C1842402 ;
+		a sio:SIO_001122 .
+}
+

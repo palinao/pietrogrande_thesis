@@ -1,0 +1,4 @@
+T0	GENE 0 4	CHF1
+N0	Reference T0 :::GENE	CHF1
+T1	GENE 5 9	Hey2
+N1	Reference T1 :::GENE	Hey2

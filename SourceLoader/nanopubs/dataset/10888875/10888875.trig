@@ -1,0 +1,8 @@
+{miriam-gene:54714 a ncit:C16612 .
+	
+	lld:C1849792 a ncit:C7057 .
+	
+	dgn-gda:DGNc1770cc18ce653edd23c23119b537e21 sio:SIO_000628 miriam-gene:54714 , lld:C1849792 ;
+		a sio:SIO_001122 .
+}
+

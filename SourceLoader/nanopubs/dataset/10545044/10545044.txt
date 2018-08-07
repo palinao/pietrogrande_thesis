@@ -1,0 +1,6 @@
+A novel missense mutation in the glycogen branching enzyme gene in a child with myopathy and hepatopathy.
+
+Authors: 
+Bruno C, DiRocco M, Lamba LD, Bado M, Marino C, Tsujino S, Shanske S, Stella G, Minetti C, van Diggelen OP, DiMauro S
+
+We have identified a novel missense mutation in the gene for glycogen branching enzyme (GBE 1) in a 16-month-old infant with a combination of hepatic and muscular features, an atypical clinical presentation of glycogenosis type IV (GSD IV). The patient was heterozygous for a G-to-A substitution at codon 524 (R524Q), changing an encoded arginine (CGA) to glutamine (CAA), while the GBE1 gene on the other allele was not expressed. This case broadens the spectrum of mutations in patients with GSD IV and confirms the clinical and molecular heterogeneity of this disease.

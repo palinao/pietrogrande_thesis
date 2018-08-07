@@ -1,0 +1,6 @@
+Mutations in the peripheral myelin protein zero and connexin32 genes detected by non-isotopic RNase cleavage assay and their phenotypes in Japanese patients with Charcot-Marie-Tooth disease.
+
+Authors: 
+Yoshihara T, Yamamoto M, Doyu M, Mis KI, Hattori N, Hasegawa Y, Mokuno K, Mitsuma T, Sobue G
+
+Mutations of myelin protein zero (MPZ) and connexin32 (Cx32) genes were examined in 70 unrelated Japanese patients with Charcot-Marie-Tooth disease (CMT) without PMP22 gene duplication. A new method, which could detect base pair mismatches with Rnase cleavage on agarose gel electrophoresis, identified 5 and 4 mutations of the MPZ and Cx32 genes, respectively, including one novel mutation (Ser128Ter) of Cx32. This non-isotopic RNase cleavage assay (NIRCA) employed in the present study is very suitable for exploring mutations of MPZ and Cx32 genes in a large number of CMT patients, as the phenotype of patients with CMT is greatly divergent from demyelinating to axonal pathology.

@@ -1,0 +1,6 @@
+Poor relationship between phenotypes of protein S deficiency and mutations in the protein S alpha gene.
+
+Authors: 
+Hermida J, Faioni EM, Mannucci PM
+
+By single strand conformational polymorphism, nucleotide sequencing and enzyme restriction, we analyzed the protein S alpha gene in 17 protein S-deficient probands and in their available family members. The relationship between genotype and phenotype was also evaluated. Twelve different sequence variations were identified in 17 probands. Ten were putative causal mutations distributed in 16 probands: 4 were nonsense, 5 missense and one a splice site mutation. In most families in which a mutation was identified, more than one phenotype of PS deficiency was present. The same splice site mutation (intron j G-A, exon 10+5) was associated with type I deficiency in one family and with type I/III in another unrelated family. A phenotypic discrepancy was also observed for the Arg474Pro, Gly597Asp and Arg410stop mutations. Glu26Ala, previously reported in kindreds with type I deficiencies, was found in association with I, II and III phenotypes in four unrelated kindreds. Phenotypic analysis of protein S deficiency is poorly related to the underlying genetic defect.

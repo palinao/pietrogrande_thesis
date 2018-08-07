@@ -1,0 +1,4 @@
+T0	GENE 76 91	myeloperoxidase
+N0	Reference T0 :::GENE	myeloperoxidase
+T1	GENE 96 104	catalase
+N1	Reference T1 :::GENE	catalase

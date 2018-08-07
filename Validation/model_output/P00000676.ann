@@ -1,0 +1,4 @@
+T0	GENE 40 43	ATM
+N0	Reference T0 :::GENE	ATM
+T1	GENE 141 144	ATM
+N1	Reference T1 :::GENE	ATM

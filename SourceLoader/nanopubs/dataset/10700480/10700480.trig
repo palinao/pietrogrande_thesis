@@ -1,0 +1,16 @@
+{miriam-gene:5172 a ncit:C16612 .
+	
+	lld:C0271829 a ncit:C7057 .
+	
+	dgn-gda:DGNda0f4bac093214a5e25866d373ba2764 sio:SIO_000628 miriam-gene:5172 , lld:C0271829 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:5172 a ncit:C16612 .
+	
+	lld:C3538946 a ncit:C7057 .
+	
+	dgn-gda:DGN60e1b82facc7dbe4b793aed4a297d8cf sio:SIO_000628 miriam-gene:5172 , lld:C3538946 ;
+		a sio:SIO_001122 .
+}
+

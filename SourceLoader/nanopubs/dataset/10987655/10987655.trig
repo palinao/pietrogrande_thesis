@@ -1,0 +1,8 @@
+{miriam-gene:773 a ncit:C16612 .
+	
+	lld:C1720416 a ncit:C7057 .
+	
+	dgn-gda:DGN9ae47f56a355613b6b963cc6dcac9411 sio:SIO_000628 miriam-gene:773 , lld:C1720416 ;
+		a sio:SIO_001122 .
+}
+

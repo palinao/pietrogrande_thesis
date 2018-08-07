@@ -1,0 +1,6 @@
+T0	GENE 71 82	GH receptor
+N0	Reference T0 :::GENE	GH receptor
+T1	GENE 84 89	SOCS1
+N1	Reference T1 :::GENE	SOCS1
+T2	GENE 99 105	SOCS-3
+N2	Reference T2 :::GENE	SOCS-3

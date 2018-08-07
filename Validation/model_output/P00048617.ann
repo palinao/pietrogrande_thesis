@@ -1,0 +1,6 @@
+T0	GENE 28 39	fractalkine
+N0	Reference T0 :::GENE	fractalkine
+T1	GENE 93 99	CX3CR1
+N1	Reference T1 :::GENE	CX3CR1
+T2	GENE 199 203	SDF1
+N2	Reference T2 :::GENE	SDF1

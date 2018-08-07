@@ -1,0 +1,6 @@
+Mutations in the human UDP-N-acetylglucosamine 2-epimerase gene define the disease sialuria and the allosteric site of the enzyme.
+
+Authors: 
+Seppala R, Lehto VP, Gahl WA
+
+Sialuria is a rare inborn error of metabolism characterized by cytoplasmic accumulation and increased urinary excretion of free N-acetylneuraminic acid (NeuAc, sialic acid). Overproduction of NeuAc is believed to result from loss of feedback inhibition of uridinediphosphate-N-acetylglucosamine 2-epimerase (UDP-GlcNAc 2-epimerase) by cytidine monophosphate-N-acetylneuraminic acid (CMP-Neu5Ac). We report the cloning and characterization of human UDP-GlcNAc 2-epimerase cDNA, with mutation analysis of three patients with sialuria. Their heterozygote mutations, R266W, R266Q, and R263L, indicate that the allosteric site of the epimerase resides in the region of codons 263-266. The heterozygous nature of the mutant allele in all three patients reveals a dominant mechanism of inheritance for sialuria.

@@ -1,0 +1,6 @@
+Mutations in the gene encoding the serine protease inhibitor, Kazal type 1 are associated with chronic pancreatitis.
+
+Authors: 
+Witt H, Luck W, Hennies HC, Classen M, Kage A, Lass U, Landt O, Becker M
+
+Chronic pancreatitis (CP) is a continuing or relapsing inflammatory disease of the pancreas. In approximately one-third of all cases, no aetiological factor can be found, and these patients are classified as having idiopathic disease. Pathophysiologically, autodigestion and inflammation may be caused by either increased proteolytic activity or decreased protease inhibition. Several studies have demonstrated mutations in the cationic trypsinogen gene (PRSS1) in patients with hereditary or idiopathic CP. It is thought that these mutations result in increased trypsin activity within the pancreatic parenchyma. Most patients with idiopathic or hereditary CP, however, do not have mutations in PRSS1 (ref. 4). Here we analysed 96 unrelated children and adolescents with CP for mutations in the gene encoding the serine protease inhibitor, Kazal type 1 (SPINK1), a pancreatic trypsin inhibitor. We found mutations in 23% of the patients. In 18 patients, 6 of whom were homozygous, we detected a missense mutation of codon 34 (N34S). We also found four other sequence variants. Our results indicate that mutations in SPINK1 are associated with chronic pancreatitis.

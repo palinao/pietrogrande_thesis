@@ -1,0 +1,8 @@
+{miriam-gene:3848 a ncit:C16612 .
+	
+	lld:C0079153 a ncit:C7057 .
+	
+	dgn-gda:DGN72fd411e4c35c55677c8cd06b07fca9d sio:SIO_000628 miriam-gene:3848 , lld:C0079153 ;
+		a sio:SIO_001122 .
+}
+

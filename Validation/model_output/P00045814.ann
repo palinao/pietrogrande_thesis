@@ -1,0 +1,6 @@
+T0	GENE 14 18	FasL
+N0	Reference T0 :::GENE	FasL
+T1	GENE 44 47	Fas
+N1	Reference T1 :::GENE	Fas
+T2	GENE 64 87	c-Jun N-terminal kinase
+N2	Reference T2 :::GENE	c-Jun N-terminal kinase

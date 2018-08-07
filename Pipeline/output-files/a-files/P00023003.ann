@@ -1,0 +1,4 @@
+T0	GENE 0 5	IL2RA
+N0	Reference T0 :::GENE	IL2RA
+T1	GENE 97 119	interleukin-2 receptor
+N1	Reference T1 :::GENE	interleukin-2 receptor

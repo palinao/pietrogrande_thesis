@@ -1,0 +1,1 @@
+We identified seven susceptibility loci outside the human leukocyte antigen region (9p24 near JAK2, 10q22 at ZMIZ1, 11q13 near PRDX5, 16p13 near SOCS1, 17q21 at STAT3, 19p13 near FUT2, and 22q11 at YDJC) shared between PS and CD with genome-wide significance (p &lt; 5 × 10(-8)) and confirmed four already established PS and CD risk loci (IL23R, IL12B, REL, and TYK2)

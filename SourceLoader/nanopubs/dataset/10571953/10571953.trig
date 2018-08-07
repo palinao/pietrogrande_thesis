@@ -1,0 +1,8 @@
+{miriam-gene:7299 a ncit:C16612 .
+	
+	lld:C0268494 a ncit:C7057 .
+	
+	dgn-gda:DGN2ea8e981d3699a3ea47f318fcae54dc8 sio:SIO_000628 miriam-gene:7299 , lld:C0268494 ;
+		a sio:SIO_001122 .
+}
+

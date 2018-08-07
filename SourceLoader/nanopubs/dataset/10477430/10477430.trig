@@ -1,0 +1,8 @@
+{miriam-gene:7389 a ncit:C16612 .
+	
+	lld:C0162566 a ncit:C7057 .
+	
+	dgn-gda:DGN85184bdce822010e718e2840d075f1b7 sio:SIO_000628 miriam-gene:7389 , lld:C0162566 ;
+		a sio:SIO_001122 .
+}
+

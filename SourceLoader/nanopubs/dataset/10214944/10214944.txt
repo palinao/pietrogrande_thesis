@@ -1,0 +1,6 @@
+Accelerated filament formation from tau protein with specific FTDP-17 missense mutations.
+
+Authors: 
+Nacharaju P, Lewis J, Easson C, Yen S, Hackett J, Hutton M, Yen SH
+
+Tau is the major component of the neurofibrillar tangles that are a pathological hallmark of Alzheimers' disease. The identification of missense and splicing mutations in tau associated with the inherited frontotemporal dementia and Parkinsonism linked to chromosome 17 demonstrated that tau dysfunction can cause neurodegeneration. However, the mechanism by which tau dysfunction leads to neurodegeneration remains uncertain. Here, we present evidence that frontotemporal dementia and Parkinsonism linked to chromosome 17 missense mutations, P301L, V337M and R406W, cause an accelerated aggregation of tau into filaments. These results suggest one mechanism by which these mutations can cause neurodegeneration and frontotemporal dementia and Parkinsonism linked to chromosome 17.

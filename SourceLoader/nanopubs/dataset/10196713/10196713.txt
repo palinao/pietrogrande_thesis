@@ -1,0 +1,6 @@
+Mutation in the zonadhesin-like domain of alpha-tectorin associated with autosomal dominant non-syndromic hearing loss.
+
+Authors: 
+Alloisio N, Morlé L, Bozon M, Godet J, Verhoeven K, Van Camp G, Plauchu H, Muller P, Collet L, Lina-Granade G
+
+A gene responsible for autosomal dominant non-syndromic hearing impairment in two families (DFNA8 and DFNA12) has recently been identified as TECTA encoding alpha-tectorin, a major component of the tectorial membrane. In these families, missense mutations within the zona pellucida domain of alpha-tectorin were associated with stable severe mid-frequency hearing loss. The present study reports linkage to DFNA12 in a new family with autosomal dominant high frequency hearing loss progressing from mild to moderate severity. The candidate region refined to 3.8 cM still contained the TECTA gene. A missense mutation (C1619S) was identified in the zonadhesin-like domain. This mutation abolishes the first of the vicinal cysteines (1619Cys-Gly-Leu- 1622Cys) present in the D4 von Willebrand factor (vWf) type D repeat. These results further support the involvement of TECTA mutations in autosomal dominant hearing impairment, and suggest that vicinal cysteines are involved in tectorial membrane matrix assembly.

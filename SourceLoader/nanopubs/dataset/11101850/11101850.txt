@@ -1,0 +1,6 @@
+Perlecan, the major proteoglycan of basement membranes, is altered in patients with Schwartz-Jampel syndrome (chondrodystrophic myotonia).
+
+Authors: 
+Nicole S, Davoine CS, Topaloglu H, Cattolico L, Barral D, Beighton P, Hamida CB, Hammouda H, Cruaud C, White PS, Samson D, Urtizberea JA, Lehmann-Horn F, Weissenbach J, Hentati F, Fontaine B
+
+Schwartz-Jampel syndrome (SJS1) is a rare autosomal recessive disorder characterized by permanent myotonia (prolonged failure of muscle relaxation) and skeletal dysplasia, resulting in reduced stature, kyphoscoliosis, bowing of the diaphyses and irregular epiphyses. Electromyographic investigations reveal repetitive muscle discharges, which may originate from both neurogenic and myogenic alterations. We previously localized the SJS1 locus to chromosome 1p34-p36.1 and found no evidence of genetic heterogeneity. Here we describe mutations, including missense and splicing mutations, of the gene encoding perlecan (HSPG2) in three SJS1 families. In so doing, we have identified the first human mutations in HSPG2, which underscore the importance of perlecan not only in maintaining cartilage integrity but also in regulating muscle excitability.

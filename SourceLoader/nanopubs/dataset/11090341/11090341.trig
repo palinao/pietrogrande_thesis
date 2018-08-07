@@ -1,0 +1,8 @@
+{miriam-gene:64072 a ncit:C16612 .
+	
+	lld:C1832394 a ncit:C7057 .
+	
+	dgn-gda:DGNc2a18fbdf9735b4aad4a15963a00824f sio:SIO_000628 miriam-gene:64072 , lld:C1832394 ;
+		a sio:SIO_001122 .
+}
+

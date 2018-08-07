@@ -1,0 +1,8 @@
+{miriam-gene:1075 a ncit:C16612 .
+	
+	lld:C0030360 a ncit:C7057 .
+	
+	dgn-gda:DGN27d111cb3991e71259c2416c149c25af sio:SIO_000628 miriam-gene:1075 , lld:C0030360 ;
+		a sio:SIO_001122 .
+}
+

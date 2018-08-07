@@ -1,0 +1,6 @@
+A novel missense mutant inactivates GTP cyclohydrolase I in dopa-responsive dystonia.
+
+Authors: 
+Hirano M, Komure O, Ueno S
+
+Dopa-responsive dystonia (DRD) due to mutant GTP cyclohydrolase I (GCH) shows the considerable heterogeneity of clinical phenotypic expression. To explain the clinical diversity, we studied a Japanese family with a novel mutant GCH (GCH-G90V), where an affected heterozygote had a higher mutant/normal mRNA ratio than an unaffected heterozygote. Coexpression experiments using the mutant with wild-type GCH showed that GCH-G90V inactivated the normal enzyme in a dose-dependent manner, suggesting that the dominant negative effect of a mutant GCH on the normal enzyme might be one of the molecular mechanisms for the clinical heterogeneity of DRD.

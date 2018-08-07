@@ -1,0 +1,4 @@
+T0	GENE 8 12	FKRP
+N0	Reference T0 :::GENE	FKRP
+T1	GENE 68 78	dystrophin
+N1	Reference T1 :::GENE	dystrophin

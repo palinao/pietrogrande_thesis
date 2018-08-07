@@ -1,0 +1,6 @@
+A novel SCN5A mutation associated with idiopathic ventricular fibrillation without typical ECG findings of Brugada syndrome.
+
+Authors: 
+Akai J, Makita N, Sakurada H, Shirai N, Ueda K, Kitabatake A, Nakazawa K, Kimura A, Hiraoka M
+
+Mutations in the human cardiac Na+ channel alpha subunit gene (SCN5A) are responsible for Brugada syndrome, an idiopathic ventricular fibrillation (IVF) subgroup characterized by right bundle branch block and ST elevation on an electrocardiogram (ECG). However, the molecular basis of IVF in subgroups lacking these ECG findings has not been elucidated. We performed genetic screenings of Japanese IVF patients and found a novel SCN5A missense mutation (S1710L) in one symptomatic IVF patient that did not exhibit the typical Brugada ECG. Heterologously expressed S1710L channels showed marked acceleration in the current decay together with a large hyperpolarizing shift of steady-state inactivation and depolarizing shift of activation. These findings suggest that SCN5A is one of the responsible genes for IVF patients who do not show typical ECG manifestations of the Brugada syndrome.

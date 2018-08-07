@@ -1,0 +1,16 @@
+{miriam-gene:2737 a ncit:C16612 .
+	
+	lld:C0265306 a ncit:C7057 .
+	
+	dgn-gda:DGN9ce15eb4ac8d0cd60d7946a2f7722233 sio:SIO_000628 miriam-gene:2737 , lld:C0265306 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:2737 a ncit:C16612 .
+	
+	lld:C0265306 a ncit:C7057 .
+	
+	dgn-gda:DGN21c3d74ba02bd6bcbb59a3ffd14112ea sio:SIO_000628 miriam-gene:2737 , lld:C0265306 ;
+		a sio:SIO_001121 .
+}
+

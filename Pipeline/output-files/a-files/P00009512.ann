@@ -1,0 +1,4 @@
+T0	GENE 110 127	androgen receptor
+N0	Reference T0 :::GENE	androgen receptor
+T1	GENE 129 131	AR
+N1	Reference T1 :::GENE	AR

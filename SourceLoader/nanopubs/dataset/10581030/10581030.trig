@@ -1,0 +1,16 @@
+{miriam-gene:1991 a ncit:C16612 .
+	
+	lld:C0221023 a ncit:C7057 .
+	
+	dgn-gda:DGNfcbd743dae501d6641dc2accccf8de18 sio:SIO_000628 miriam-gene:1991 , lld:C0221023 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:1991 a ncit:C16612 .
+	
+	lld:C1859966 a ncit:C7057 .
+	
+	dgn-gda:DGNedfad5e18daa018afa0f85f828cca284 sio:SIO_000628 miriam-gene:1991 , lld:C1859966 ;
+		a sio:SIO_001122 .
+}
+

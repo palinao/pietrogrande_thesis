@@ -1,0 +1,6 @@
+Temperature-sensitive sodium channelopathy with heat-induced myotonia and cold-induced paralysis.
+
+Authors: 
+Sugiura Y, Aoki T, Sugiyama Y, Hida C, Ogata M, Yamamoto T
+
+The authors report a Japanese family with dominantly inherited heat-induced myotonia and cold-induced paralysis with hypokalemia. This phenotype is associated with a novel mutation in the voltage-dependent skeletal muscle sodium channel alpha subunit (SCN4A). This Pro1158Ser mutation is localized between the fourth and fifth transmembrane segments of domain III in SCN4A and may give rise to a new function; that is, thermosensitive permeability changes of the sodium channel.

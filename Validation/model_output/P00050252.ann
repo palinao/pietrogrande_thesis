@@ -1,0 +1,4 @@
+T0	GENE 97 102	renin
+N0	Reference T0 :::GENE	renin
+T1	GENE 182 186	ACE2
+N1	Reference T1 :::GENE	ACE2

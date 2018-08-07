@@ -1,0 +1,4 @@
+T0	GENE 0 7	SLC29A3
+N0	Reference T0 :::GENE	SLC29A3
+T1	GENE 125 132	insulin
+N1	Reference T1 :::GENE	insulin

@@ -1,0 +1,1 @@
+For HTN, we detected SNP pairs in five genes: GPR39, XRCC4, MYO6, ZFAT, and MACROD2

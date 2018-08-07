@@ -1,0 +1,4 @@
+T0	GENE 95 117	steroid 21-hydroxylase
+N0	Reference T0 :::GENE	steroid 21-hydroxylase
+T1	GENE 119 126	P450c21
+N1	Reference T1 :::GENE	P450c21

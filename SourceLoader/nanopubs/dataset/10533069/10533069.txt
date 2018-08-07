@@ -1,0 +1,6 @@
+Protein truncation test for screening hamartin gene mutations and report of new disease-causing mutations.
+
+Authors: 
+Bénit P, Kara-Mostefa A, Hadj-Rabia S, Munnich A, Bonnefont JP
+
+Considering the prevalence of truncating mutations in the tuberous sclerosis (TSC) hamartin gene (TSC1), we devised a protein truncation test (PTT) to analyze the full length coding sequence of TSC1. Studying 12 sporadic cases and three familial forms by a combination of PTT and single-strand conformation polymorphism analysis (SSCA), we found 5/15 mutations while PTT alone detected 4/15 truncating mutations, two of which escaped SSCA analysis. SSCA alone picked up one missense mutation and two mutations also detected by PTT. Interestingly, a TSC1 mutation was identified in all three familial forms (3/3) while the rate of mutation detection was lower in sporadic cases (2/12). In conclusion, PTT proves to be a useful technique for the rapid detection of disease-causing mutations in the TSC1 gene.

@@ -1,0 +1,6 @@
+Histidine-rich glycoprotein (HRG) Tokushima 2: novel HRG deficiency, molecular and cellular characterization.
+
+Authors: 
+Shigekiyo T, Yoshida H, Kanagawa Y, Satoh K, Wakabayashi S, Matsumoto T, Koide T
+
+The proband, a 76-year-old woman, suffered from dural arteriovenous fistula. Her plasma histidine-rich glycoprotein (HRG) level was 50% of the normal level. A low level of plasma HRG was also found in her third daughter. A single nucleotide substitution of T to C was found at nucleotide position 11,438 in exon 6 of the HRG gene from the proband, converting Cys223 to Arg in the second cystatin-like domain. The same mutation was also identified in her third daughter, but not in the other four family members having normal HRG levels or in 50 unrelated healthy Japanese individuals. Expression studies in BHK cells showed that substantial intracellular degradation of the mutant occurred and only about 40% of the recombinant HRG mutant was secreted. These results indicate that congenital HRG deficiency caused by a substitution of Cys223 to Arg is hereditary in this family.

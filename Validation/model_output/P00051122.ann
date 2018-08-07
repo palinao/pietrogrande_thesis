@@ -1,0 +1,4 @@
+T0	GENE 0 7	Insulin
+N0	Reference T0 :::GENE	Insulin
+T1	GENE 22 54	glycogen synthase kinase-3 alpha
+N1	Reference T1 :::GENE	glycogen synthase kinase-3 alpha

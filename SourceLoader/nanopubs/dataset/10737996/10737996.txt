@@ -1,0 +1,6 @@
+Novel mutations of the RPGR gene in RP3 families.
+
+Authors: 
+Zito I, Gorin MB, Plant C, Bird AC, Bhattacharya SS, Hardcastle AJ
+
+X-linked retinitis pigmentosa is a severe retinal degeneration characterized by night blindness and visual field constriction, leading to complete blindness within the third decade of life. Mutations in the RPGR gene (retinitis pigmentosa GTPase regulator), located on Xp21.1 in the RP3 region, have been associated with an RP phenotype. Further to our previous mutation screening of RPGR in families segregating with the RP3 locus, we have expanded this study to include other 8 RP3 pedigrees. Here we report the results of this expanded study and the identification of five mutations in RPGR, four of which are novel (IVS6+5 G>A, 950-951delAA, 963 T>C, EX8del) and one of which occurs in the donor splice site of intron 1 (IVS1+1 G>A). These findings bring the proportion of "RP3 genotypes" with a mutation in this gene to 27% (10/37). Hum Mutat 15:386, 2000.

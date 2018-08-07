@@ -1,0 +1,6 @@
+Identification of mutations in the galactose-1-phosphate uridyltransferase (GALT) gene in 16 Turkish patients with galactosemia, including a novel mutation of F294Y. Mutation in brief no. 235. Online.
+
+Authors: 
+Seyrantepe V, Ozguc M, Coskun T, Ozalp I, Reichardt JK
+
+Classical galactosemia caused by deficiency of galactose-1-phosphate uridyltransferase (GALT) is a severe autosomal recessive disorder. We report here molecular analysis of 16 unrelated Turkish galactosemia index cases without GALT activity. Almost 84% of all mutant alleles were identified in this study. The most common molecular defect observed in the Turkish population was Q188R (replacement of glutamine-188 by arginine) (57%). In order to facilitate the determination of unknown mutations in the entire coding region of GALT, we established an approach based on GALT cDNA synthesis and direct sequencing. We have identified one novel candidate galactosemia mutation, a T-to-A transversion at the codon 294 (F294Y) in exon 9 in addition to previously reported three missense (M142K K285N, A320T), one stop codon (E340X), and one silent (L218L) mutations in galactosemia patients which reflect considerable genetic heterogeneity in the Turkish population.

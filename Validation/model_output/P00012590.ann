@@ -1,0 +1,4 @@
+T0	GENE 9 21	LDL receptor
+N0	Reference T0 :::GENE	LDL receptor
+T1	GENE 28 32	OLR1
+N1	Reference T1 :::GENE	OLR1

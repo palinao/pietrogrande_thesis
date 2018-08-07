@@ -1,0 +1,4 @@
+T0	GENE 13 18	trait
+N0	Reference T0 :::GENE	trait
+T1	GENE 51 56	Adcy8
+N1	Reference T1 :::GENE	Adcy8

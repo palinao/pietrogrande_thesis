@@ -1,0 +1,16 @@
+{miriam-gene:6392 a ncit:C16612 .
+	
+	lld:C0030421 a ncit:C7057 .
+	
+	dgn-gda:DGNd0c8ef7dd56b2ff117c3a8aeba79e595 sio:SIO_000628 miriam-gene:6392 , lld:C0030421 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:6392 a ncit:C16612 .
+	
+	lld:C0031511 a ncit:C7057 .
+	
+	dgn-gda:DGN5c4b90251324edf7205946003fb6d223 sio:SIO_000628 miriam-gene:6392 , lld:C0031511 ;
+		a sio:SIO_001122 .
+}
+

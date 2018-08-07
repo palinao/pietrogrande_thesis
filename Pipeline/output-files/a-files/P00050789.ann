@@ -1,0 +1,4 @@
+T0	GENE 26 60	lipopolysaccharide-binding protein
+N0	Reference T0 :::GENE	lipopolysaccharide-binding protein
+T1	GENE 65 69	CD14
+N1	Reference T1 :::GENE	CD14

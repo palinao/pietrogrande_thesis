@@ -1,0 +1,6 @@
+Germline brca2 sequence variants in patients with ocular melanoma.
+
+Authors: 
+Sinilnikova OM, Egan KM, Quinn JL, Boutrand L, Lenoir GM, Stoppa-Lyonnet D, Desjardins L, Levy C, Goldgar D, Gragoudas ES
+
+On the basis, chiefly, of anecdotal reports of cases of ocular melanoma (OM) occurring in families with inherited susceptibility to breast cancer due to brca2 germline mutations, we examined the frequency of brca2 alterations in a series of 62 ocular melanoma cases. These cases were preferentially selected on the basis of reported family history of breast or ovarian cancer, or OM, although the series also included a randomly selected set of cases without family history of cancer. A total of 7 germline alterations were found, of which 3 were likely to be associated with disease. While all 3 deleterious mutations were found in patients who also had a personal history of breast cancer, only 1 of the 3 families had a family history of breast/ovarian cancer or OM. Although germline brca2 mutations may account for a small proportion of all OM cases, there may be additional loci that contribute to familial aggregation of OM and to the familial association between OM and breast cancer.

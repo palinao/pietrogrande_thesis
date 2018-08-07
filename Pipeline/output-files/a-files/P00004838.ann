@@ -1,0 +1,6 @@
+T0	GENE 0 13	Thyroglobulin
+N0	Reference T0 :::GENE	Thyroglobulin
+T1	GENE 76 89	thyroglobulin
+N1	Reference T1 :::GENE	thyroglobulin
+T2	GENE 130 161	type 2 iodothyronine deiodinase
+N2	Reference T2 :::GENE	type 2 iodothyronine deiodinase

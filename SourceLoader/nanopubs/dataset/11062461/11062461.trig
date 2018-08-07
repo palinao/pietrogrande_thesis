@@ -1,0 +1,16 @@
+{miriam-gene:10461 a ncit:C16612 .
+	
+	lld:C3151228 a ncit:C7057 .
+	
+	dgn-gda:DGNc87c690bd7fe6f3ddd9d7428cd62959c sio:SIO_000628 miriam-gene:10461 , lld:C3151228 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:10461 a ncit:C16612 .
+	
+	lld:C0035334 a ncit:C7057 .
+	
+	dgn-gda:DGN576a133d98566e378aa17c08757bec26 sio:SIO_000628 miriam-gene:10461 , lld:C0035334 ;
+		a sio:SIO_001121 .
+}
+

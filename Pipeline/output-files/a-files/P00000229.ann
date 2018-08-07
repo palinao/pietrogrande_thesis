@@ -1,0 +1,4 @@
+T0	GENE 9 25	neurohypophyseal
+N0	Reference T0 :::GENE	neurohypophyseal
+T1	GENE 184 187	AVP
+N1	Reference T1 :::GENE	AVP

@@ -1,0 +1,6 @@
+Start of UK confidential haemophilia A database: analysis of 142 patients by solid phase fluorescent chemical cleavage of mismatch. Haemophilia Centres.
+
+Authors: 
+Waseem NH, Bagnall R, Green PM, Giannelli F
+
+A national strategy for optimising genetic services in haemophilia A has been initiated in the UK. Solid phase fluorescent chemical cleavage of mismatch is used to screen the entire coding region of factor VIII in six segments: four amplified from the trace of mRNA in blood lymphocytes and two from genomic DNA for the 3.4 kb exon 14 and flanking intron sequences. These segments are analysed in two threefold multiplexes so that the genes of 18 patients can be screened in a single ABI 377 gel. The promoter and polyadenylation signal region are amplified and sequenced directly. We have analysed 142 unrelated patients and identified 141 factor VIII mutations and one Normandy type von Willebrand homozygote. The former mutations include 89 missense, 10 nonsense, 5 frameshift, one 24 bp deletion and one splice signal defect. These comprise 71 different changes, of which 39 have not been previously observed.

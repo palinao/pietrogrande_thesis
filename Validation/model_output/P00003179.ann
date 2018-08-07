@@ -1,0 +1,4 @@
+T0	GENE 0 3	MPZ
+N0	Reference T0 :::GENE	MPZ
+T1	GENE 69 74	CMT1B
+N1	Reference T1 :::GENE	CMT1B

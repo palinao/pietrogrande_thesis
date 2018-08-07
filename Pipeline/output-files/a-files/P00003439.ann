@@ -1,0 +1,6 @@
+T0	GENE 108 114	tissue
+N0	Reference T0 :::GENE	tissue
+T1	GENE 150 156	TNSALP
+N1	Reference T1 :::GENE	TNSALP
+T2	GENE 182 188	TNSALP
+N2	Reference T2 :::GENE	TNSALP

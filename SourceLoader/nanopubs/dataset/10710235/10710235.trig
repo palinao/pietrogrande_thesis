@@ -1,0 +1,8 @@
+{miriam-gene:50814 a ncit:C16612 .
+	
+	lld:C0265267 a ncit:C7057 .
+	
+	dgn-gda:DGN03dc2546ceb32909d713e52bc37d896a sio:SIO_000628 miriam-gene:50814 , lld:C0265267 ;
+		a sio:SIO_001122 .
+}
+

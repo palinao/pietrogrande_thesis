@@ -1,0 +1,6 @@
+Identification of CYP21 mutations, one novel, by single strand conformational polymorphism (SSCP) analysis. Mutations in brief no. 218. Online.
+
+Authors: 
+Witchel SF, Smith R, Suda-Hartman M
+
+Congenital adrenal hyperplasia due to 21-hydroxylase deficiency is a common autosomal recessive disorder (MIM# 201910) due to mutations in the 21-hydroxylase (CYP21) gene (GDB Accession # M12792). Using our protocol for single strand conformational polymorphism (SSCP) analysis, we have identified two mutations not known to exist in the 21-hydroxylase pseudogene (CYP21P). One mutation involving codon 169, TGC to AC appears to be novel. The 46,XX patient carried the codon 169 mutation on her paternal allele and a large gene deletion/conversion event on her maternal allele. This patient had been referred in the immediate neonatal period for the evaluation of genital ambiguity and had developed hyponatremia and hyperkalemia. The second patient presented with premature pubic hair. She carried R356Q on her maternal allele and V281L on her paternal allele.

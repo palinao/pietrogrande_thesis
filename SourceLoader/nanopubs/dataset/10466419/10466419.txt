@@ -1,0 +1,6 @@
+Mucopolysaccharidosis type I: characterization of novel mutations affecting alpha-L-iduronidase activity.
+
+Authors: 
+Lee-Chen GJ, Lin SP, Tang YF, Chin YW
+
+alpha-L-Iduronidase (IDUA) deficiency (mucopolysaccharidosis type I, MPS I) involves a broad spectrum of clinical severity ranging from a severe Hurler syndrome through an intermediate Hurler Scheie syndrome to a mild Scheie syndrome. To date, a number of mutations of the IDUA gene are known in Hurler syndrome, but only a few in Hurler Scheie or Scheie syndrome. The characterization of novel mutations in two patients with the Hurler-Scheie syndrome is reported on. The novel R619G mutation (C-G transversion in codon 619) was apparently homozygous. In transfected COS-7 cells, R619G caused significant reduction in enzyme activity (1.5% of normal activity), although it did not cause significant reduction in IDUA mRNA or protein level. Conversely, the previously described homozygous T364M mutation (C-T transition in codon 364) caused a decrease in the level of IDUA mRNA. Studies inhibiting RNA synthesis with actinomycin D or inhibiting protein synthesis with cycloheximide demonstrate that the decrease in the latter mutation is attributable to an increased rate of mRNA decay. By examining the stability of IDUA mRNA and protein, studies provide better insight into the effect of mutation on IDUA activity.

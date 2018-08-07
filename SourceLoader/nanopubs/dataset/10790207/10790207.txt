@@ -1,0 +1,6 @@
+Mutational analysis of ATP7B and genotype-phenotype correlation in Japanese with Wilson's disease.
+
+Authors: 
+Okada T, Shiono Y, Hayashi H, Satoh H, Sawada T, Suzuki A, Takeda Y, Yano M, Michitaka K, Onji M, Mabuchi H
+
+The gene ATP7B responsible for Wilson's disease (WD) produces a protein which is predicted to be a copper-binding P-type ATPase, homologous to the Menkes disease gene (ATP7A). Various mutations of ATP7B have been identified. This study aimed to detect disease-causing mutations, to clarify their frequency and distribution, to determine whether genotype correlates with phenotype, and to determine the rate of abnormal findings in heterozygotes for the WD gene. We analyzed 41 unrelated Japanese WD families, including 47 patients. Twenty-one mutations, including nine novel ones, were identified. 2871delC (15.9%), 1708-5T-->G (11. 0%), and Arg778Leu (13.4%) were the most common mutations. 2871delC was detected mainly in eastern Japan and 1708-5T-->G in western Japan. The homozygotes for the 1708-5T-->G, 2871delC, or Arg778Leu mutations did not show a correlation with their phenotypes. Ceruloplasmin and copper levels were abnormally low in 28.6% and 35. 0% of heterozygotes, respectively. When patients and their families are screened for WD, a high rate of abnormal laboratory data in heterozygotes must be taken into account.

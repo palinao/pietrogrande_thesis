@@ -1,0 +1,6 @@
+Evaluation of a mutation screening strategy for sporadic cases of ATR-X syndrome.
+
+Authors: 
+Villard L, Bonino MC, Abidi F, Ragusa A, Belougne J, Lossi AM, Seaver L, Bonnefont JP, Romano C, Fichera M, Lacombe D, Hanauer A, Philip N, Schwartz C, Fontés M
+
+We report on the evaluation of a strategy for screening for XNP/ATR-X mutations in males with mental retardation and associated dysmorphology. Because nearly half of the mutations in this gene reported to date fall into a short 300 bp region of the transcript, we decided to focus in this region and to extend the mutation analysis to cases with a negative family history. This study includes 21 mentally retarded male patients selected because they had severe mental retardation and a typical facial appearance. The presence of haemoglobin H or urogenital abnormalities was not considered critical for inclusion in this study. We have identified six mutations which represents a mutation detection rate of 28%. This figure is high enough for us to propose this strategy as a valid first level of screening in a selected subset of males with mental retardation. This approach is simple, does not require RNA preparation, does not involve time consuming mutation detection methods, and can thus be applied to a large number of patients at a low cost in any given laboratory.

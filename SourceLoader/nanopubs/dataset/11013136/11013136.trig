@@ -1,0 +1,8 @@
+{miriam-gene:6341 a ncit:C16612 .
+	
+	lld:C0268237 a ncit:C7057 .
+	
+	dgn-gda:DGN1125a246c29fb1d798141889e34f2155 sio:SIO_000628 miriam-gene:6341 , lld:C0268237 ;
+		a sio:SIO_001122 .
+}
+

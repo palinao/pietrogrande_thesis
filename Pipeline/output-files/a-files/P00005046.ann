@@ -1,0 +1,8 @@
+T0	GENE 90 104	Filamin A gene
+N0	Reference T0 :::GENE	Filamin A gene
+T1	GENE 106 110	FLNA
+N1	Reference T1 :::GENE	FLNA
+T2	GENE 124 133	Filamin A
+N2	Reference T2 :::GENE	Filamin A
+T3	GENE 232 241	Filamin A
+N3	Reference T3 :::GENE	Filamin A

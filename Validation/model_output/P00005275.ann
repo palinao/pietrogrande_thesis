@@ -1,0 +1,4 @@
+T0	GENE 20 24	HEXA
+N0	Reference T0 :::GENE	HEXA
+T1	GENE 29 33	HEXB
+N1	Reference T1 :::GENE	HEXB

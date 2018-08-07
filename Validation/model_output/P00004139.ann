@@ -1,0 +1,6 @@
+T0	GENE 53 58	MOCS1
+N0	Reference T0 :::GENE	MOCS1
+T1	GENE 104 109	MOCS2
+N1	Reference T1 :::GENE	MOCS2
+T2	GENE 157 179	molybdopterin synthase
+N2	Reference T2 :::GENE	molybdopterin synthase

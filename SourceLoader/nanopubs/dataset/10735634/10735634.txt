@@ -1,0 +1,6 @@
+Identification and characterization of -3c-g acceptor splice site mutation in human alpha-L-iduronidase associated with mucopolysaccharidosis type IH/S.
+
+Authors: 
+Teng YN, Wang TR, Hwu WL, Lin SP, Lee-Chen GJ
+
+DNA screening for mutations in the alpha-L-iduronidase (IDUA) gene was performed in a Chinese mucopolysaccharidosis type IH/S patient. The patient had two different mutations: the maternal allele has L346R (t-g transversion in codon 346) and the paternal allele has 388-3c-g (c-g transversion at position -3 of the 3' splice site of intron 2). In transfected COS-7 cells, L346R showed no appreciable IDUA activity (0.4% of normal activity), although it did not cause an apparent reduction in IDUA mRNA or protein level. The 388-3c-g mutation profoundly affects normal splicing leading to a very unstable mRNA. Expression of the IDUA cDNA containing the mutated acceptor splice site showed trace amounts of enzyme activity (1.6% of normal activity). The results provide further support for the importance of cytosine at the -3 position in RNA processing.

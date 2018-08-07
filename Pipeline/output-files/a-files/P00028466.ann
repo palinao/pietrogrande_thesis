@@ -1,0 +1,4 @@
+T0	GENE 7 26	natriuretic peptide
+N0	Reference T0 :::GENE	natriuretic peptide
+T1	GENE 80 100	arginine vasopressin
+N1	Reference T1 :::GENE	arginine vasopressin

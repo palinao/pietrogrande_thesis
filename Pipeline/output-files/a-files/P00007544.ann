@@ -1,0 +1,4 @@
+T0	GENE 0 20	GTP cyclohydrolase I
+N0	Reference T0 :::GENE	GTP cyclohydrolase I
+T1	GENE 25 45	tyrosine hydroxylase
+N1	Reference T1 :::GENE	tyrosine hydroxylase

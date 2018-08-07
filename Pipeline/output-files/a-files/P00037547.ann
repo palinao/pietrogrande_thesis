@@ -1,0 +1,6 @@
+T0	GENE 17 25	p16INK4a
+N0	Reference T0 :::GENE	p16INK4a
+T1	GENE 33 46	p16INK4a-beta
+N1	Reference T1 :::GENE	p16INK4a-beta
+T2	GENE 51 59	p15INK4b
+N2	Reference T2 :::GENE	p15INK4b

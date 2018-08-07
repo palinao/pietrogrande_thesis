@@ -1,0 +1,6 @@
+Single-step mutation scanning of the 6-pyruvoyltetrahydropterin synthase gene in patients with hyperphenylalaninemia.
+
+Authors: 
+Romstad A, Guldberg P, Blau N, Güttler F
+
+Deficiency of 6-pyruvoyltetrahydropterin synthase (PTPS) is a recessively inherited disorder that leads to depletion of 5,6,7, 8-tetrahydrobiopterin, the obligatory cofactor for hydroxylation of phenylalanine, tyrosine, and tryptophan. A marker for neonatal detection of PTPS deficiency is hyperphenylalaninemia (HPA). Molecular analysis would provide a simple and reliable means for distinguishing PTPS deficiency from other potential causes of HPA.

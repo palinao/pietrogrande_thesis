@@ -1,0 +1,6 @@
+Domain-specific mutations in TGFB1 result in Camurati-Engelmann disease.
+
+Authors: 
+Kinoshita A, Saito T, Tomita H, Makita Y, Yoshida K, Ghadami M, Yamada K, Kondo S, Ikegawa S, Nishimura G, Fukushima Y, Nakagomi T, Saito H, Sugimoto T, Kamegaya M, Hisa K, Murray JC, Taniguchi N, Niikawa N, Yoshiura K
+
+Camurati-Engelmann disease (CED, MIM 131300) is an autosomal dominant, progressive diaphyseal dysplasia characterized by hyperosteosis and sclerosis of the diaphyses of long bones. We recently assigned the CED locus to an interval between D19S422 and D19S606 at chromosome 19q13.1-q13.3, which two other groups confirmed. As the human transforming growth factor-1 gene (TGFB1) is located within this interval, we considered it a candidate gene for CED.

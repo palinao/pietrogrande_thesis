@@ -1,0 +1,4 @@
+T0	GENE 93 96	AT1
+N0	Reference T0 :::GENE	AT1
+T1	GENE 114 119	renin
+N1	Reference T1 :::GENE	renin

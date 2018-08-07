@@ -1,0 +1,16 @@
+{miriam-gene:6606 a ncit:C16612 .
+	
+	lld:C0043116 a ncit:C7057 .
+	
+	dgn-gda:DGN0ddabe882a38330aad65d33b378af2e4 sio:SIO_000628 miriam-gene:6606 , lld:C0043116 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:6606 a ncit:C16612 .
+	
+	lld:C0152109 a ncit:C7057 .
+	
+	dgn-gda:DGN6e10f4b43a04f362578f7907193136bc sio:SIO_000628 miriam-gene:6606 , lld:C0152109 ;
+		a sio:SIO_001122 .
+}
+

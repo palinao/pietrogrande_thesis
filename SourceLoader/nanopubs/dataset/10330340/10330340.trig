@@ -1,0 +1,8 @@
+{miriam-gene:825 a ncit:C16612 .
+	
+	lld:C1869123 a ncit:C7057 .
+	
+	dgn-gda:DGNe1548bc96e0f80ae1d6f4d3cb597a90f sio:SIO_000628 miriam-gene:825 , lld:C1869123 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,6 @@
+Missense mutations in the rod domain of the lamin A/C gene as causes of dilated cardiomyopathy and conduction-system disease.
+
+Authors: 
+Fatkin D, MacRae C, Sasaki T, Wolff MR, Porcu M, Frenneaux M, Atherton J, Vidaillet HJ Jr, Spudich S, De Girolami U, Seidman JG, Seidman C, Muntoni F, Müehle G, Johnson W, McDonough B
+
+Inherited mutations cause approximately 35 percent of cases of dilated cardiomyopathy; however, few genes associated with this disease have been identified. Previously, we located a gene defect that was responsible for autosomal dominant dilated cardiomyopathy and conduction-system disease on chromosome 1p1-q21, where nuclear-envelope proteins lamin A and lamin C are encoded by the LMNA (lamin A/C) gene. Mutations in the head or tail domain of this gene cause Emery-Dreifuss muscular dystrophy, a childhood-onset disease characterized by joint contractures and in some cases by abnormalities of cardiac conduction during adulthood.

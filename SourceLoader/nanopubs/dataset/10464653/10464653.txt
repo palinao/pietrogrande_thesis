@@ -1,0 +1,6 @@
+Branchio-oto-renal syndrome: identification of novel mutations, molecular characterization, mutation distribution, and prospects for genetic testing.
+
+Authors: 
+Kumar S, Deffenbacher K, Cremers CW, Van Camp G, Kimberling WJ
+
+The branchio-oto-renal syndrome (BOR) is an autosomal dominant disorder characterized by branchial clefts, preauricular sinuses, hearing loss, and renal anomalies. The BOR gene, EYA1, on chromosome 8q13 has recently been cloned and mutations have been identified. In this study, we have analyzed the sites of mutations in the EYA1 gene in BOR patients to determine the spectrum of mutations. We have identified two missense mutations and have compared all the mutations reported to date in the EYA1 gene. In total, 20 mutations have been described, the majority of which are clustered in the carboxy-terminal region of the gene. The clinical features of the BOR individuals have also been compared to determine if the nature of the mutation correlates with the type and severity of the clinical symptoms. Most of the mutations arose de novo and, other than the clustering in carboxy-terminal exons 9-16, no mutation hot spots have been identified. These results provide the basis for molecular genetic testing that will help in the clinical evaluation and genetic counseling of members of BOR families.

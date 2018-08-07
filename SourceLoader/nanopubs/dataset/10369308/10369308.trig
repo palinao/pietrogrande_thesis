@@ -1,0 +1,8 @@
+{miriam-gene:6329 a ncit:C16612 .
+	
+	lld:C0221055 a ncit:C7057 .
+	
+	dgn-gda:DGN8f3f4694120ac5605e9ab55565ad0ac4 sio:SIO_000628 miriam-gene:6329 , lld:C0221055 ;
+		a sio:SIO_001122 .
+}
+

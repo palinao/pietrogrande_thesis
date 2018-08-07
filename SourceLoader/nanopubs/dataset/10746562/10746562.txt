@@ -1,0 +1,6 @@
+Further evidence of autosomal dominant congenital zonular pulverulent cataracts linked to 13q11 (CZP3) and a novel mutation in connexin 46 (GJA3).
+
+Authors: 
+Rees MI, Watts P, Fenton I, Clarke A, Snell RG, Owen MJ, Gray J
+
+We describe a four-generation family with fully penetrant, autosomal dominant, congenital cataracts (ADCC), presenting with morphologically homogeneous "zonular pulverulent" cataracts (CZP) and typical early-onset phenotype. Linkage analysis was performed with a panel of polymorphic markers mapped to all genomic regions of ADCC susceptibility. Contiguous significant two-point lod scores were generated at autosomal region 13q11-q13 and further linkage and haplotype studies confined the disease locus to 13q11, supporting a previous linkage of CZP (specifically CZP3) to 13q11. Mutations in a gap-junction protein, connexin 46 (alphaa3 subunit or GJA3), have recently been reported as being linked to the 13q11 region. Mutational analysis of connexin 46 in our family revealed a C-->T at position 560 (P187L) of the cDNA sequence creating a novel MnlI restriction site that segregated with affected members of the pedigree. This family represents a second report of CZP3 linkage to 13q and is associated with a novel mutation in the connexin 46 (GJA3) gene.

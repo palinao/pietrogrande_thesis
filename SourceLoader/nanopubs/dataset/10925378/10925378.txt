@@ -1,0 +1,6 @@
+Mutations in the KCNQ4 K+ channel gene, responsible for autosomal dominant hearing loss, cluster in the channel pore region.
+
+Authors: 
+Van Hauwe P, Coucke PJ, Ensink RJ, Huygen P, Cremers CW, Van Camp G
+
+The DFNA2 locus for autosomal dominant nonsyndromic hearing impairment on chromosome 1p34 contains at least 2 genes responsible for hearing loss, GJB3 and KCNQ4. GJB3 is a member of the connexin gene family and KCNQ4 is a voltage-gated potassium channel. KCNQ4 mutations were first found in a French family, and later also in a Belgian, an American and two Dutch families. Here we present the analysis of the GJB3 and KCNQ4 genes in a third Dutch family linked to DFNA2. No mutation was found in GJB3, but a missense mutation changing a conserved Leu residue into His (L274H) was found in the coding region of the KCNQ4 gene in all patients of this DFNA2 family. Examination of the position of all known KCNQ4 mutations showed a clustering of mutations in the pore region of the KCNQ4 gene, responsible for the ion selectivity of the channel. The clustering of mutations in this domain confirms its importance.

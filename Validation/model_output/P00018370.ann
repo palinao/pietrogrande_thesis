@@ -1,0 +1,4 @@
+T0	GENE 0 24	Core binding factor beta
+N0	Reference T0 :::GENE	Core binding factor beta
+T1	GENE 26 30	CBFB
+N1	Reference T1 :::GENE	CBFB

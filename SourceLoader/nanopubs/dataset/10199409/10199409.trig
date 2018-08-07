@@ -1,0 +1,8 @@
+{miriam-gene:7132 a ncit:C16612 .
+	
+	lld:C1275126 a ncit:C7057 .
+	
+	dgn-gda:DGNc79719aaae1bc6b77da27a71314b1515 sio:SIO_000628 miriam-gene:7132 , lld:C1275126 ;
+		a sio:SIO_001122 .
+}
+

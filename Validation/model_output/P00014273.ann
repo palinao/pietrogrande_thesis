@@ -1,0 +1,4 @@
+T0	GENE 9 19	huntingtin
+N0	Reference T0 :::GENE	huntingtin
+T1	GENE 34 55	c-Jun terminal kinase
+N1	Reference T1 :::GENE	c-Jun terminal kinase

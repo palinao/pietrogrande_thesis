@@ -1,0 +1,6 @@
+Identification of three novel mutations in the MNK gene in three unrelated Japanese patients with classical Menkes disease.
+
+Authors: 
+Ogawa A, Yamamoto S, Takayanagi M, Kogo T, Kanazawa M, Kohno Y
+
+Menkes disease is an X-linked recessive disorder of the copper membrane transport system caused by mutations to the Menkes (MNK) gene. We identified three novel mutations of the MNK gene in three unrelated Japanese patients with classical Menkes disease by analyzing reverse-transcriptase polymerase chain reaction products and genomic DNA of the MNK gene. Firstly, an insertional mutation was found, 1173 ins A, which led to a premature termination and resulted in a very immature Menkes protein. Secondly, we found a point mutation, T2763G, resulting in a leucine-to-arginine conversion, which we predicted would cause a change in the secondary structure of the Menkes protein. Finally, we identified a splicing mutation, 2317 + 5G > C, which resulted in the skipping of both exons 8 and 9 or exon 9 only, and led to a truncation of the protein. Each of these mutations is hypothesized to destroy copper-ATPase-mediated copper transport. We propose that each of these mutations in the MNK gene plays a causative role in the disease.

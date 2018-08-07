@@ -1,0 +1,4 @@
+T0	GENE 0 13	Ceruloplasmin
+N0	Reference T0 :::GENE	Ceruloplasmin
+T1	GENE 101 112	transferrin
+N1	Reference T1 :::GENE	transferrin

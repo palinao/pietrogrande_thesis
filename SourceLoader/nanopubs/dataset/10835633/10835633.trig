@@ -1,0 +1,8 @@
+{miriam-gene:8022 a ncit:C16612 .
+	
+	lld:C3489787 a ncit:C7057 .
+	
+	dgn-gda:DGN1f524a540f5e30581e44326cff76bc3a sio:SIO_000628 miriam-gene:8022 , lld:C3489787 ;
+		a sio:SIO_001122 .
+}
+

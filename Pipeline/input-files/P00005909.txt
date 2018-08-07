@@ -1,0 +1,1 @@
+Retrospective analysis of the first 2,500 cases (1,515 female patients, average age at testing 23 +/- 17 years, range 0 to 90 years) scanned for mutations in 5 of the LQTS-susceptibility genes: KCNQ1 (LQT1), KCNH2 (LQT2), SCN5A (LQT3), KCNE1 (LQT5), and KCNE2 (LQT6)

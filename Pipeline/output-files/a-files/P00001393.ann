@@ -1,0 +1,6 @@
+T0	GENE 60 74	alpha 6 beta 4
+N0	Reference T0 :::GENE	alpha 6 beta 4
+T1	GENE 85 90	ITGA6
+N1	Reference T1 :::GENE	ITGA6
+T2	GENE 95 100	ITGB4
+N2	Reference T2 :::GENE	ITGB4

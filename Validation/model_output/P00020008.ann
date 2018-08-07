@@ -1,0 +1,4 @@
+T0	GENE 41 50	TGFbeta-1
+N0	Reference T0 :::GENE	TGFbeta-1
+T1	GENE 56 59	HGF
+N1	Reference T1 :::GENE	HGF

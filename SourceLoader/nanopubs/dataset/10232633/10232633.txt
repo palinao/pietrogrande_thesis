@@ -1,0 +1,6 @@
+Biochemical but not clinical vitamin A deficiency results from mutations in the gene for retinol binding protein.
+
+Authors: 
+Biesalski HK, Frank J, Beck SC, Heinrich F, Illek B, Reifen R, Gollnick H, Seeliger MW, Wissinger B, Zrenner E
+
+Two German sisters aged 14 and 17 y were admitted to the Tübingen eye hospital with a history of night blindness. In both siblings, plasma retinol binding protein (RBP) concentrations were below the limit of detection (<0.6 micromol/L) and plasma retinol concentrations were extremely low (0.19 micromol/L). Interestingly, intestinal absorption of retinyl esters was normal. In addition, other factors associated with low retinol concentrations (eg, low plasma transthyretin or zinc concentrations or mutations in the transthyretin gene) were not present. Neither sibling had a history of systemic disease.

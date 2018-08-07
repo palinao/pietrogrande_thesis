@@ -1,0 +1,4 @@
+T0	GENE 0 6	Myosin
+N0	Reference T0 :::GENE	Myosin
+T1	GENE 76 80	MYH7
+N1	Reference T1 :::GENE	MYH7

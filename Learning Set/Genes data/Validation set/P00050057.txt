@@ -1,0 +1,1 @@
+To control for a functional contribution of the pancreatic CIC-marker EpCAM, we explored metastasis formation by a stable EpCAM-knockdown (ASML-EpC(kd)) of the rat pancreatic adenocarcinoma line BSp73ASML (ASML(wt))

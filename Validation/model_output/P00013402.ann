@@ -1,0 +1,4 @@
+T0	GENE 54 64	calcitonin
+N0	Reference T0 :::GENE	calcitonin
+T1	GENE 87 91	CGRP
+N1	Reference T1 :::GENE	CGRP

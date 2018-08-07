@@ -1,0 +1,6 @@
+A new GTP-cyclohydrolase I mutation in an unusual dopa-responsive dystonia, familial form.
+
+Authors: 
+Brique S, Destée A, Lambert JC, Mouroux V, Delacourte A, Amouyel P, Chartier-Harlin MC
+
+We found a new mutation in the GTP cyclohydrolase gene involved in dopa-responsive dystonia. We sequenced the GTP cyclohydrolase gene in a family with four siblings affected by this disorder and identified an A-T mutation in exon 2, leading to a non conservative amino acid substitution at codon 135 of the protein (Ile135Lys), which may change the conformation of the binding site of this enzyme. The clinical evolution was heterogeneous among carriers of the same mutation, underlining the involvement of other determinants modulating the occurrence of the disease such as genetic or environmental susceptibility factors.

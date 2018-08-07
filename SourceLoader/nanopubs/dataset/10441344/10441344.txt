@@ -1,0 +1,6 @@
+A molecular analysis of the yemenite deaf-blind hypopigmentation syndrome: SOX10 dysfunction causes different neurocristopathies.
+
+Authors: 
+Bondurand N, Kuhlbrodt K, Pingault V, Enderich J, Sajus M, Tommerup N, Warburg M, Hennekam RC, Read AP, Wegner M, Goossens M
+
+The Yemenite deaf-blind hypopigmentation syndrome was first observed in a Yemenite sister and brother showing cutaneous hypopigmented and hyperpigmented spots and patches, microcornea, coloboma and severe hearing loss. A second case, observed in a girl with similar skin symptoms and hearing loss but without microcornea or coloboma, was reported as a mild form of this syndrome. Here we show that a SOX10 missense mutation is responsible for the mild form, resulting in a loss of DNA binding of this transcription factor. In contrast, no SOX10 alteration could be found in the other, severe case of the Yemenite deaf-blind hypopigmentation syndrome. Based on genetic, clinical, molecular and functional data, we suggest that these two cases represent two different syndromes. Moreover, as mutations of the SOX10 transcription factor were previously described in Waardenburg-Hirschsprung disease, these results show that SOX10 mutations cause various types of neurocristopathy.

@@ -1,0 +1,4 @@
+T0	GENE 20 30	HIF-1alpha
+N0	Reference T0 :::GENE	HIF-1alpha
+T1	GENE 35 53	S100B glial factor
+N1	Reference T1 :::GENE	S100B glial factor

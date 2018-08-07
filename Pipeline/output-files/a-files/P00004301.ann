@@ -1,0 +1,4 @@
+T0	GENE 21 27	Nav1.1
+N0	Reference T0 :::GENE	Nav1.1
+T1	GENE 44 49	SCN1A
+N1	Reference T1 :::GENE	SCN1A

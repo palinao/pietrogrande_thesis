@@ -1,0 +1,6 @@
+Connexin 50 mutation in a family with congenital "zonular nuclear" pulverulent cataract of Pakistani origin.
+
+Authors: 
+Berry V, Mackay D, Khaliq S, Francis PJ, Hameed A, Anwar K, Mehdi SQ, Newbold RJ, Ionides A, Shiels A, Moore T, Bhattacharya SS
+
+Inherited cataract is a clinically and genetically heterogeneous disease that most often presents as a congenital autosomal dominant trait. Here we report linkage of a three-generation family of Pakistani origin with autosomal dominant cataract "zonular nuclear" pulverulent type (CZNP) on chromosome 1q21.1. Genome wide-linkage analysis excluded all the known cataract loci except on chromosome 1q. Significantly positive 2-point lod score values (Z=3.01 at theta=0) were obtained for markers D1S305 and D1S2721, which are known to flank the gene for connexin 50 (Cx50) or gap junction protein alpha-8 (Gja8). Previously a mutation in this gene has been reported in a British family with zonular pulverulent cataract (CZP). Here we describe a second mutation (E48K) in connexin 50 that confirms the involvement of this gene in cataractogenesis.

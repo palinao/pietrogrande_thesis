@@ -1,0 +1,6 @@
+T0	GENE 65 94	human glucocorticoid receptor
+N0	Reference T0 :::GENE	human glucocorticoid receptor
+T1	GENE 96 99	hGR
+N1	Reference T1 :::GENE	hGR
+T2	GENE 188 191	LBD
+N2	Reference T2 :::GENE	LBD

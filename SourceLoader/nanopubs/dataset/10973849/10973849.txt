@@ -1,0 +1,6 @@
+Spectrum of mutations in long-QT syndrome genes. KVLQT1, HERG, SCN5A, KCNE1, and KCNE2.
+
+Authors: 
+Splawski I, Shen J, Timothy KW, Lehmann MH, Priori S, Robinson JL, Moss AJ, Schwartz PJ, Towbin JA, Vincent GM, Keating MT
+
+Long-QT Syndrome (LQTS) is a cardiovascular disorder characterized by prolongation of the QT interval on ECG and presence of syncope, seizures, and sudden death. Five genes have been implicated in Romano-Ward syndrome, the autosomal dominant form of LQTS: KVLQT1, HERG, SCN5A, KCNE1, and KCNE2. Mutations in KVLQT1 and KCNE1 also cause the Jervell and Lange-Nielsen syndrome, a form of LQTS associated with deafness, a phenotypic abnormality inherited in an autosomal recessive fashion.

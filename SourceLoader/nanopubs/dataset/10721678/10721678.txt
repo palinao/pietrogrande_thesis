@@ -1,0 +1,6 @@
+A novel missense mutation in the HMG box region of the SRY gene in a Japanese patient with an XY sex reversal.
+
+Authors: 
+Okuhara K, Tajima T, Nakae J, Fujieda K
+
+The sex-determining region of the Y chromosome, the SRY gene, located on the short arm of the Y chromosome, is appreciated as one of the genes that is responsible for directing the process of sex differentiation. To date, 34 different mutations, including 29 missense and nonsense mutations in the SRY gene, have been described in XY female patients. We investigated the molecular basis of the sex reversal in one Japanese XY female patient by determining the nucleotide sequence of the SRY gene, using polymerase chain reaction and direct sequencing. We identified a novel mutation, of the substitution of Tyr for Asn at nucleotide position 87 (N87Y). This Asn residue is located within the DNA-binding high-mobility-group (HMG) motif, which is considered to be the main functional domain of the SRY protein. Further, this amino acid, Asn, is a conserved residue among mammalian SRY genes. These findings indicate that this amino acid substitution may be responsible for the sex reversal in this patient.

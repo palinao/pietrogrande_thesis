@@ -1,0 +1,6 @@
+Two novel mutations of the FMO3 gene in a proband with trimethylaminuria.
+
+Authors: 
+Akerman BR, Forrest S, Chow L, Youil R, Knight M, Treacy EP
+
+The mammalian flavin-containing monooxygenases catalyze the NADPH-dependent N-oxygenation of nucleophilic nitrogen-, sulfur-, and phosphorus-containing chemicals, drugs, and xenobiotics, including trimethylamine. The FMO3 gene encodes the dominant catalytically active isoform present in human liver. We have identified two missense mutations in the coding region of the gene in a proband with trimethylaminuria (TMA): M66I and R492W. Whereas two mutations (P153L, E305X) accounted for TMA in our eight unrelated previously documented Australian families of British origin, the present report is the first evidence of compound heterozygosity for two rare mutations in a proband with this disorder. This suggests that other rarer alleles, also causing TMA, will be found in the same populations.

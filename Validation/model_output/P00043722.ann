@@ -1,0 +1,4 @@
+T0	GENE 68 79	calpastatin
+N0	Reference T0 :::GENE	calpastatin
+T1	GENE 111 120	caspase-3
+N1	Reference T1 :::GENE	caspase-3

@@ -1,0 +1,8 @@
+{miriam-gene:81 a ncit:C16612 .
+	
+	lld:C0333497 a ncit:C7057 .
+	
+	dgn-gda:DGNc2679e3982fcfc8c2adb0f92ee7e8e34 sio:SIO_000628 miriam-gene:81 , lld:C0333497 ;
+		a sio:SIO_001122 .
+}
+

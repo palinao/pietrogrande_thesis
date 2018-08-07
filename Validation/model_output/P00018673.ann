@@ -1,0 +1,4 @@
+T0	GENE 0 5	RBCK1
+N0	Reference T0 :::GENE	RBCK1
+T1	GENE 73 80	PKCbeta
+N1	Reference T1 :::GENE	PKCbeta

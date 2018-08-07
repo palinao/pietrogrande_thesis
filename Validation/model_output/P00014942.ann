@@ -1,0 +1,4 @@
+T0	GENE 0 13	Interleukin-6
+N0	Reference T0 :::GENE	Interleukin-6
+T1	GENE 97 102	MMP-2
+N1	Reference T1 :::GENE	MMP-2

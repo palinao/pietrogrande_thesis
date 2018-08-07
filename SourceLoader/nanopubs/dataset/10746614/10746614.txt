@@ -1,0 +1,6 @@
+Mutation in the CAV3 gene causes partial caveolin-3 deficiency and hyperCKemia.
+
+Authors: 
+Carbone I, Bruno C, Sotgia F, Bado M, Broda P, Masetti E, Panella A, Zara F, Bricarelli FD, Cordone G, Lisanti MP, Minetti C
+
+Mutations in the caveolin-3 (CAV3) gene are associated with autosomal dominant limb-girdle muscular dystrophy (LGMD1C). The authors report a novel sporadic mutation in the CAV3 gene in two unrelated children with persistent elevated levels of serum creatine kinase (hyperCKemia) without muscle weakness. Immunohistochemistry and quantitative immunoblot analysis of caveolin-3 showed reduced expression of the protein in muscle fibers. Our data indicate that a partial caveolin-3 deficiency should be considered in the differential diagnosis of idiopathic hyperCKemia.

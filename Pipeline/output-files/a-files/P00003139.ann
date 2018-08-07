@@ -1,0 +1,10 @@
+T0	GENE 348 378	hydroxy-methyl bilane synthase
+N0	Reference T0 :::GENE	hydroxy-methyl bilane synthase
+T1	GENE 387 413	protoporphyrinogen oxidase
+N1	Reference T1 :::GENE	protoporphyrinogen oxidase
+T2	GENE 415 419	PPOX
+N2	Reference T2 :::GENE	PPOX
+T3	GENE 425 451	coproporphyrinogen oxidase
+N3	Reference T3 :::GENE	coproporphyrinogen oxidase
+T4	GENE 453 456	CPO
+N4	Reference T4 :::GENE	CPO

@@ -1,0 +1,16 @@
+{miriam-gene:6331 a ncit:C16612 .
+	
+	lld:C1859062 a ncit:C7057 .
+	
+	dgn-gda:DGN19f7f10e778c95666347cd24fa6c9c97 sio:SIO_000628 miriam-gene:6331 , lld:C1859062 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:6331 a ncit:C16612 .
+	
+	lld:C0023976 a ncit:C7057 .
+	
+	dgn-gda:DGN9ec91fb477da2b1043604977157a8ebe sio:SIO_000628 miriam-gene:6331 , lld:C0023976 ;
+		a sio:SIO_001121 .
+}
+

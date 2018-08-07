@@ -1,0 +1,8 @@
+{miriam-gene:7102 a ncit:C16612 .
+	
+	lld:C1846174 a ncit:C7057 .
+	
+	dgn-gda:DGNeb7605305f0f3e34d9534901015acf84 sio:SIO_000628 miriam-gene:7102 , lld:C1846174 ;
+		a sio:SIO_001122 .
+}
+

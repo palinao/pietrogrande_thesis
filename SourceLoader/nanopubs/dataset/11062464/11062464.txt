@@ -1,0 +1,6 @@
+The nicotinic receptor beta 2 subunit is mutant in nocturnal frontal lobe epilepsy.
+
+Authors: 
+De Fusco M, Becchetti A, Patrignani A, Annesi G, Gambardella A, Quattrone A, Ballabio A, Wanke E, Casari G
+
+Clustered attacks of epileptic episodes originating from the frontal lobe during sleep are the main symptoms of autosomal dominant nocturnal frontal lobe epilepsy (ADNFLE, MIM 600513). Despite the clinical homogeneity, three forms of ADNFLE have been associated with chromosomes 20 (ENFL1; ref. 1), 15 (ENFL2; ref. 2) and 1 (ENFL3; ref. 3). Mutations of the gene encoding the neuronal nicotinic acetylcholine receptor alpha 4 subunit (CHRNA4 ) have been found in ADNFLE-ENFL1 families, but these mutations account for only a small proportion of ADNFLE cases. The newly identified locus associated with ENFL3 harbours several candidate genes, including CHRNB2 (ref. 8), whose gene product, the beta 2 nicotinic acetylcholine receptor (nAChR) subunit, co-assembles with the alpha 4 nAChR subunit to form the active receptor.

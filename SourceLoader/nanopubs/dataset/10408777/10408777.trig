@@ -1,0 +1,8 @@
+{miriam-gene:6794 a ncit:C16612 .
+	
+	lld:C0031269 a ncit:C7057 .
+	
+	dgn-gda:DGNd77e503dfd8f05069849bca57859fc74 sio:SIO_000628 miriam-gene:6794 , lld:C0031269 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,6 @@
+Widely distributed mutations in the COL2A1 gene produce achondrogenesis type II/hypochondrogenesis.
+
+Authors: 
+Körkkö J, Cohn DH, Ala-Kokko L, Krakow D, Prockop DJ
+
+The COL2A1 gene was assayed for mutations in genomic DNA from 12 patients with achondrogenesis type II/hypochondrogenesis. The exons and flanking sequences of the 54 exons in the COL2A1 gene were amplified by a series of specific primers using PCR. The PCR products were scanned for mutations by conformation sensitive gel electrophoresis, and PCR products that generated heteroduplex bands were then sequenced. Mutations in the COL2A1 gene were found in all 12 patients. Ten of the mutations were single base substitutions that converted a codon for an obligate glycine to a codon for an amino acid with a bulkier side chain. One of the mutations was a change in a consensus RNA splice site. Another was an 18-base pair deletion of coding sequences. The results confirmed previous indications that conformation sensitive gel electrophoresis is highly sensitive for detection of mutations in large and complex genes. They also demonstrate that most, if not all, patients with achondrogenesis type II/hypochondrogenesis have mutations in the COL2A1 gene.

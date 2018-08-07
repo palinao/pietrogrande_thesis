@@ -1,0 +1,6 @@
+A new transthyretin variant (Ser23Asn) associated with familial amyloidosis in a Portuguese patient.
+
+Authors: 
+Connors LH, Théberge R, Skare J, Costello CE, Falk RH, Skinner M
+
+The detection and characterization of a new transthyretin (ATTR) variant, Ser23Asn, associated with cardiomyopathy in a Portuguese patient with familial amyloidosis is described. Isoelectric focusing (IEF) of serum from the propositus demonstrated heterozygosity for the presence of wild type and variant ATTR. A combination of mass spectrometric (MS) analyses, including electrospray ionization mass spectrometry (ESI MS), high performance liquid chromatography (HPLC)/ESI MS and matrix-assisted laser desorption/ionization mass spectrometry (MALDI MS) performed on the serum-derived TTR were used to identify and locate the amino acid replacement in the variant protein. Genetic mutation analysis by DNA sequencing and allele-specific PCR confirmed this finding.

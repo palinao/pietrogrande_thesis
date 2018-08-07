@@ -1,0 +1,6 @@
+An allele of COL9A2 associated with intervertebral disc disease.
+
+Authors: 
+Annunen S, Paassilta P, Lohiniva J, Perälä M, Pihlajamaa T, Karppinen J, Tervonen O, Kröger H, Lähde S, Vanharanta H, Ryhänen L, Göring HH, Ott J, Prockop DJ, Ala-Kokko L
+
+Intervertebral disc disease is one of the most common musculoskeletal disorders. A number of environmental and anthropometric risk factors may contribute to it, and recent reports have suggested the importance of genetic factors as well. The COL9A2 gene, which codes for one of the polypeptide chains of collagen IX that is expressed in the intervertebral disc, was screened for sequence variations in individuals with intervertebral disc disease. The analysis identified a putative disease-causing sequence variation that converted a codon for glutamine to one for tryptophan in six out of the 157 individuals but in none of 174 controls. The tryptophan allele cosegregated with the disease phenotype in the four families studied, giving a lod score (logarithm of odds ratio) for linkage of 4.5, and subsequent linkage disequilibrium analysis conditional on linkage gave an additional lod score of 7.1.

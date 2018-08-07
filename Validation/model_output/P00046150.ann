@@ -1,0 +1,4 @@
+T0	GENE 24 28	SLPI
+N0	Reference T0 :::GENE	SLPI
+T1	GENE 103 110	TGFbeta
+N1	Reference T1 :::GENE	TGFbeta

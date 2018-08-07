@@ -1,0 +1,6 @@
+A novel substitution in keratin 10 in epidermolytic hyperkeratosis.
+
+Authors: 
+Arin MJ, Longley MA, Anton-Lamprecht I, Kurze G, Huber M, Hohl D, Rothnagel JA, Roop DR
+
+Epidermolytic hyperkeratosis is characterized by tonofilament clumping, cytolysis, and blister formation in suprabasal keratinocytes. It has been shown that the tonofilament aggregates in these areas are composed of keratin 1 (K1) and keratin 10 (K10), and several K1 and K10 point mutations have been identified as the molecular basis of epidermolytic hyperkeratosis. In this report we identify a novel, single base pair substitution resulting in an amino acid exchange from tyrosine to serine at residue 14 within the conserved 1A region of K10 (Y14S). This A to C transversion in codon 160 was only present in the affected individual and was associated with a very severe disease phenotype. Our observations are in agreement with previous reports documenting that this tyrosine residue, located at the beginning of the rod domain of type I keratins, is particularly sensitive to amino acid substitutions, and that alterations in this residue can have deleterious effects on filament assembly and stability.

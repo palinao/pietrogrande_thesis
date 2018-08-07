@@ -1,0 +1,8 @@
+{miriam-gene:1200 a ncit:C16612 .
+	
+	lld:C1876161 a ncit:C7057 .
+	
+	dgn-gda:DGN14b52a1bbe2d6f65ca109a6a39b50571 sio:SIO_000628 miriam-gene:1200 , lld:C1876161 ;
+		a sio:SIO_001122 .
+}
+

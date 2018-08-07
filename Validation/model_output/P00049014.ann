@@ -1,0 +1,8 @@
+T0	GENE 81 84	MIF
+N0	Reference T0 :::GENE	MIF
+T1	GENE 156 187	macrophage chemotactic factor-1
+N1	Reference T1 :::GENE	macrophage chemotactic factor-1
+T2	GENE 189 194	MCP-1
+N2	Reference T2 :::GENE	MCP-1
+T3	GENE 250 255	CCL20
+N3	Reference T3 :::GENE	CCL20

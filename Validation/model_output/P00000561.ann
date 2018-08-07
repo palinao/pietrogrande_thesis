@@ -1,0 +1,4 @@
+T0	GENE 40 49	protein S
+N0	Reference T0 :::GENE	protein S
+T1	GENE 82 97	protein S alpha
+N1	Reference T1 :::GENE	protein S alpha

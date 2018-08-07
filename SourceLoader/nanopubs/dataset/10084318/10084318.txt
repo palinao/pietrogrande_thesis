@@ -1,0 +1,6 @@
+A novel mutation in the 1A domain of keratin 2e in ichthyosis bullosa of Siemens.
+
+Authors: 
+Arin MJ, Longley MA, Epstein EH Jr, Scott G, Goldsmith LA, Rothnagel JA, Roop DR
+
+Ichthyosis bullosa of Siemens (IBS) is a rare autosomal dominant skin disorder with clinical features similar to epidermolytic hyperkeratosis (EHK). Both diseases have been linked to the type II keratin cluster on chromosome 12q. Hyperkeratosis and blister formation are relatively mild in IBS compared with EHK, and the lysis of keratinocytes is restricted to the upper spinous and granular layers of the epidermis of IBS patients, whereas in EHK lysis occurs in the lower spinous layer. Recently, mutations in the helix initiation and termination motifs of keratin 2e (K2e) have been described in IBS patients. The majority of the mutations reported to date lie in the 2B region. In this report, we have examined a large kindred in which the disease was originally diagnosed as EHK and mapped to the type II keratin cluster on chromosome 12q. Molecular analysis revealed a novel amino acid substitution at the beginning of the conserved 1A region of the rod domain (I4N) of K2e, resulting from a T to A transversion in codon 188.

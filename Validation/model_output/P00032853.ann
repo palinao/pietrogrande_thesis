@@ -1,0 +1,6 @@
+T0	GENE 0 29	Angiotensin-converting enzyme
+N0	Reference T0 :::GENE	Angiotensin-converting enzyme
+T1	GENE 57 60	AT1
+N1	Reference T1 :::GENE	AT1
+T2	GENE 92 121	angiotensin-converting enzyme
+N2	Reference T2 :::GENE	angiotensin-converting enzyme

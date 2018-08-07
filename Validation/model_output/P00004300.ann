@@ -1,0 +1,6 @@
+T0	GENE 75 82	CACNA1A
+N0	Reference T0 :::GENE	CACNA1A
+T1	GENE 145 174	spinocerebellar ataxia type 6
+N1	Reference T1 :::GENE	spinocerebellar ataxia type 6
+T2	GENE 176 180	SCA6
+N2	Reference T2 :::GENE	SCA6

@@ -1,0 +1,6 @@
+11-cis retinol dehydrogenase mutations as a major cause of the congenital night-blindness disorder known as fundus albipunctatus.
+
+Authors: 
+Gonzalez-Fernandez F, Kurz D, Bao Y, Newman S, Conway BP, Young JE, Han DP, Khani SC
+
+Patients with fundus albipunctatus uniformly experience difficulty with vision at night. Their retinas are spotted with characteristic light yellow flecks of unknown composition that typically spare the macula. A defect in the transport or utilization of visual cycle retinoids is thought to underlie this recessive disorder with variable clinical expression. To elucidate the molecular defect we considered the genes for interphotoreceptor retinoid-binding protein (RBP3) and 11-cis retinol dehydrogenase (RDH5) as candidates for this disease.

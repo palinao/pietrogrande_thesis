@@ -1,0 +1,6 @@
+Mutations in a gene encoding an ABC transporter cause pseudoxanthoma elasticum.
+
+Authors: 
+Le Saux O, Urban Z, Tschuch C, Csiszar K, Bacchelli B, Quaglino D, Pasquali-Ronchetti I, Pope FM, Richards A, Terry S, Bercovitch L, de Paepe A, Boyd CD
+
+Pseudoxanthoma elasticum (PXE) is a heritable disorder characterized by calcification of elastic fibres in skin, arteries and retina that results in dermal lesions with associated laxity and loss of elasticity, arterial insufficiency and retinal haemorrhages leading to macular degeneration. PXE is usually found as a sporadic disorder, but examples of both autosomal recessive and autosomal dominant forms of PXE have been observed. Partial manifestations of the PXE phenotype have also been described in presumed carriers in PXE families. Linkage of both dominant and recessive forms of PXE to a 5-cM domain on chromosome 16p13.1 has been reported (refs 8,9). We have refined this locus to an 820-kb region containing 6 candidate genes. Here we report the exclusion of five of these genes and the identification of the first mutations responsible for the development of PXE in a gene encoding a protein associated with multidrug resistance (ABCC6).

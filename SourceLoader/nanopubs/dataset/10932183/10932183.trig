@@ -1,0 +1,8 @@
+{miriam-gene:9451 a ncit:C16612 .
+	
+	lld:C0432217 a ncit:C7057 .
+	
+	dgn-gda:DGNd9038ae1566e91e39f70bb92770df901 sio:SIO_000628 miriam-gene:9451 , lld:C0432217 ;
+		a sio:SIO_001122 .
+}
+

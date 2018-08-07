@@ -1,0 +1,5 @@
+Number of available sentences: 28129
+Sentences in the training set: 12916 (13861 annotated genes)
+Sentences in the validation set: 3364 (3598 annotated genes)
+Sentences with missing diso id: 5
+Sentences with no label match: 11844

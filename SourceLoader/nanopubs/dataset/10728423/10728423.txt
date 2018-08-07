@@ -1,0 +1,6 @@
+Novel mutations in KvLQT1 that affect Iks activation through interactions with Isk.
+
+Authors: 
+Chouabe C, Neyroud N, Richard P, Denjoy I, Hainque B, Romey G, Drici MD, Guicheney P, Barhanin J
+
+We report the functional expression of four KCNQ1 mutations affecting arginine residues and resulting in Romano-Ward (RW) and the Jervell and Lange-Nielsen (JLN) congenital long QT syndromes.

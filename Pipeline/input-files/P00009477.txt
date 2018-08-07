@@ -1,0 +1,1 @@
+In order to begin analysis of the duplicated region of PKD1, we have devised a novel strategy that depends on long-range PCR and a single gene-specific primer from the unique region of the gene to amplify a PKD1-specific template that spans exons 23-34

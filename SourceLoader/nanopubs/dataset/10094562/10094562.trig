@@ -1,0 +1,8 @@
+{miriam-gene:1589 a ncit:C16612 .
+	
+	lld:C2936858 a ncit:C7057 .
+	
+	dgn-gda:DGN03b164ab2520ba2ef9c8f2d55700cb1d sio:SIO_000628 miriam-gene:1589 , lld:C2936858 ;
+		a sio:SIO_001122 .
+}
+

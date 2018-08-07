@@ -1,0 +1,6 @@
+Evaluation of the Best disease gene in patients with age-related macular degeneration and other maculopathies.
+
+Authors: 
+Allikmets R, Seddon JM, Bernstein PS, Hutchinson A, Atkinson A, Sharma S, Gerrard B, Li W, Metzker ML, Wadelius C, Caskey CT, Dean M, Petrukhin K
+
+Vitelliform macular dystrophy (VMD2, Best disease, MIM153700) is an early onset, autosomal, dominant macular degeneration characterized by the deposition of lipofuscin-like material within and below the retinal pigment epithelium (RPE); it is associated with degeneration of the RPE and overlying photoreceptors. Recently, we cloned the gene bestrophin, which is responsible for the disease, and identified a number of causative mutations in families with VMD2. Here, we report that the analysis of bestrophin in a collection of 259 age-related macular degeneration (AMD) patients provides evidence that mutations in the Best disease gene do not play a significant role in the predisposition of individuals to AMD. However, our results suggest that, in addition to Best disease, mutations within the bestrophin gene could be responsible for other forms of maculopathy with phenotypic characteristics similar to Best disease and for other diseases not included in the VMD category.

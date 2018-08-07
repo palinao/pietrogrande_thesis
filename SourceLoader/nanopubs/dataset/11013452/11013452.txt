@@ -1,0 +1,6 @@
+Identification and characterization of two novel mutations that produce acute intermittent porphyria: A 3-base deletion (841-843delGGA) and a missense mutation (T35M).
+
+Authors: 
+De Siervi A, Weiss Cádiz DE, Parera VE, del C Batlle AM, Rossetti MV
+
+A partial deficiency of Porphobilinogen deaminase (PBGD) is responsible for acute intermittent porphyria (AIP). AIP is inherited in an autosomal dominant fashion, and the prevalence in the Argentinean population is about 1:125,000. Here, two new mutations and two previously reported were found in the PBGD gene in 22 Argentinean AIP patients corresponding to 8 different families. To screen for AIP mutations in symptomatic patients, genomic DNA isolated was amplified in 6 PCR reactions, then all coding exons and flanking intronic regions were sequenced. The novel mutations are 841-843delGGA in exon 14, which results in the loss of glycine-281 (G281del), and one 104C>T point mutation in the exon 4 (T35M). To further characterize both novel mutations, the pKK-PBGD construct for the mutant alleles were expressed in E. coli, the enzymatic activity of the recombinant proteins were 1% and 4% of the mean level expressed by the normal allele for 841-843delGGA and T35M, respectively. Hum Mutat 16:373, 2000.

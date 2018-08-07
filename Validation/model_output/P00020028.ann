@@ -1,0 +1,4 @@
+T0	GENE 8 20	metabotropic
+N0	Reference T0 :::GENE	metabotropic
+T1	GENE 93 99	mGluR5
+N1	Reference T1 :::GENE	mGluR5

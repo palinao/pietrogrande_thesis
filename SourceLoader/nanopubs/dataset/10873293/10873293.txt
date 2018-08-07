@@ -1,0 +1,6 @@
+X-linked Charcot-Marie-Tooth disease and connexin32.
+
+Authors: 
+Ionasescu VV
+
+We studied 29 families with X-linked dominant CMT (CMTX1) neuropathy. Twenty-five families showed mutations in the coding region of the connexin32 (Cx32) gene. The mutations included five nonsense mutations, 17 missense mutations, two medium size deletions and one insertion. Most missense mutations showed a mild clinical phenotype and slowing of motor nerve conduction velocities. All five nonsense mutations, the larger deletion and the insertion showed severe clinical phenotype. Four CMTX1 families with mild clinical phenotype showed no point mutations of the Cx32 gene coding region. Two mutations of the non-coding region were identified. The first mutation was located in the nerve specific Cx32 promoter, the second mutation was located in the 5' untranslated region of the mRNA.

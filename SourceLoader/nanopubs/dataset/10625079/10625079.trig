@@ -1,0 +1,8 @@
+{miriam-gene:2022 a ncit:C16612 .
+	
+	lld:C0039445 a ncit:C7057 .
+	
+	dgn-gda:DGNefcccd8d7a29562e58a3fca55587cf60 sio:SIO_000628 miriam-gene:2022 , lld:C0039445 ;
+		a sio:SIO_001122 .
+}
+

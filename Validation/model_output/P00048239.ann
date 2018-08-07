@@ -1,0 +1,4 @@
+T0	GENE 0 9	Periostin
+N0	Reference T0 :::GENE	Periostin
+T1	GENE 14 22	tenascin
+N1	Reference T1 :::GENE	tenascin

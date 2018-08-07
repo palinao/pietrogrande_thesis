@@ -1,0 +1,4 @@
+T0	GENE 85 106	tumor necrosis factor
+N0	Reference T0 :::GENE	tumor necrosis factor
+T1	GENE 117 130	interleukin-6
+N1	Reference T1 :::GENE	interleukin-6

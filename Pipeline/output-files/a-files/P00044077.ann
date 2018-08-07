@@ -1,0 +1,4 @@
+T0	GENE 58 72	adrenomedullin
+N0	Reference T0 :::GENE	adrenomedullin
+T1	GENE 111 133	adrenomedullin binding
+N1	Reference T1 :::GENE	adrenomedullin binding

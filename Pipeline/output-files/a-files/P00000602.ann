@@ -1,0 +1,6 @@
+T0	GENE 50 101	cystic fibrosis transmembrane conductance regulator
+N0	Reference T0 :::GENE	cystic fibrosis transmembrane conductance regulator
+T1	GENE 103 107	CFTR
+N1	Reference T1 :::GENE	CFTR
+T2	GENE 137 142	CBAVD
+N2	Reference T2 :::GENE	CBAVD

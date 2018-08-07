@@ -1,0 +1,6 @@
+Identification and expression of mutations in the hydroxymethylbilane synthase gene causing acute intermittent porphyria (AIP).
+
+Authors: 
+Solis C, Lopez-Echaniz I, Sefarty-Graneda D, Astrin KH, Desnick RJ
+
+Acute intermittent porphyria (AIP), an autosomal dominant inborn error, results from the half-normal activity of the heme biosynthetic enzyme hydroxymethylbilane synthase (EC 4.3.1.8; HMB-synthase). This disease is characterized by acute, life-threatening neurologic attacks that are precipitated by various drugs, hormones, and other factors. The enzymatic and/or biochemical diagnosis of AIP heterozygotes is problematic; therefore, efforts have focused on the identification of HMB-synthase mutations so that heterozygotes can be identified and educated to avoid the precipitating factors. In Spain, the occurrence of AIP has been reported, but the nature of the HMB-synthase mutations causing AIP in Spanish families has not been investigated. Molecular analysis was therefore undertaken in nine unrelated Spanish AIP patients.

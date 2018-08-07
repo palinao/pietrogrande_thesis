@@ -1,0 +1,6 @@
+Molecular analysis of Wilson disease in Taiwan: identification of one novel mutation and evidence of haplotype-mutation association.
+
+Authors: 
+Lee CC, Wu JY, Tsai FJ, Kodama H, Abe T, Yang CF, Tsai CH
+
+Wilson disease (WND) is caused by a deficiency of the copper-transporting enzyme, P-type ATPase (ATP7B). Twelve different mutations have previously been identified in Taiwan Chinese with Wilson disease. We, herein, report another 4 missense mutations, 1 of which is novel. We did haplotype analysis of Taiwanese WND chromosomes, using three well characterized short tandem repeat markers (haplotype was assigned in the order of D13S314-D13S301-D13S316). Association correlation was found between the mutations and their respective haplotypes. Haplotype-deduced pedigree analysis was shown to be helpful in the mutation analysis of WND chromosomes and in the molecular assessment of both pre-symptomatic WND patients and carriers. Given the complexity and heterogeneity of the mutation spectrum of ATP7B, we suggest that haplotype analysis should be performed before full-scale mutation analysis.

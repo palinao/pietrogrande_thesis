@@ -1,0 +1,6 @@
+T0	GENE 75 94	epsilon-sarcoglycan
+N0	Reference T0 :::GENE	epsilon-sarcoglycan
+T1	GENE 101 105	SGCE
+N1	Reference T1 :::GENE	SGCE
+T2	GENE 135 139	DRD2
+N2	Reference T2 :::GENE	DRD2

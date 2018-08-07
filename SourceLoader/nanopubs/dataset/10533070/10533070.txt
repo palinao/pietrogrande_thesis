@@ -1,0 +1,6 @@
+DGGE method for the mutational analysis of the coding and proximal promoter regions of the Alzheimer's disease presenilin-1 gene: two novel mutations.
+
+Authors: 
+Aldudo J, Bullido MJ, Valdivieso F
+
+Many different mutations that cause Alzheimer's disease (AD) have been found in the presenilin-1 gene (PSEN1) and are associated with the most aggressive forms of the disease. With the aim of screening for PSEN1 genetic variations, we developed a method based on denaturing gradient gel electrophoresis (DGGE) that allows the mutational analysis of all the coding exons and the proximal promoter of PSEN1 using only four DGGE gels. The analysis by this methodology of a sample of 58 early-onset AD (EOAD) patients nonselected for family history resulted in finding four genetic variants within the PSEN1 coding region, two of which are novel mutations (M233L and A409T), whereas the other two have been reported previously (L282R and E318G). We also found a novel mutation within the PSEN1 proximal promoter (-280 C-->G) that, interestingly, provokes significant changes in the transcriptional activity of the gene in cell lines of neuronal and astrocytic, but not hepatic origin. These data strongly suggest that the region around -280 of PSEN1 promoter contains a regulatory element that controls its transcription specifically in neural cells.

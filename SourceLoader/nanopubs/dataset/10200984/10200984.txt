@@ -1,0 +1,6 @@
+Mutational analysis within the 3' region of the PKD1 gene.
+
+Authors: 
+Badenas C, Torra R, San Millán JL, Lucero L, Milà M, Estivill X, Darnell A
+
+Autosomal dominant polycystic kidney disease (ADPKD) is one of the most common genetic diseases in humans, affecting 1 out of 1000 individuals. At least three different genes are involved in this disease. The search for mutations in PKD1 is complicated because most of the transcript is encoded by a genomic region reiterated more proximally on chromosome 16, and no prevalent mutation has been reported.

@@ -1,0 +1,24 @@
+{miriam-gene:486 a ncit:C16612 .
+	
+	lld:C1835171 a ncit:C7057 .
+	
+	dgn-gda:DGN875b8a42b4dc42a51c79c874a8edf672 sio:SIO_000628 miriam-gene:486 , lld:C1835171 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:486 a ncit:C16612 .
+	
+	lld:C0268448 a ncit:C7057 .
+	
+	dgn-gda:DGN8625348c7ff671d8d85fedcdba20a64e sio:SIO_000628 miriam-gene:486 , lld:C0268448 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:486 a ncit:C16612 .
+	
+	lld:C0024473 a ncit:C7057 .
+	
+	dgn-gda:DGN7fd6fbc371b27e0f84a767ae22d5e582 sio:SIO_000628 miriam-gene:486 , lld:C0024473 ;
+		a sio:SIO_001121 .
+}
+

@@ -1,0 +1,6 @@
+T0	GENE 73 99	prokineticin receptor PKR1
+N0	Reference T0 :::GENE	prokineticin receptor PKR1
+T1	GENE 130 134	PKR1
+N1	Reference T1 :::GENE	PKR1
+T2	GENE 162 167	TRPV1
+N2	Reference T2 :::GENE	TRPV1

@@ -1,0 +1,8 @@
+{miriam-gene:70 a ncit:C16612 .
+	
+	lld:C2677506 a ncit:C7057 .
+	
+	dgn-gda:DGNed84720b911b2dffd3b57b045c9dff6f sio:SIO_000628 miriam-gene:70 , lld:C2677506 ;
+		a sio:SIO_001122 .
+}
+

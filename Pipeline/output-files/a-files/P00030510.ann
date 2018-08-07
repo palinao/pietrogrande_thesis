@@ -1,0 +1,4 @@
+T0	GENE 0 25	Aryl hydrocarbon receptor
+N0	Reference T0 :::GENE	Aryl hydrocarbon receptor
+T1	GENE 27 30	AhR
+N1	Reference T1 :::GENE	AhR

@@ -1,0 +1,8 @@
+{miriam-gene:1756 a ncit:C16612 .
+	
+	lld:C0917713 a ncit:C7057 .
+	
+	dgn-gda:DGNc53bb3e8a3cec5b7c4f3ecf74e4a74b2 sio:SIO_000628 miriam-gene:1756 , lld:C0917713 ;
+		a sio:SIO_001122 .
+}
+

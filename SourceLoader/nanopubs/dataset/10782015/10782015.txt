@@ -1,0 +1,6 @@
+K5 D328E: a novel missense mutation in the linker 12 domain of keratin 5 associated with epidermolysis bullosa simplex (Weber-Cockayne).
+
+Authors: 
+Liovic M, Podrumac B, Dragos V, Vouk K, Komel R
+
+A novel missense mutation was detected in the L12 region of keratin 5 (K5) in a Slovene family diagnosed with a Weber-Cockayne variant of epidermolysis bullosa simplex (EBS). Direct sequencing identified a heterozygous GAC to GAA substitution altering codon 328 of K5 from Asp to Glu in all affected family members, while no mutation was observed either in the healthy individual or the 50 unrelated control samples. Asp(328) of K5 (position 12 in the L12 domain) is remarkably conserved among all type II keratins. K5 L12:D12E is the third mutation found to affect this residue in K5-related EBS, indicating the importance of Asp(328) for K5 structure and the dramatic effect that fine changes can have on keratin intermediate filament integrity.

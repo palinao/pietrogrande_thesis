@@ -1,0 +1,6 @@
+Mutations in COL11A2 cause non-syndromic hearing loss (DFNA13).
+
+Authors: 
+McGuirt WT, Prasad SD, Griffith AJ, Kunst HP, Green GE, Shpargel KB, Runge C, Huybrechts C, Mueller RF, Lynch E, King MC, Brunner HG, Cremers CW, Takanosu M, Li SW, Arita M, Mayne R, Prockop DJ, Van Camp G, Smith RJ
+
+We report that mutation of COL11A2 causes deafness previously mapped to the DFNA13 locus on chromosome 6p. We found two families (one American and one Dutch) with autosomal dominant, non-syndromic hearing loss to have mutations in COL11A2 that are predicted to affect the triple-helix domain of the collagen protein. In both families, deafness is non-progressive and predominantly affects middle frequencies. Mice with a targeted disruption of Col11a2 also were shown to have hearing loss. Electron microscopy of the tectorial membrane of these mice revealed loss of organization of the collagen fibrils. Our findings revealed a unique ultrastructural malformation of inner-ear architecture associated with non-syndromic hearing loss, and suggest that tectorial membrane abnormalities may be one aetiology of sensorineural hearing loss primarily affecting the mid-frequencies.

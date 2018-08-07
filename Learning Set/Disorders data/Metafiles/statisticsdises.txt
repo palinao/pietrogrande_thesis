@@ -1,0 +1,5 @@
+Number of available sentences: 28129
+Sentences in the training set: 9256 (9524 annotated disorders)
+Sentences in the validation set: 2419 (2494 annotated disorders)
+Sentences with missing diso id: 3962
+Sentences with no label match: 12492

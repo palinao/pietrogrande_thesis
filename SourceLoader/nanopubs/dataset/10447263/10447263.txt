@@ -1,0 +1,6 @@
+Identification of recurrent and novel mutations in the LDL receptor gene in Japanese familial hypercholesterolemia. Mutation in brief no. 248. Online.
+
+Authors: 
+Hattori H, Nagano M, Iwata F, Homma Y, Egashira T, Okada T
+
+We used the denaturing gradient gel electrophoresis (DGGE) method to investigate 120 Japanese patients with familial hypercholesterolemia (FH) for mutations in the promoter region and the 18 exons and their flanking intron sequence of the low density lipoprotein (LDL) receptor gene. Fourteen aberrant DGGE patterns were found, and the underlying mutations were characterized by DNA sequencing. Five novel missense mutations (C317S, F382L A410T, L547V, and E693K), two nonsense mutations (W512X and K790X), four frameshift mutation (355del7, 1246ins5, 1687ins1, and 2035ins1), one splicing mutation (1845+2 T-->C), and two inframe mutations (661ins21 and 1115del9/ins6) were identified. Six of these mutations (L547V, E693K, W512X, 355del7, 1687ins1, and 20354ins1) have not been described before in FH. These newly identified mutations cosegregated in their family members with defective LDL receptor activity and hypercholesterolemia, and are thought to be causal for the FH phenotype. These results demonstrate that there is a broad spectrum of mutations in the LDL receptor gene in the Japanese population.

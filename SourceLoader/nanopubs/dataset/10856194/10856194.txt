@@ -1,0 +1,6 @@
+Congenital hereditary lymphedema caused by a mutation that inactivates VEGFR3 tyrosine kinase.
+
+Authors: 
+Irrthum A, Karkkainen MJ, Devriendt K, Alitalo K, Vikkula M
+
+Hereditary lymphedema is a chronic swelling of limbs due to dysfunction of lymphatic vessels. An autosomal dominant, congenital form of the disease, also known as "Milroy disease," has been mapped to the telomeric part of chromosome 5q, in the region 5q34-q35. This region contains a good candidate gene for the disease, VEGFR3 (FLT4), that encodes a receptor tyrosine kinase specific for lymphatic vessels. To clarify the role of VEGFR3 in the etiology of the disease, we have analyzed a family with hereditary lymphedema. We show linkage of the disease with markers in 5q34-q35, including a VEGFR3 intragenic polymorphism, and we describe an A-->G transition that cosegregates with the disease, corresponding to a histidine-to-arginine substitution in the catalytic loop of the protein. In addition, we show, by in vitro expression, that this mutation inhibits the autophosphorylation of the receptor. Thus, defective VEGFR3 signaling seems to be the cause of congenital hereditary lymphedema linked to 5q34-q35.

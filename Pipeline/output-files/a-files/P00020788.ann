@@ -1,0 +1,4 @@
+T0	GENE 14 19	BNIP3
+N0	Reference T0 :::GENE	BNIP3
+T1	GENE 94 111	androgen receptor
+N1	Reference T1 :::GENE	androgen receptor

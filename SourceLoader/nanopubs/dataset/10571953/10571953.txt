@@ -1,0 +1,6 @@
+Insertion/deletion mutations of type I oculocutaneous albinism in chinese patients from Taiwan.
+
+Authors: 
+Tsai CH, Tsai FJ, Wu JY, Lin SP, Chang JG, Yang CF, Lee CC
+
+Type I oculocutaneous albinism (OCA1) is an autosomal recessive disorder, which is caused by the reduction or the absence of tyrosinase activity in melanocytes of the skin, hair and eyes. Although tyrosinase mutations of OCA1 have been extensively analyzed in most populations worldwide, there is no systemic study of OCA1 mutation in Chinese patients. By use of single strand conformation polymorphism and direct sequencing, we had detected 21 mutant alleles out of 24 OCA1 chromosomes screened (87.5%). Detected mutant alleles include one splicing site, three insertion/deletion and five missense mutations, of which the splicing site nucleotide alteration (IVS 1-3C>G) and two each of the insertion/deletion (232-233 ins GGG and 861-862 del TT) and missense mutations (Cys 289 Gly and Trp 400 Leu) are novel. The ins/del mutations accounts for about 37.5% in Chinese OCA1 alleles. The 232-233 ins GGG, one of the novel mutations, was found to be most frequent (25%) among the OCA1 alleles in Chinese. Through this study, we found that while some of the OCA mutant alleles were identified in other populations, ethnic difference still exists. Hum Mutat 14:542, 1999.

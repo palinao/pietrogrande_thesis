@@ -1,0 +1,4 @@
+T0	GENE 39 42	EVC
+N0	Reference T0 :::GENE	EVC
+T1	GENE 47 51	EVC2
+N1	Reference T1 :::GENE	EVC2

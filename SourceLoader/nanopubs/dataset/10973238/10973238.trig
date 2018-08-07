@@ -1,0 +1,8 @@
+{miriam-gene:8195 a ncit:C16612 .
+	
+	lld:C1858054 a ncit:C7057 .
+	
+	dgn-gda:DGN17f634aedf2ee707b49f5b6148874062 sio:SIO_000628 miriam-gene:8195 , lld:C1858054 ;
+		a sio:SIO_001122 .
+}
+

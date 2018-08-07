@@ -1,0 +1,16 @@
+{miriam-gene:6121 a ncit:C16612 .
+	
+	lld:C1859844 a ncit:C7057 .
+	
+	dgn-gda:DGN9fad5effc26c8a357d499c560897ab42 sio:SIO_000628 miriam-gene:6121 , lld:C1859844 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:6121 a ncit:C16612 .
+	
+	lld:C3151086 a ncit:C7057 .
+	
+	dgn-gda:DGN41cbbe499409c8050348adfd7f855a12 sio:SIO_000628 miriam-gene:6121 , lld:C3151086 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,4 @@
+T0	GENE 26 30	Toll
+N0	Reference T0 :::GENE	Toll
+T1	GENE 51 71	Toll-like receptor 4
+N1	Reference T1 :::GENE	Toll-like receptor 4

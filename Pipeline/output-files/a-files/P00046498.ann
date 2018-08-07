@@ -1,0 +1,4 @@
+T0	GENE 8 34	fibroblast growth factor 8
+N0	Reference T0 :::GENE	fibroblast growth factor 8
+T1	GENE 36 40	FGF8
+N1	Reference T1 :::GENE	FGF8

@@ -1,0 +1,6 @@
+Identification of nine novel mutations in the Bruton's tyrosine kinase gene in X-linked agammaglobulinaemia patients.
+
+Authors: 
+Orlandi P, Ritis K, Moschese V, Angelini F, Arvanitidis K, Speletas M, Sideras P, Plebani A, Rossi P
+
+Mutations in the Bruton's tyrosine kinase (BTK ) gene are responsible for X-linked Agammaglobulinemia (XLA), an immunodeficiency caused by a block in B cell differentiation. Non Isotopic RNAse Cleavage Assay (NIRCA), followed by sequencing was used to screen for BTK mutations in 11 Italian XLA patients. Nine novel mutations were identified: 6 missense (Y39S, L512P, L512Q, R544G, S578Y, E589K), one non-sense (Q260X), one frameshift (1599-1602del GCGC) and one in-frame insertion (2037-2038insTTTTAG), that represents the first case of premature stop codon introduction in the BTK coding frame. These data support the high molecular heterogeneity of BTK gene in XLA disease and provide new insight to the diagnosis and to the role of BTK domain in XLA and in B cell signal transduction and development. Hum Mutat 15:117, 2000.

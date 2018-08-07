@@ -1,0 +1,6 @@
+Mutational analysis of COL4A5 gene in Korean Alport syndrome.
+
+Authors: 
+Cheong HI, Park HW, Ha IS, Choi Y
+
+Mutational analysis of the COL4A5 gene in X-linked Alport syndrome (AS) requires an expensive and time-consuming procedure with a detection rate of 50%, at best. There have been three multicenter collaborative studies of mutation analysis in the COL4A5 gene using systematic screening of entire coding regions of the gene. This is a similar study executed in a single center in Korea. Twenty-five unrelated Korean patients with AS in whom the diagnosis was confirmed pathologically were included in the study. By systematic screening of all 51 exons of the gene using polymerase chain reaction/single-strand conformation polymorphism analysis, ten mutations were detected in 10 unrelated patients. These included one medium-sized deletion involving exon 49-51, one single base pair deletion, one nonsense point mutation, one splice site mutation, and six missense point mutations. Of the six missense mutations, four involved a glycine residue and disrupted the Gly-X-Y repeats in the collagenous domain. The overall detection rate of mutations was 40%. Although DNA analysis in AS is currently not applicable to routine clinical diagnosis due to several practical and technical problems, it is likely to replace morphological diagnosis in the near future.

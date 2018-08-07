@@ -1,0 +1,6 @@
+Paracellin-1, a renal tight junction protein required for paracellular Mg2+ resorption.
+
+Authors: 
+Simon DB, Lu Y, Choate KA, Velazquez H, Al-Sabban E, Praga M, Casari G, Bettinelli A, Colussi G, Rodriguez-Soriano J, McCredie D, Milford D, Sanjad S, Lifton RP
+
+Epithelia permit selective and regulated flux from apical to basolateral surfaces by transcellular passage through cells or paracellular flux between cells. Tight junctions constitute the barrier to paracellular conductance; however, little is known about the specific molecules that mediate paracellular permeabilities. Renal magnesium ion (Mg2+) resorption occurs predominantly through a paracellular conductance in the thick ascending limb of Henle (TAL). Here, positional cloning has identified a human gene, paracellin-1 (PCLN-1), mutations in which cause renal Mg2+ wasting. PCLN-1 is located in tight junctions of the TAL and is related to the claudin family of tight junction proteins. These findings provide insight into Mg2+ homeostasis, demonstrate the role of a tight junction protein in human disease, and identify an essential component of a selective paracellular conductance.

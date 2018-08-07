@@ -1,0 +1,6 @@
+Central visual, acoustic, and motor pathway involvement in a Charcot-Marie-Tooth family with an Asn205Ser mutation in the connexin 32 gene.
+
+Authors: 
+Bähr M, Andres F, Timmerman V, Nelis ME, Van Broeckhoven C, Dichgans J
+
+X linked dominant Charcot-Marie-Tooth disease (CMT1X) is an inherited motor and sensory neuropathy that mainly affects the peripheral nervous system. CMT1X is associated with mutations in the gap junction protein connexin 32 (Cx32). Cx32 is expressed in Schwann cells and oligodendrocytes in the peripheral (PNS) and in the (CNS) respectively.

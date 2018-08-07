@@ -1,0 +1,6 @@
+Characterization of four arylsulfatase A missense mutations G86D, Y201C, D255H, and E312D causing metachromatic leukodystrophy.
+
+Authors: 
+Hermann S, Schestag F, Polten A, Kafert S, Penzien J, Zlotogora J, Baumann N, Gieselmann V
+
+Metachromatic leukodystrophy is a lysosomal storage disease caused by the deficiency of arylsulfatase A. Here we describe a hitherto unknown arylsulfatase A allele carrying a E312D missense mutation and characterize the effects of this and three previously described missense mutations, G86D, Y201C, and D255H, on arylsulfatase A. In transfection experiments no enzyme activity can be expressed from arylsulfatase A cDNAs coding for the D255H substituted enzyme, whereas Y201C and E312D mutations were associated with low amounts of residual enzyme activity. All amino acid substitutions lead to a decreased stability of the mutant enzyme, and metabolic labeling experiments indicated that except for the E312D substitution the mutations cause arrest of the mutant arylsulfatase A polypeptides in a prelysosomal compartment.

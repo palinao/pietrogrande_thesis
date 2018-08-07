@@ -1,0 +1,6 @@
+Mutations in KERA, encoding keratocan, cause cornea plana.
+
+Authors: 
+Pellegata NS, Dieguez-Lucena JL, Joensuu T, Lau S, Montgomery KT, Krahe R, Kivelä T, Kucherlapati R, Forsius H, de la Chapelle A
+
+Specialized collagens and small leucine-rich proteoglycans (SLRPs) interact to produce the transparent corneal structure. In cornea plana, the forward convex curvature is flattened, leading to a decrease in refraction. A more severe, recessively inherited form (CNA2; MIM 217300) and a milder, dominantly inherited form (CNA1; MIM 121400) exist. CNA2 is a rare disorder with a worldwide distribution, but a high prevalence in the Finnish population. The gene mutated in CNA2 was assigned by linkage analysis to 12q (refs 4, 5), where there is a cluster of several SLRP genes. We cloned two additional SLRP genes highly expressed in cornea: KERA (encoding keratocan) in 12q and OGN (encoding osteoglycin) in 9q. Here we report mutations in KERA in 47 CNA2 patients: 46 Finnish patients are homozygous for a founder missense mutation, leading to the substitution of a highly conserved amino acid; and one American patient is homozygous for a mutation leading to a premature stop codon that truncates the KERA protein. Our data establish that mutations in KERA cause CNA2. CNA1 patients had no mutations in these proteoglycan genes.

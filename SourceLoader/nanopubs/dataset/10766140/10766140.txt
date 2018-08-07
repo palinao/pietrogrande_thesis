@@ -1,0 +1,6 @@
+Mutation analysis of 3 genes in patients with Leber congenital amaurosis.
+
+Authors: 
+Lotery AJ, Namperumalsamy P, Jacobson SG, Weleber RG, Fishman GA, Musarella MA, Hoyt CS, Héon E, Levin A, Jan J, Lam B, Carr RE, Franklin A, Radha S, Andorf JL, Sheffield VC, Stone EM
+
+To assess the frequency of mutations in the CRX, GUCY2D, and RPE65 genes in patients with Leber congenital amaurosis (LCA).

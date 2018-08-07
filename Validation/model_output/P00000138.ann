@@ -1,0 +1,4 @@
+T0	GENE 61 64	NF1
+N0	Reference T0 :::GENE	NF1
+T1	GENE 118 121	NF1
+N1	Reference T1 :::GENE	NF1

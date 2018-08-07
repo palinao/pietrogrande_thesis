@@ -1,0 +1,1 @@
+The eOPA1 locus-specific database now contains a total of 204 OPA1 mutations, including 77 novel OPA1 mutations reported here

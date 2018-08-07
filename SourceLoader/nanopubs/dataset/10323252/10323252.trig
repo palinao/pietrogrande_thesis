@@ -1,0 +1,8 @@
+{miriam-gene:2010 a ncit:C16612 .
+	
+	lld:C0751337 a ncit:C7057 .
+	
+	dgn-gda:DGN6ad7ff0d30d75b54e5003a434ec10387 sio:SIO_000628 miriam-gene:2010 , lld:C0751337 ;
+		a sio:SIO_001122 .
+}
+

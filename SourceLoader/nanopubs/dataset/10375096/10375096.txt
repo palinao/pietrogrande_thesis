@@ -1,0 +1,6 @@
+Influence of selection criteria on mutation detection in patients with hereditary nonpolyposis colorectal cancer.
+
+Authors: 
+Heinimann K, Scott RJ, Buerstedde JM, Weber W, Siebold K, Attenhofer M, Müller H, Dobbie Z
+
+Hereditary nonpolyposis colorectal cancer (HNPCC) is linked genetically to mutations in DNA mismatch repair (MMR) genes. Because a deficiency in MMR does not predict a specific phenotype, the original selection criteria may be too restrictive in identifying additional families. The current study was performed to determine whether a relaxation of the Amsterdam criteria (AC) could be applied to identify more families associated with DNA MMR.

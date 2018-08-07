@@ -1,0 +1,6 @@
+T0	GENE 21 49	T-cell leukemia virus type 1
+N0	Reference T0 :::GENE	T-cell leukemia virus type 1
+T1	GENE 121 125	CD80
+N1	Reference T1 :::GENE	CD80
+T2	GENE 130 134	CD86
+N2	Reference T2 :::GENE	CD86

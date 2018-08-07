@@ -1,0 +1,6 @@
+Formation of the VHL-elongin BC tumor suppressor complex is mediated by the chaperonin TRiC.
+
+Authors: 
+Feldman DE, Thulasiraman V, Ferreyra RG, Frydman J
+
+von Hippel-Lindau (VHL) disease is caused by loss of function of the VHL tumor suppressor protein. Here, we demonstrate that the folding and assembly of VHL into a complex with its partner proteins, elongin B and elongin C (herein, elongin BC), is directly mediated by the chaperonin TRiC/CCT. Association of VHL with TRiC is required for formation of the VHL-elongin BC complex. A 55-amino acid domain of VHL is both necessary and sufficient for binding to TRiC. Importantly, mutation or deletion of this domain is associated with VHL disease. We identified two mutations that disrupt the normal interaction with TRiC and impair VHL folding. Our results define a novel role for TRiC in mediating oligomerization and suggest that inactivating mutations can impair polypeptide function by interfering with chaperone-mediated folding.

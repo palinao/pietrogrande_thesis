@@ -1,0 +1,6 @@
+Dopa-responsive dystonia induced by a recessive GTP cyclohydrolase I mutation.
+
+Authors: 
+Hwu WL, Wang PJ, Hsiao KJ, Wang TR, Chiou YW, Lee YM
+
+GTP cyclohydrolase I (GTPCH) catalyzes the rate-limiting step of tetrahydrobiopterin (BH4) biosynthesis. GTPCH has been associated with two clinically distinct human diseases: the recessive hyperphenylalaninemia (HPA) and the dominant dopa-responsive dystonia (DRD). We found a recessive GTPCH mutation (R249S, 747C-->G in a dystonia patient. Her PHA-stimulated mononuclear blood cells had a normal amount of GTPCH mRNA, but low GTPCH activity. Arginine 249 is located at the C-terminus of GTPCH, outside the catalytic site. E. coli expressed recombinant R249S mutant protein possessed normal enzyme activity and kinetics. However, in transfected eukaryotic cells, R249S mutant protein expression level was lower than the wild-type protein. Therefore, this is suspected to be a destabilizing mutation. Our data suggest that DRD could be either dominantly or recessively inherited, and the inheritance might be determined by the mechanism of mutation.

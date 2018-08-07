@@ -1,0 +1,6 @@
+T0	GENE 20 29	factor IX
+N0	Reference T0 :::GENE	factor IX
+T1	GENE 31 34	FIX
+N1	Reference T1 :::GENE	FIX
+T2	GENE 136 139	FIX
+N2	Reference T2 :::GENE	FIX

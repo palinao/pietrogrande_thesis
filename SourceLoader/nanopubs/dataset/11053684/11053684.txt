@@ -1,0 +1,6 @@
+Heterozygous myogenic factor 6 mutation associated with myopathy and severe course of Becker muscular dystrophy.
+
+Authors: 
+Kerst B, Mennerich D, Schuelke M, Stoltenburg-Didinger G, von Moers A, Gossrau R, van Landeghem FK, Speer A, Braun T, Hübner C
+
+Myogenic factors (MYF) belong to the basic helix-loop-helix (bHLH) transcription factor family and regulate myogenesis and muscle regeneration. The physiological importance of both functions was demonstrated in homozygous Myf knockout mice and mdx mice. Myf5 and Myod are predominantly expressed in proliferating myoblasts while Myf4 and Myf6 are involved in differentiation of myotubes. In a boy with myopathy and an increase of muscle fibres with central nuclei we detected a heterozygous 387G-->T nucleotide transversion in the MYF6 gene (MIM*159991). Protein-protein interaction of mutant MYF6 was reduced, and DNA-binding potential and transactivation capacity were abolished, thus demonstrating MYF6 haploinsufficiency. The boy's father carried the identical mutation and, in addition, an in-frame deletion of exons 45-47 in his dystrophin gene. This mutation is normally associated with a mild to moderate course of Becker muscular dystrophy but the father suffered from a severe course of Becker muscular dystrophy suggesting MYF6 as a modifier.

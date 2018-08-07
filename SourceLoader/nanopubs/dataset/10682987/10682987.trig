@@ -1,0 +1,8 @@
+{miriam-gene:7439 a ncit:C16612 .
+	
+	lld:C0339510 a ncit:C7057 .
+	
+	dgn-gda:DGN7d2dbf7b9ad5b6030dd029d3b187d5e2 sio:SIO_000628 miriam-gene:7439 , lld:C0339510 ;
+		a sio:SIO_001122 .
+}
+

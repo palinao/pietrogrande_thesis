@@ -1,0 +1,4 @@
+T0	GENE 14 20	Notch1
+N0	Reference T0 :::GENE	Notch1
+T1	GENE 25 29	mTOR
+N1	Reference T1 :::GENE	mTOR

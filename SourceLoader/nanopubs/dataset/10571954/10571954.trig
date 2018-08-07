@@ -1,0 +1,8 @@
+{miriam-gene:178 a ncit:C16612 .
+	
+	lld:C0017922 a ncit:C7057 .
+	
+	dgn-gda:DGN3cbf1501ade7f188ada27f7212d1d6a6 sio:SIO_000628 miriam-gene:178 , lld:C0017922 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,6 @@
+Heterozygous germ line hCHK2 mutations in Li-Fraumeni syndrome.
+
+Authors: 
+Bell DW, Varley JM, Szydlo TE, Kang DH, Wahrer DC, Shannon KE, Lubratovich M, Verselis SJ, Isselbacher KJ, Fraumeni JF, Birch JM, Li FP, Garber JE, Haber DA
+
+The hCHK2 gene encodes the human homolog of the yeast Cds1 and Rad53 G2 checkpoint kinases, whose activation in response to DNA damage prevents cellular entry into mitosis. Here, it is shown that heterozygous germ line mutations in hCHK2 occur in Li-Fraumeni syndrome, a highly penetrant familial cancer phenotype usually associated with inherited mutations in the TP53 gene. These observations suggest that hCHK2 is a tumor suppressor gene conferring predisposition to sarcoma, breast cancer, and brain tumors, and they also provide a link between the central role of p53 inactivation in human cancer and the well-defined G2 checkpoint in yeast.

@@ -1,0 +1,6 @@
+Spectrum of COL4A5 mutations in Finnish Alport syndrome patients.
+
+Authors: 
+Martin P, Heiskari N, Pajari H, Grönhagen-Riska C, Kääriäinen H, Koskimies O, Tryggvason K
+
+Alport syndrome (AS) is a hereditary kidney disorder, mainly caused by mutations in the X-chromosomal gene (COL4A5) encoding the type IV collagen a5 chain. In this study, detection of COL4A5 mutations was performed in 17 Finnish Alport syndrome families. Regions around the 51 previously known exons, as well as the two recently characterized exons 41A and 41B in COL4A5, were PCR-amplified from the patient DNA. Direct sequencing of the amplified products was performed and mutations were found in 12 families. None of the mutations involved exons 41A or 41B. Three of the mutations were potential splicing mutations, two of which were studied at the mRNA level. Seven of the mutations were single base substitutions, and two were deletions. In five families, no mutations were found.

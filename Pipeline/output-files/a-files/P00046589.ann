@@ -1,0 +1,4 @@
+T0	GENE 8 11	NGF
+N0	Reference T0 :::GENE	NGF
+T1	GENE 39 43	TrkA
+N1	Reference T1 :::GENE	TrkA

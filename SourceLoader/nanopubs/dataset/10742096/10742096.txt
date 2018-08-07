@@ -1,0 +1,6 @@
+NPHS2, encoding the glomerular protein podocin, is mutated in autosomal recessive steroid-resistant nephrotic syndrome.
+
+Authors: 
+Boute N, Gribouval O, Roselli S, Benessy F, Lee H, Fuchshuber A, Dahan K, Gubler MC, Niaudet P, Antignac C
+
+Familial idiopathic nephrotic syndromes represent a heterogeneous group of kidney disorders, and include autosomal recessive steroid-resistant nephrotic syndrome, which is characterized by early childhood onset of proteinuria, rapid progression to end-stage renal disease and focal segmental glomerulosclerosis. A causative gene for this disease, NPHS2, was mapped to 1q25-31 and we report here its identification by positional cloning. NPHS2 is almost exclusively expressed in the podocytes of fetal and mature kidney glomeruli, and encodes a new integral membrane protein, podocin, belonging to the stomatin protein family. We found ten different NPHS2 mutations, comprising nonsense, frameshift and missense mutations, to segregate with the disease, demonstrating a crucial role for podocin in the function of the glomerular filtration barrier.

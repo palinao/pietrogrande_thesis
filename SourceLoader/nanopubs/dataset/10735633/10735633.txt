@@ -1,0 +1,6 @@
+Long QT syndrome with a high mortality rate caused by a novel G572R missense mutation in KCNH2.
+
+Authors: 
+Larsen LA, Svendsen IH, Jensen AM, Kanters JK, Andersen PS, Møller M, Sørensen SA, Sandøe E, Jacobsen JR, Vuust J, Christiansen M
+
+In a four-generation family with long QT syndrome, syncopes and torsades de pointes ventricular tachycardia (TdP) were elicited by abrupt awakening in the early morning hours. The syndrome was associated with a novel KCNH2 missense mutation, G572R, causing the substitution of a glycine residue at position 572, at the end of the S5 transmembrane segment of the HERG K(+)-channel, with an arginine residue. This segment is involved in the channel pore and the mutation may cause a reduction in the rapidly activating delayed rectifier K+ current (Ikr), or changed gating properties of the ion channel, leading to prolonged cardiac repolarization. The electrocardiograms of affected persons showed prolonged QT interval and notched T waves. Despite treatment with atenolol, 200 mg twice daily, the proband still experienced TdP episodes. Three untreated relatives of the proband died suddenly, and unexpectedly, at 18, 32, and 57 years of age. The G572R mutation is thus associated with a high mortality rate, and the clinical presentation illustrates that some mutations may not be controllable by just beta-blockade.

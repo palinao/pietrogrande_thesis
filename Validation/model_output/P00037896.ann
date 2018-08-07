@@ -1,0 +1,4 @@
+T0	GENE 12 27	cholecystokinin
+N0	Reference T0 :::GENE	cholecystokinin
+T1	GENE 29 32	CCK
+N1	Reference T1 :::GENE	CCK

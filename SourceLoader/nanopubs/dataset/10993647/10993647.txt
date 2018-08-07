@@ -1,0 +1,6 @@
+Identification of MEN1 gene mutations in families with MEN 1 and related disorders.
+
+Authors: 
+Bergman L, Teh B, Cardinal J, Palmer J, Walters M, Shepherd J, Cameron D, Hayward N
+
+Following identification of the MEN1 gene, we analysed patients from 12 MEN 1 families, 8 sporadic cases of MEN 1, and 13 patients with MEN 1-like symptoms (e.g. cases of familial isolated hyperparathyroidism (FIHPT), familial acromegaly, or atypical MEN 1 cases) for the presence of germline MEN1 mutations. The entire coding region of the MEN1 gene was sequenced, and mutations were detected in 11 MEN 1 families; one sporadic MEN 1 patient, one case of FIHPT and one MEN 1-like case. Constitutional DNA samples from individuals without MEN1 mutations were digested with several restriction enzymes, Southern blotted and probed with MEN1 cDNA to analyse for the presence of larger deletions of the MEN1 gene unable to be detected by PCR. One MEN 1 patient was found to carry such a deletion. This patient was heterozygous for the D418D polymorphism, however sequence analysis of RT-PCR products showed that only the variant allele was transcribed, thus confirming the result obtained by Southern analysis, which indicated loss of a region containing the initiation codon of one allele.

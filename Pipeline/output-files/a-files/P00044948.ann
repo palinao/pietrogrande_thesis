@@ -1,0 +1,4 @@
+T0	GENE 18 40	nociceptin/orphanin FQ
+N0	Reference T0 :::GENE	nociceptin/orphanin FQ
+T1	GENE 69 73	CRF2
+N1	Reference T1 :::GENE	CRF2

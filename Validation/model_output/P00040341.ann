@@ -1,0 +1,4 @@
+T0	GENE 0 4	BCL9
+N0	Reference T0 :::GENE	BCL9
+T1	GENE 9 15	C9orf5
+N1	Reference T1 :::GENE	C9orf5

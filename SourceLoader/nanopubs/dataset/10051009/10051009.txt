@@ -1,0 +1,6 @@
+Mutation screening of the RYR1 gene and identification of two novel mutations in Italian malignant hyperthermia families.
+
+Authors: 
+Barone V, Massa O, Intravaia E, Bracco A, Di Martino A, Tegazzin V, Cozzolino S, Sorrentino V
+
+Point mutations in the ryanodine receptor (RYR1) gene are associated with malignant hyperthermia, an autosomal dominant disorder triggered in susceptible people (MHS) by volatile anaesthetics and depolarising skeletal muscle relaxants. To date, 17 missense point mutations have been identified in the human RYR1 gene by screening of the cDNA obtained from muscle biopsies. Here we report single strand conformation polymorphism (SSCP) screening for nine of the most frequent RYR1 mutations using genomic DNA isolated from MHS patients. In addition, the Argl63Cys mutation was analysed by restriction enzyme digestion. We analysed 57 unrelated patients and detected seven of the known RYR1 point mutations. Furthermore, we found a new mutation, Arg2454His, segregating with the MHS phenotype in a large pedigree and a novel amino acid substitution at position 2436 in another patient, indicating a 15.8% frequency of these mutations in Italian patients. A new polymorphic site in intron 16 that causes the substitution of a G at position -7 with a C residue was identified.

@@ -1,0 +1,8 @@
+{miriam-gene:472 a ncit:C16612 .
+	
+	lld:C0004135 a ncit:C7057 .
+	
+	dgn-gda:DGN1493e4e845ac16faabb81e714acb8f22 sio:SIO_000628 miriam-gene:472 , lld:C0004135 ;
+		a sio:SIO_001122 .
+}
+

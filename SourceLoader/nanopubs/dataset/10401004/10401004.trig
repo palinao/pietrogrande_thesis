@@ -1,0 +1,8 @@
+{miriam-gene:538 a ncit:C16612 .
+	
+	lld:C0022716 a ncit:C7057 .
+	
+	dgn-gda:DGN9d2d3af8228de931a5c55ee7d4da4d9c sio:SIO_000628 miriam-gene:538 , lld:C0022716 ;
+		a sio:SIO_001122 .
+}
+

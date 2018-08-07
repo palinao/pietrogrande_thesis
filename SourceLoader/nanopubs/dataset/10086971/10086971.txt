@@ -1,0 +1,6 @@
+C-terminal HERG mutations: the role of hypokalemia and a KCNQ1-associated mutation in cardiac event occurrence.
+
+Authors: 
+Berthet M, Denjoy I, Donger C, Demay L, Hammoude H, Klug D, Schulze-Bahr E, Richard P, Funke H, Schwartz K, Coumel P, Hainque B, Guicheney P
+
+The long-QT syndrome (LQTS) is a genetically heterogeneous disease in which 4 genes encoding ion-channel subunits have been identified. Most of the mutations have been determined in the transmembrane domains of the cardiac potassium channel genes KCNQ1 and HERG. In this study, we investigated the 3' part of HERG for mutations.

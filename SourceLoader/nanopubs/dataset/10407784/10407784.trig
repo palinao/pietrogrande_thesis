@@ -1,0 +1,8 @@
+{miriam-gene:443 a ncit:C16612 .
+	
+	lld:C0206307 a ncit:C7057 .
+	
+	dgn-gda:DGNbe7d211f2d7e81e28544c8d099b1d862 sio:SIO_000628 miriam-gene:443 , lld:C0206307 ;
+		a sio:SIO_001122 .
+}
+

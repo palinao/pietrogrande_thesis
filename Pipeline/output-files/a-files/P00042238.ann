@@ -1,0 +1,8 @@
+T0	GENE 62 65	CRH
+N0	Reference T0 :::GENE	CRH
+T1	GENE 109 124	CRHR1 receptors
+N1	Reference T1 :::GENE	CRHR1 receptors
+T2	GENE 173 176	CRH
+N2	Reference T2 :::GENE	CRH
+T3	GENE 223 238	CRHR2 receptors
+N3	Reference T3 :::GENE	CRHR2 receptors

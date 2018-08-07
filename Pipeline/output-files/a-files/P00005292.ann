@@ -1,0 +1,6 @@
+T0	GENE 56 62	IGFALS
+N0	Reference T0 :::GENE	IGFALS
+T1	GENE 141 162	insulin growth factor
+N1	Reference T1 :::GENE	insulin growth factor
+T2	GENE 164 167	IGF
+N2	Reference T2 :::GENE	IGF

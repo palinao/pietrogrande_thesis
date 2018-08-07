@@ -1,0 +1,4 @@
+T0	GENE 0 4	GAB2
+N0	Reference T0 :::GENE	GAB2
+T1	GENE 40 44	APOE
+N1	Reference T1 :::GENE	APOE

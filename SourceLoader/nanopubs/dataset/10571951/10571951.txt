@@ -1,0 +1,6 @@
+Analysis of exon 1 mutations in the androgen receptor gene.
+
+Authors: 
+Gottlieb B, Vasiliou DM, Lumbroso R, Beitel LK, Pinsky L, Trifiro MA
+
+Eleven mutations in exon 1 of the androgen receptor gene (AR) have been identified in 15 individuals with Androgen Insensitivity syndrome (AIS). Nine of the mutations yield a stop codon directly, or due to a frameshift, in individuals with complete AIS (CAIS). One individual with CAIS had three different mutations in exon 1: one is nominally silent (Glu 211; GAG 995 GAA); two are missense (Pro 390 Arg and Glu 443 Arg). Five unrelated individuals with either CAIS, partial AIS (PAIS) or mild AIS (MAIS) had GAG 995 GAA as their only alteration. This report almost doubles the number of exon 1 mutations stored in the AR Mutation Database, reinforces their highly predominant nonsense character, and identifies Pro 390 and/or Gln 443 as residues that are probably necessary for one or more specific functions of the AR's N-terminal transactivation domain.

@@ -1,0 +1,6 @@
+Steroid 21-hydroxylase deficiency: mutational spectrum in Denmark, three novel mutations, and in vitro expression analysis.
+
+Authors: 
+Ohlsson G, Müller J, Skakkebaek NE, Schwartz M
+
+We have investigated 68 unrelated 21-hydroxylase deficient Danish patients, representing 136 alleles, and determined the mutational spectrum of the CYP21 gene. The most frequent mutations detected were deletion of CYP21 and the splice mutation in intron 2 (I2-splice). Segregation analysis showed evidence of a de novo mutation in each of two patients. Three novel mutations were detected: G64E in exon 1, Q262X in exon 7, and A362V in exon 8. G64E and A362V were introduced in the CYP21 cDNA by in vitro site-directed mutagenesis, and the two corresponding proteins were transiently expressed in COS-7 cells. The activity of 21-hydroxylase was determined using the two hormone substrates 17-hydroxyprogesterone and progesterone. The analysis showed no enzyme activity for any of the substrates, a result that correlates well with the severity of the patients' disease.

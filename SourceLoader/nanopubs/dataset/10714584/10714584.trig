@@ -1,0 +1,8 @@
+{miriam-gene:6445 a ncit:C16612 .
+	
+	lld:C0410173 a ncit:C7057 .
+	
+	dgn-gda:DGN0644c0033879b86368e4cc58d71ce25e sio:SIO_000628 miriam-gene:6445 , lld:C0410173 ;
+		a sio:SIO_001122 .
+}
+

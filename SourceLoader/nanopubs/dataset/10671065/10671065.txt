@@ -1,0 +1,6 @@
+Identification of 9 novel IDS gene mutations in 19 unrelated Hunter syndrome (mucopolysaccharidosis Type II) patients. Mutations in brief no. 202. Online.
+
+Authors: 
+Karsten SL, Voskoboeva E, Carlberg BM, Kleijer WJ, Tsnnesen T, Pettersson U, Bondeson ML
+
+Hunter syndrome is an X-linked lysosomal storage disorder caused by a deficiency of the lysosomal enzyme iduronate-2-sulfatase (IDS). The IDS deficiency can be caused by several different types of mutations in the IDS gene. We have performed a molecular and mutation analysis of a total 19 unrelated MPS II patients of different ethnic origin and identified 19 different IDS mutations, 9 of which were novel and unique. SSCP analysis followed by DNA sequencing revealed four novel missense mutations: S143F, associated with the 562C-->T polymorphism, C184W, D269V and Y348H. Two novel nonsense mutations were found: Y103X (433C-->A) and Y234X (826C-->G). In two patients two novel minor insertions (42linsA and 499insA) were identified. In one patient a complete IDS deletion was found, extending from locus DXS1185 to locus DXS466).

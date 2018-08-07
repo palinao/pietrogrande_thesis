@@ -1,0 +1,6 @@
+An Asn > Lys substitution in saposin B involving a conserved amino acidic residue and leading to the loss of the single N-glycosylation site in a patient with metachromatic leukodystrophy and normal arylsulphatase A activity.
+
+Authors: 
+Regis S, Filocamo M, Corsolini F, Caroli F, Keulemans JL, van Diggelen OP, Gatti R
+
+Sphingolipid activator proteins are small glycoproteins required for the degradation of sphingolipids by specific lysosomal hydrolases. Four of them, called saposins, are encoded by the prosaposin gene, the product of which is proteolytically cleaved into the four mature saposin proteins (saposins A, B, C, D). One of these, saposin B, is necessary in the hydrolysis of sulphatide by arylsulphatase A where it presents the solubilised substrate to the enzyme. As an alternative to arylsulphatase A deficiency, deficiency of saposin B causes metachromatic leukodystrophy. We identified a previously undescribed mutation (N215K) in the prosaposin gene of a patient with metachromatic leukodystrophy but with normal arylsulphatase A activity and elevated sulphatide in urine. The mutation involves a highly conserved amino acidic residue and abolishes the only N-glycosylation site of saposin B.

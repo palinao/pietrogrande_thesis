@@ -1,0 +1,6 @@
+Genetic alteration of the DCX gene in Japanese patients with subcortical laminar heterotopia or isolated lissencephaly sequence.
+
+Authors: 
+Sakamoto M, Ono J, Okada S, Nakamura Y, Kurahashi H
+
+We examined mutations of the doublecortin (DCX) gene, which is responsible for X-linked subcortical laminar heterotopia (SCLH) and lissencephaly, in eight unrelated Japanese patients, four with SCLH and four with isolated lissencephaly sequence (ILS). Polymerase chain reaction (PCR) disclosed a deletion of part of the DCX gene in one male ILS patient. Single-strand conformational polymorphism analysis and subsequent sequence analysis were carried out in the remaining seven patients. One male ILS patient had a nonsense mutation in exon V, which would result in premature termination of the gene product. One female SCLH patient had a missense mutation in exon IV. Our results indicate that in the Japanese, as has been seen elsewhere, abnormality of the DCX gene is the common cause of SCLH and ILS.

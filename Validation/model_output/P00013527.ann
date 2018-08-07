@@ -1,0 +1,4 @@
+T0	GENE 8 40	constitutive androstane receptor
+N0	Reference T0 :::GENE	constitutive androstane receptor
+T1	GENE 54 59	CYP3A
+N1	Reference T1 :::GENE	CYP3A

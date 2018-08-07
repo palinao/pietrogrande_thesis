@@ -1,0 +1,48 @@
+{miriam-gene:4598 a ncit:C16612 .
+	
+	lld:C0398691 a ncit:C7057 .
+	
+	dgn-gda:DGN18338b578055297c779340ba8a0790d7 sio:SIO_000628 miriam-gene:4598 , lld:C0398691 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:4598 a ncit:C16612 .
+	
+	lld:C1959626 a ncit:C7057 .
+	
+	dgn-gda:DGNfce782d3621a51db67e0d450a69e765c sio:SIO_000628 miriam-gene:4598 , lld:C1959626 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:4598 a ncit:C16612 .
+	
+	lld:C0015230 a ncit:C7057 .
+	
+	dgn-gda:DGNa888e15379b19c7f704846996a482e12 sio:SIO_000628 miriam-gene:4598 , lld:C0015230 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:4598 a ncit:C16612 .
+	
+	lld:C0003862 a ncit:C7057 .
+	
+	dgn-gda:DGN1f8906b0f2ef4c12703cf7c6e883652a sio:SIO_000628 miriam-gene:4598 , lld:C0003862 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:4598 a ncit:C16612 .
+	
+	lld:C0342731 a ncit:C7057 .
+	
+	dgn-gda:DGN30ec70a05e23344aaf199c0d6a7ce929 sio:SIO_000628 miriam-gene:4598 , lld:C0342731 ;
+		a sio:SIO_001121 .
+}
+
+{miriam-gene:4598 a ncit:C16612 .
+	
+	lld:C0015967 a ncit:C7057 .
+	
+	dgn-gda:DGN6625c1c1ac2d0a22fa8112c96b100237 sio:SIO_000628 miriam-gene:4598 , lld:C0015967 ;
+		a sio:SIO_001121 .
+}
+

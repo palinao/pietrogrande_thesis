@@ -1,0 +1,6 @@
+Desmin mutation responsible for idiopathic dilated cardiomyopathy.
+
+Authors: 
+Li D, Tapscoft T, Gonzalez O, Burch PE, Quiñones MA, Zoghbi WA, Hill R, Bachinski LL, Mann DL, Roberts R
+
+Idiopathic dilated cardiomyopathy, of which approximately 20% of cases are familial (FDCM), is a primary myocardial disorder characterized by ventricular dilatation and impaired systolic function. It is a common cause of heart failure and the need for cardiac transplantation. Although 6 chromosomal loci responsible for autosomal dominant FDCM have been mapped by linkage analysis, none of these genes have been identified. By use of the candidate-gene approach, actin was identified recently as being responsible for dilated cardiomyopathy. Considerable evidence suggests desmin, a muscle-specific intermediate filament, plays a significant role in cardiac growth and development.

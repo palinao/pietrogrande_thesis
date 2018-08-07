@@ -1,0 +1,6 @@
+A novel sex-determining region on Y (SRY) missense mutation identified in a 46,XY female and also in the father.
+
+Authors: 
+Imai A, Takagi A, Tamaya T
+
+Mutations in the sex-determining gene SR Y previously identified occur in the 46, XY females. In this study, we investigated whether the SR Y mutation participates in the onset of XY sex reversal. Genomic deoxyribonucleic acids (DNA) from five XY sex-reversed females were analyzed for mutations in SR Y using polymerase-chain reaction (PCR) amplification and subsequent DNA sequencing. One of the 46, XY females suffered a novel missense mutation at position 306 of SR Y gene, wherein cytosine was replaced by adenine (CGC-->AGC), resulting in a substitution of serine for arginine at amino acid position 76 of SR Y protein. This mutation was located in Helix I of the high-mobility-group (HMG) domain. No other mutations were found in the remaining regions of the gene. Analysis of the SR Y gene in her father revealed that he carried the identical mutation version. This substitution introduces a large basic for a small polar uncharged amino acid residue in the HMG box. The fact that the father transmits the mutant SR Y copy to his offspring implies that SR Y mutations do not always occur in association with sex reversal, even when the ionic environment is altered.

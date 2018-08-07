@@ -1,0 +1,4 @@
+T0	GENE 18 32	angiopoietin-1
+N0	Reference T0 :::GENE	angiopoietin-1
+T1	GENE 37 41	Tie2
+N1	Reference T1 :::GENE	Tie2

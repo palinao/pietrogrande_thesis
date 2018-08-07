@@ -1,0 +1,4 @@
+T0	GENE 6 9	ACE
+N0	Reference T0 :::GENE	ACE
+T1	GENE 14 18	ACE2
+N1	Reference T1 :::GENE	ACE2

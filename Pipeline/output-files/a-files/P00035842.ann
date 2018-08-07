@@ -1,0 +1,4 @@
+T0	GENE 36 43	albumin
+N0	Reference T0 :::GENE	albumin
+T1	GENE 73 80	albumin
+N1	Reference T1 :::GENE	albumin

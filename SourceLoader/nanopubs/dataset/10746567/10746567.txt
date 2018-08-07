@@ -1,0 +1,6 @@
+Complex inheritance of ABCR mutations in Stargardt disease: linkage disequilibrium, complex alleles, and pseudodominance.
+
+Authors: 
+Shroyer NF, Lewis RA, Lupski JR
+
+Stargardt disease is a recessively transmitted disease caused by mutations in the ABCR gene. Linkage disequilibrium has recently been reported between a polymorphism, 2828 A, and a common Western European founder mutation, 2588 C. Here, we confirm this linkage disequilibrium in a North American population. We also describe two complex alleles involving the 2828 A and 2588 C alterations and suggest a possible order of clinical severity of mutations identified in trans to the complex alleles. Finally, we report pseudodominance of Stargardt disease in a family with the 2588 C mutation, further supporting a high frequency of carriers for ABCR mutations in our population.

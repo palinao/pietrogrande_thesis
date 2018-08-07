@@ -1,0 +1,8 @@
+{miriam-gene:355 a ncit:C16612 .
+	
+	lld:C1328840 a ncit:C7057 .
+	
+	dgn-gda:DGN113e8eee6ed8cf6a46368524fda9a4e5 sio:SIO_000628 miriam-gene:355 , lld:C1328840 ;
+		a sio:SIO_001122 .
+}
+

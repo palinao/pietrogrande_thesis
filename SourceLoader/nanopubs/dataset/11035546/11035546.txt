@@ -1,0 +1,6 @@
+Mutational analysis and clinical correlation in Leber congenital amaurosis.
+
+Authors: 
+Dharmaraj SR, Silva ER, Pina AL, Li YY, Yang JM, Carter CR, Loyer MK, El-Hilali HK, Traboulsi EK, Sundin OK, Zhu DK, Koenekoop RK, Maumenee IH
+
+Leber congenital amaurosis (LCA, MIM 204001) is a clinically and genetically heterogeneous retinal disorder characterized by severe visual loss from birth, nystagmus, poor pupillary reflexes, retinal pigmentary or atrophic changes, and a markedly diminished electroretinogram (ERG).

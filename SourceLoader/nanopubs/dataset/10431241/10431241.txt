@@ -1,0 +1,6 @@
+Mutations in the human homologue of mouse dl cause autosomal recessive and dominant hypohidrotic ectodermal dysplasia.
+
+Authors: 
+Monreal AW, Ferguson BM, Headon DJ, Street SL, Overbeek PA, Zonana J
+
+X-linked hypohidrotic ectodermal dysplasia results in abnormal morphogenesis of teeth, hair and eccrine sweat glands. The gene (ED1) responsible for the disorder has been identified, as well as the analogous X-linked gene (Ta) in the mouse. Autosomal recessive disorders, phenotypically indistinguishable from the X-linked forms, exist in humans and at two separate loci (crinkled, cr, and downless, dl) in mice. Dominant disorders, possibly allelic to the recessive loci, are seen in both species (ED3, Dlslk). A candidate gene has recently been identified at the dl locus that is mutated in both dl and Dlslk mutant alleles. We isolated and characterized its human DL homologue, and identified mutations in three families displaying recessive inheritance and two with dominant inheritance. The disorder does not map to the candidate gene locus in all autosomal recessive families, implying the existence of at least one additional human locus. The putative protein is predicted to have a single transmembrane domain, and shows similarity to two separate domains of the tumour necrosis factor receptor (TNFR) family.

@@ -1,0 +1,8 @@
+{miriam-gene:6476 a ncit:C16612 .
+	
+	lld:C1283620 a ncit:C7057 .
+	
+	dgn-gda:DGN7f27d193da420a66ce26d57872f44a21 sio:SIO_000628 miriam-gene:6476 , lld:C1283620 ;
+		a sio:SIO_001122 .
+}
+

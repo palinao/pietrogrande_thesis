@@ -1,0 +1,24 @@
+{miriam-gene:1278 a ncit:C16612 .
+	
+	lld:C0268362 a ncit:C7057 .
+	
+	dgn-gda:DGN193ca78e803323c0b13b2e09c7d6ec11 sio:SIO_000628 miriam-gene:1278 , lld:C0268362 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:1277 a ncit:C16612 .
+	
+	lld:C0268362 a ncit:C7057 .
+	
+	dgn-gda:DGN7ca9442f2ac2c868aff0c82a99d5d0e1 sio:SIO_000628 miriam-gene:1277 , lld:C0268362 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:1277 a ncit:C16612 .
+	
+	lld:C0268358 a ncit:C7057 .
+	
+	dgn-gda:DGN23e238234f68a7230f8b8acb20d7158e sio:SIO_000628 miriam-gene:1277 , lld:C0268358 ;
+		a sio:SIO_001122 .
+}
+

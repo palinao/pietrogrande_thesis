@@ -1,0 +1,6 @@
+Inactivation of the glucose 6-phosphate transporter causes glycogen storage disease type 1b.
+
+Authors: 
+Hiraiwa H, Pan CJ, Lin B, Moses SW, Chou JY
+
+Glycogen storage disease type 1b (GSD-1b) is proposed to be caused by a deficiency in microsomal glucose 6-phosphate (G6P) transport, causing a loss of glucose-6-phosphatase activity and glucose homeostasis. However, for decades, this disorder has defied molecular characterization. In this study, we characterize the structural organization of the G6P transporter gene and identify mutations in the gene that segregate with the GSD-1b disorder. We report the functional characterization of the recombinant G6P transporter and demonstrate that mutations uncovered in GSD-1b patients disrupt G6P transport. Our results, for the first time, define a molecular basis for functional deficiency in GSD-1b and raise the possibility that the defective G6P transporter contributes to neutropenia and neutrophil/monocyte dysfunctions characteristic of GSD-1b patients.

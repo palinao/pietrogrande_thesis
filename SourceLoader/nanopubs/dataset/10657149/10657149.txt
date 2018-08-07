@@ -1,0 +1,6 @@
+New mutations of the hydroxymethylbilane synthase gene in German patients with acute intermittent porphyria.
+
+Authors: 
+Gross U, Puy H, Doss M, Robreau AM, Nordmann Y, Doss MO, Deybach JC
+
+Acute intermittent porphyria (AIP) is a low-penetrant, autosomal dominant disorder caused by decreased activity of hydroxymethylbilane synthase (HMBS; MIM 176 000), the third enzyme in the heme biosynthetic pathway. We report the first molecular analysis of HMBS gene mutations in classical AIP patients of German origin. The HMBS gene of 5 German AIP patients was analysed by DGGE-screening and direct sequencing of amplified genomic DNA. Five different mutations including four novel mutations were found. Three of them are single base substitutions that affected exon 3 (R16C), exon 10 (V202L), and intron 13 (T to A, IVS13+2) The two remaining mutations are frameshifts which produce a stop codon (del GA in exon 6 and insA in exon 14). These mutations are likely to be responsible for the decrease in HMBS activity found in both erythrocytes and non-erythroid cell lines (lymphocytes). Our results demonstrate the allelic heterogeneity of HMBS mutations in AIP patients of German origin.

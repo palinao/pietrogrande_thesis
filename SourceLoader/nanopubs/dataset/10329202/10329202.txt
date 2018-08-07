@@ -1,0 +1,6 @@
+Familial hypertrophic cardiomyopathy associated with a novel missense mutation affecting the ATP-binding region of the cardiac beta-myosin heavy chain.
+
+Authors: 
+Bundgaard H, Havndrup O, Andersen PS, Larsen LA, Brandt NJ, Vuust J, Kjeldsen K, Christiansen M
+
+Mutations in the cardiac beta -myosin heavy chain gene (MYH7), and other genes encoding cardiac sarcomere proteins may cause familial hypertrophic cardiomyopathy (F-HCM), an autosomal dominant disease, characterized by myocardial hypertrophy. We analysed the MYH7 gene in three generations of a family with one borderline and four clinically verified cases of hypertrophic cardiomyopathy, and identified a mutation in exon 7 changing the 190 arginine residue into a threonine residue. The mutation is located in the ATP-binding region of the myosin head and alters the charge in the F-helix close to the phosphate-binding P-loop. The mutation may thus interfere with the coupling between ATP-hydrolysis and the transition into mechanical energy. In conclusion, the novel Arg190Thr mutation in exon 7 of the MYH7 gene is associated with the development of symptomatic myocardial hypertrophy in adults.

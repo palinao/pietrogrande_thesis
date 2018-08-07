@@ -1,0 +1,16 @@
+{miriam-gene:4000 a ncit:C16612 .
+	
+	lld:C0410190 a ncit:C7057 .
+	
+	dgn-gda:DGNa5b4d64fa0d890af6e768be2e5174a32 sio:SIO_000628 miriam-gene:4000 , lld:C0410190 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:4000 a ncit:C16612 .
+	
+	lld:C2750785 a ncit:C7057 .
+	
+	dgn-gda:DGNb8abc924d7506fe0ae730f2d27f20c16 sio:SIO_000628 miriam-gene:4000 , lld:C2750785 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,8 @@
+{miriam-gene:2055 a ncit:C16612 .
+	
+	lld:C1864923 a ncit:C7057 .
+	
+	dgn-gda:DGN0689549c6b0c2619ed8b29915074b5ed sio:SIO_000628 miriam-gene:2055 , lld:C1864923 ;
+		a sio:SIO_001122 .
+}
+

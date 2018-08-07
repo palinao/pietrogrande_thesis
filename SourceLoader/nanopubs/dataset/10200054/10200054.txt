@@ -1,0 +1,6 @@
+Missense mutation in exon 11 (Codon 378) of the presenilin-1 gene in a French family with early-onset Alzheimer's disease and transmission study by mismatch enhanced allele specific amplification. Mutations in brief no. 141. Online. besancon@rockefeller1.univ.lyon1.fr.
+
+Authors: 
+Besançon R, Lorenzi A, Cruts M, Radawiec S, Sturtz F, Broussolle E, Chazot G, van Broeckhoven C, Chamba G, Vandenberghe A
+
+Mutations in the presenilin-1 (PS1) gene account for the majority of familial early-onset Alzheimer's disease (EOAD) cases. We screened the coding part of the PS1 gene for the present of mutations in a French family with EOAD, using single strand conformation polymorphism (SSCP) analysis. Patients in the pedigree showed a missense mutation in exon 11 of the PS1 gene involving a transition of G to A, altering glycine to glutamate at codon 378. The cosegregation of the mutation with EOAD in the family was studied by allele specific amplification, enhanced by the introduction of a mismatch at the penultimate position near the 3' primer end. The mutation has not been described before and is located within the third large cytoplasmic loop and may lead to the appearance of a short additional a-helix.

@@ -1,0 +1,8 @@
+{miriam-gene:3081 a ncit:C16612 .
+	
+	lld:C0002066 a ncit:C7057 .
+	
+	dgn-gda:DGN1987c7ce3280ed31535e36b17aa03a8a sio:SIO_000628 miriam-gene:3081 , lld:C0002066 ;
+		a sio:SIO_001122 .
+}
+

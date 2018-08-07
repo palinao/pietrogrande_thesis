@@ -1,0 +1,4 @@
+T0	GENE 17 53	colony stimulating factor 1 receptor
+N0	Reference T0 :::GENE	colony stimulating factor 1 receptor
+T1	GENE 55 60	CSF1R
+N1	Reference T1 :::GENE	CSF1R

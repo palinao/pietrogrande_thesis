@@ -1,0 +1,4 @@
+T0	GENE 17 21	EXT1
+N0	Reference T0 :::GENE	EXT1
+T1	GENE 26 30	EXT2
+N1	Reference T1 :::GENE	EXT2

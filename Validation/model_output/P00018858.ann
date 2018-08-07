@@ -1,0 +1,4 @@
+T0	GENE 0 21	Tumor necrosis factor
+N0	Reference T0 :::GENE	Tumor necrosis factor
+T1	GENE 50 54	TROY
+N1	Reference T1 :::GENE	TROY

@@ -1,0 +1,6 @@
+Novel missense mutation in the L1 gene in a child with corpus callosum agenesis, retardation, adducted thumbs, spastic paraparesis, and hydrocephalus.
+
+Authors: 
+Sztriha L, Frossard P, Hofstra RM, Verlind E, Nork M
+
+Corpus callosum agenesis, retardation, adducted thumbs, spastic paraparesis, and hydrocephalus (CRASH syndrome) is an X-linked recessive disorder caused by mutations in the neuronal cell adhesion molecule L1 (LICAM) gene. L1 plays a key role in axon outgrowth and pathfinding during the development of the nervous system. We describe the case of a boy from the United Arab Emirates who presented with CRASH syndrome. Scanning the L1 gene of the patient resulted in the discovery of a novel missense mutation: transition of a G (guanine) to T (thymine) at position 604 (G604-->T), which results in conversion of aspartic acid to tyrosine at position 202 (D202Y) of the L1 protein. It is very likely that the cerebral dysgenesis is due to the abnormal structure and function of L1.

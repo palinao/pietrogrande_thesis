@@ -1,0 +1,8 @@
+{miriam-gene:7007 a ncit:C16612 .
+	
+	lld:C1832187 a ncit:C7057 .
+	
+	dgn-gda:DGN16616253eeee1c5e4b332c86b9328bd7 sio:SIO_000628 miriam-gene:7007 , lld:C1832187 ;
+		a sio:SIO_001122 .
+}
+

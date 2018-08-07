@@ -1,0 +1,4 @@
+T0	GENE 0 4	CD40
+N0	Reference T0 :::GENE	CD40
+T1	GENE 152 157	HER-2
+N1	Reference T1 :::GENE	HER-2

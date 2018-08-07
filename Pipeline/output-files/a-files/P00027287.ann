@@ -1,0 +1,4 @@
+T0	GENE 0 4	EML4
+N0	Reference T0 :::GENE	EML4
+T1	GENE 5 8	ALK
+N1	Reference T1 :::GENE	ALK

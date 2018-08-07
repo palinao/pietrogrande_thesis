@@ -1,0 +1,16 @@
+{miriam-gene:2131 a ncit:C16612 .
+	
+	lld:C0015306 a ncit:C7057 .
+	
+	dgn-gda:DGN421bb1a08708a165c145ce1d8951b933 sio:SIO_000628 miriam-gene:2131 , lld:C0015306 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:2131 a ncit:C16612 .
+	
+	lld:C0008479 a ncit:C7057 .
+	
+	dgn-gda:DGN49ef01f8672168782362eb1945dc3f91 sio:SIO_000628 miriam-gene:2131 , lld:C0008479 ;
+		a sio:SIO_001122 .
+}
+

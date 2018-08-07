@@ -1,0 +1,8 @@
+{miriam-gene:6926 a ncit:C16612 .
+	
+	lld:C1866994 a ncit:C7057 .
+	
+	dgn-gda:DGNbdf3792d4016356b16df562729c44699 sio:SIO_000628 miriam-gene:6926 , lld:C1866994 ;
+		a sio:SIO_001122 .
+}
+

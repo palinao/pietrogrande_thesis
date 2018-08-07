@@ -1,0 +1,1 @@
+We previously implicated mutations in the gene encoding glycyl-tRNA synthetase (GARS) as the cause of CMT2D and dSMA-V. GARS is a member of the family of aminoacyl-tRNA synthetases responsible for charging tRNA with cognate amino acids; GARS ligates glycine to tRNA(Gly)

@@ -1,0 +1,4 @@
+T0	GENE 35 40	ErbB4
+N0	Reference T0 :::GENE	ErbB4
+T1	GENE 90 94	NRG1
+N1	Reference T1 :::GENE	NRG1

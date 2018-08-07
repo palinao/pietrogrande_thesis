@@ -1,0 +1,6 @@
+Acetylcholine receptor M3 domain: stereochemical and volume contributions to channel gating.
+
+Authors: 
+Wang HL, Milone M, Ohno K, Shen XM, Tsujino A, Batocchi AP, Tonali P, Brengman J, Engel AG, Sine SM
+
+By defining the functional defect in a congenital myasthenic syndrome (CMS), we show that the third transmembrane domain (M3) of the muscle acetylcholine receptor governs the speed and efficiency of gating of its channel. The clinical phenotype of this CMS results from the mutation V285I in M3 of the alpha subunit, which attenuates endplate currents, accelerates their decay and causes abnormally brief acetylcholine-induced single-channel currents. Kinetic analysis of engineered alpha V285I receptors demonstrated a predominant effect on channel gating, with abnormally slow opening and rapid closing rates. Analysis of site-directed mutations revealed stereochemical and volume-dependent contributions of alpha V285 to channel gating. Thus, we demonstrate a functional role for the M3 domain as a key component of the nicotinic acetylcholine receptor channel-gating mechanism.

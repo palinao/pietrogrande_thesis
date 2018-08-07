@@ -1,0 +1,8 @@
+T0	GENE 62 115	signal transduction and activation of transcription 3
+N0	Reference T0 :::GENE	signal transduction and activation of transcription 3
+T1	GENE 117 122	STAT3
+N1	Reference T1 :::GENE	STAT3
+T2	GENE 137 150	interleukin-6
+N2	Reference T2 :::GENE	interleukin-6
+T3	GENE 168 172	ApoE
+N3	Reference T3 :::GENE	ApoE

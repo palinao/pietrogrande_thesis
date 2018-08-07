@@ -1,0 +1,6 @@
+Three novel mutations in the gap junction beta 1 (GJB1) gene coding region identified in Charcot-Marie-Tooth patients of Greek origin: T55I, R164Q, V120E. Mutation in brief no 236. Online.
+
+Authors: 
+Karadimas C, Panas M, Chronopoulou P, Avramopoulos D, Vassilopoulos D
+
+Charcot-Marie-Tooth (CMT) disease type CMTX has been linked with mutations in GJB1, a gene on chromosome X coding for a gap junction protein, Connexin 32. We screened the GJB1 gene for mutations by SSCP analysis and sequencing of candidate regions, in five unrelated CMT affected individuals, members of families presenting a mode of transmission and clinical findings compatible with CMTX. Mutations were detected in all five patients. Three not previously reported mutations were identified: C164T, G491A and T359A. Two patients shared the same mutation (C164T) while one had a reported mutation (C43T). Restriction enzyme digestion confirmed the sequencing results, as well as the co-segregation of the mutation with the disease. The same method was used to screen 150 control X chromosomes and the variations were not detected.

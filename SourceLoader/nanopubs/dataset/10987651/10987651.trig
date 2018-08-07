@@ -1,0 +1,8 @@
+{miriam-gene:6514 a ncit:C16612 .
+	
+	lld:C3495427 a ncit:C7057 .
+	
+	dgn-gda:DGN5d81758a8e76a55f6f789d9f0b2b4ec9 sio:SIO_000628 miriam-gene:6514 , lld:C3495427 ;
+		a sio:SIO_001122 .
+}
+

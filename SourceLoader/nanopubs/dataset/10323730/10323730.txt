@@ -1,0 +1,6 @@
+Novel missense mutation (Leu466Arg) of the DAX1 gene in a patient with X-linked congenital adrenal hypoplasia.
+
+Authors: 
+Abe S, Nakae J, Yasoshima K, Tajima T, Shinohara N, Murashita M, Satoh K, Koike A, Takahashi Y, Fujieda K
+
+We identified a DAX1 missense mutation, a substitution of arginine for leucine at codon 466 (Leu466Arg), in an infant with X-linked congenital adrenal hypoplasia (AHC). A heterozygous substitution, Leu466Arg, was also identified in his mother and sister. Since leucine at position 466 is well conserved among other orphan nuclear hormone receptor superfamilies and Leu466Arg was not detected among 50 normal Japanese control individuals, the mutation is most likely responsible for X-linked AHC. It is interesting to note that Leu466Arg among all mutations ever reported is located at the most C-terminal region of the DAX-1 protein. Most mutations identified previously were located in the C-terminal presumptive ligand binding domain. Hence, the C-terminal end of the DAX-1 protein may play an important role in the biological function, such as in normal adrenal embryogenesis.

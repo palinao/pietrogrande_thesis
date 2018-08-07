@@ -1,0 +1,8 @@
+{miriam-gene:6683 a ncit:C16612 .
+	
+	lld:C1866855 a ncit:C7057 .
+	
+	dgn-gda:DGN330a76e406cbf6913daf225de5ae2850 sio:SIO_000628 miriam-gene:6683 , lld:C1866855 ;
+		a sio:SIO_001122 .
+}
+

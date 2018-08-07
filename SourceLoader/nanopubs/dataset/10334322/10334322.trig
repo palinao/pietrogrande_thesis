@@ -1,0 +1,16 @@
+{miriam-gene:6833 a ncit:C16612 .
+	
+	lld:C2931832 a ncit:C7057 .
+	
+	dgn-gda:DGNcbb050d05bcaae453fdcfba236d8e21d sio:SIO_000628 miriam-gene:6833 , lld:C2931832 ;
+		a sio:SIO_001122 .
+}
+
+{miriam-gene:6833 a ncit:C16612 .
+	
+	lld:C3888018 a ncit:C7057 .
+	
+	dgn-gda:DGNe1aba858458fe4f1988d41437917ddc9 sio:SIO_000628 miriam-gene:6833 , lld:C3888018 ;
+		a sio:SIO_001121 .
+}
+

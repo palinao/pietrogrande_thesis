@@ -1,0 +1,8 @@
+T0	GENE 116 131	selenoprotein N
+N0	Reference T0 :::GENE	selenoprotein N
+T1	GENE 133 138	SEPN1
+N1	Reference T1 :::GENE	SEPN1
+T2	GENE 147 181	skeletal muscle ryanodine receptor
+N2	Reference T2 :::GENE	skeletal muscle ryanodine receptor
+T3	GENE 183 187	RYR1
+N3	Reference T3 :::GENE	RYR1

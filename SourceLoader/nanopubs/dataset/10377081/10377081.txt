@@ -1,0 +1,6 @@
+Congenital long-QT syndrome caused by a novel mutation in a conserved acidic domain of the cardiac Na+ channel.
+
+Authors: 
+Wei J, Wang DW, Alings M, Fish F, Wathen M, Roden DM, George AL Jr
+
+Congenital long-QT syndrome (LQTS) is an inherited condition of abnormal cardiac excitability characterized clinically by an increased risk of ventricular tachyarrhythmias. One form, LQT3, is caused by mutations in the cardiac voltage-dependent sodium channel gene, SCN5A. Only 5 SCN5A mutations have been associated with LQTS, and more work is needed to improve correlations between SCN5A genotypes and associated clinical syndromes.

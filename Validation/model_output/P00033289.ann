@@ -1,0 +1,4 @@
+T0	GENE 14 19	STAT3
+N0	Reference T0 :::GENE	STAT3
+T1	GENE 47 50	FXR
+N1	Reference T1 :::GENE	FXR

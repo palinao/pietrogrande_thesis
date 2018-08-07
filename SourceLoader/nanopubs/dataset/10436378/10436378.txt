@@ -1,0 +1,6 @@
+Identification of a new transthyretin variant (Ile49) in familial amyloidotic polyneuropathy using electrospray ionization mass spectrometry and nonisotopic RNase cleavage assay.
+
+Authors: 
+Nakamura M, Yamashita T, Ando Y, Hamidi Asl K, Tashima K, Ohlsson P, Kususe Y, Benson MD
+
+Mutation of the transthyretin (TTR) plasma protein and gene in a Japanese patient with amyloid polyneuropathy was investigated by electrospray ionization mass spectrometry (ESI-MS) and nonisotopic RNase cleavage assay (NIRCA), respectively. ESI-MS analysis showed normal TTR peaks and additionally a variant TTR with 12-dalton-higher molecular weight than normal TTR. NIRCA suggested that the mutation existed near either the 5' or 3' end of exon 3. Direct DNA sequencing revealed both a normal ACC (threonine) and a variant ATC (isoleucine) at codon 49, which was located near the 5' end of exon 3. The molecular weight shift of this mutation was 12 D, consistent with the result of ESI-MS.

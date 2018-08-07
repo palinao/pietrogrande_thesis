@@ -1,0 +1,4 @@
+T0	GENE 38 44	leptin
+N0	Reference T0 :::GENE	leptin
+T1	GENE 49 64	cholecystokinin
+N1	Reference T1 :::GENE	cholecystokinin

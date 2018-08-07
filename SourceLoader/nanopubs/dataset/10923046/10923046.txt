@@ -1,0 +1,6 @@
+mut0 methylmalonic acidemia: eleven novel mutations of the methylmalonyl CoA mutase including a deletion-insertion mutation.
+
+Authors: 
+Fuchshuber A, Mucha B, Baumgartner ER, Vollmer M, Hildebrandt F
+
+Methylmalonic aciduria (MMA) is an autosomal-recessive disorder caused by inadequate function of methylmalonyl-CoA mutase (MCM), a nuclear-encoded, mitochondrial enzyme that uses adenosylcobalamin as a cofactor. Biochemical cell studies have delineated phenotypic variants: mut(0) phenotypes in which there is no detectable enzymatic activity and mut- phenotypes in which there is residual cobalamin-dependent activity. Mutation screening in MMA has led to the detection of 30 disease-specific mutations. In 14 patients with the mut(0) phenotype we found 11 novel mutations (K54X, A137V, F174S, 620insA, G203R, Q218H, A535P, H627R, 2085delG and 2270del4/ins5), 6 of them homozygous, consisting of 1 nonsense, 6 missense, 1 splice site, and 3 frame shift mutations. The position in relation to different functional domains in MCM allow for an interpretation of the identified mutations. Hum Mutat 16:179, 2000.

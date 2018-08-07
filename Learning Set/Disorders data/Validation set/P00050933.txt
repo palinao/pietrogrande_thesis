@@ -1,0 +1,1 @@
+For both liver and hepatoma HGPRT, the reciprocal plots for hypoxanthine and guanine yielded the same Km of 3 microM

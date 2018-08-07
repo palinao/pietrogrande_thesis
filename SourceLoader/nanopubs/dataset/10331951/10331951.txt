@@ -1,0 +1,6 @@
+Bestrophin gene mutations in patients with Best vitelliform macular dystrophy.
+
+Authors: 
+Caldwell GM, Kakuk LE, Griesinger IB, Simpson SA, Nowak NJ, Small KW, Maumenee IH, Rosenfeld PJ, Sieving PA, Shows TB, Ayyagari R
+
+Best vitelliform macular dystrophy (VMD2) is an autosomal dominant dystrophy with a juvenile age of onset. Mutations in the Bestrophin gene were shown in patients affected with VMD2. In a mutation study, we made three new and interesting observations. First, we identified possible mutation hotspots within the gene, suggesting that particular regions of the protein have greater functional significance than others. Second, we described a 2-bp deletion in a part of the gene where mutations have not previously been reported; this mutation causes a frameshift and subsequent premature termination of the protein. Finally, we have evidence that some mutations are associated with variable expression of the disease, suggesting the involvement of other factors or genes in the disease phenotype.

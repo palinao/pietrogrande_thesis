@@ -1,0 +1,8 @@
+T0	GENE 13 33	spastic paraplegia 2
+N0	Reference T0 :::GENE	spastic paraplegia 2
+T1	GENE 35 39	SPG2
+N1	Reference T1 :::GENE	SPG2
+T2	GENE 140 144	PLP1
+N2	Reference T2 :::GENE	PLP1
+T3	GENE 155 159	PLP1
+N3	Reference T3 :::GENE	PLP1

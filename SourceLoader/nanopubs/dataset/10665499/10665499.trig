@@ -1,0 +1,8 @@
+{miriam-gene:351 a ncit:C16612 .
+	
+	lld:C0002395 a ncit:C7057 .
+	
+	dgn-gda:DGN5c2e2f06a1b2d562d6c3b552f8fc6efc sio:SIO_000628 miriam-gene:351 , lld:C0002395 ;
+		a sio:SIO_001122 .
+}
+

@@ -1,0 +1,4 @@
+T0	GENE 0 5	Apaf1
+N0	Reference T0 :::GENE	Apaf1
+T1	GENE 7 20	CED-4 homolog
+N1	Reference T1 :::GENE	CED-4 homolog

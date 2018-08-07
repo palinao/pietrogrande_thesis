@@ -1,0 +1,6 @@
+Missense mutations in phosphomannomutase 2 gene in two Japanese families with carbohydrate-deficient glycoprotein syndrome type 1.
+
+Authors: 
+Kondo I, Mizugishi K, Yoneda Y, Hashimoto T, Kuwajima K, Yuasa I, Shigemoto K, Kuroda Y
+
+Carbohydrate-deficient glycoprotein syndrome type 1 (CDG1) (MIM: 212065) is an autosomal recessive disorder with psychomotor retardation, strokelike episodes, ataxia, and olivopontocerebellar atrophy (OPCA) of neonatal onset. Recently, DNA substitutions in a gene for phosphomannomutase 2 (PMM2), mapped to 16p13, were identified in patients with CDG1. Biochemical findings in previously reported Japanese patients with CDG1 were slightly different from those of Caucasians, suggesting genetic heterogeneity of CDG1 in Japanese patients. We investigated the DNA sequence of PMM2 in two unrelated Japanese families with CDG1. Missense mutations in exon 5 (Phe144Leu) and exon 8 (Tyr229Ser, Arg238Pro) of the PMM2 gene were present in two families, but they were not present in 72 unrelated healthy Japanese individuals. One of the missense mutations, Phe144Leu in exon 5, was common to two families with CDG1. Our findings confirm that mutations in the PMM2 gene account for at least some Japanese patients with CDG1 similar to that seen in Caucasians and that exons 5 and 8 are hot spots of mutations of CDG1 caused by the PMM2 gene.

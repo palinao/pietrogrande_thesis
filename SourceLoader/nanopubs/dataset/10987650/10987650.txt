@@ -1,0 +1,6 @@
+DGGE screening of PKD1 gene reveals novel mutations in a large cohort of 146 unrelated patients.
+
+Authors: 
+Perrichot RA, Mercier B, Simon PM, Whebe B, Cledes J, Ferec C
+
+Autosomal dominant polycystic kidney disease (ADPKD) is one of the most commonly inherited renal diseases. ADPKD is a genetically heterogeneous disorder involving at least three different genes. PKD1, the major locus mapped to chromosome 16p13.3 accounts for approximately 85% of ADPKD cases. The search for mutations is a very important step in understanding the molecular mechanisms underlying ADPKD. Despite intense screening by many groups, only a small number of mutations have been described so far. We undertook the first study using denaturing gradient gel electrophoresis (DGGE) to scan for mutations in the non-duplicated region of the PKD1 gene in a large cohort of 146 French unrelated ADPKD patients. We successfully identified novel mutations: 3 are frameshift mutations, 2 nonsense mutations, 2 missense mutations, 1 is an insertion in the frame of 9 nucleotides, 3 intronic variations and several polymorphisms. One of these mutations is the fourth de novo mutation described in this gene. We also describe a family with possible clinical anticipation. DGGE is an effective method for detecting nucleotide changes in the PKD1 gene.

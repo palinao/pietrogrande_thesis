@@ -1,0 +1,1 @@
+Three of the shared loci are also genome-wide significantly associated with PS alone (10q22 at ZMIZ1, p(rs1250544) = 3.53 × 10(-8), 11q13 near PRDX5, p(rs694739) = 3.71 × 10(-09), 22q11 at YDJC, p(rs181359) = 8.02 × 10(-10))

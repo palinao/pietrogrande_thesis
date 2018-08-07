@@ -1,0 +1,6 @@
+Carbohydrate deficient glycoprotein syndrome type IV: deficiency of dolichyl-P-Man:Man(5)GlcNAc(2)-PP-dolichyl mannosyltransferase.
+
+Authors: 
+Körner C, Knauer R, Stephani U, Marquardt T, Lehle L, von Figura K
+
+Type IV of the carbohydrate deficient glycoprotein syndromes (CDGS) is characterized by microcephaly, severe epilepsy, minimal psychomotor development and partial deficiency of sialic acids in serum glycoproteins. Here we show that the molecular defect in the index patient is a missense mutation in the gene encoding the mannosyltransferase that transfers mannose from dolichyl-phosphate mannose on to the lipid-linked oligosaccharide (LLO) intermediate Man(5)GlcNAc(2)-PP-dolichol. The defect results in the accumulation of the LLO intermediate and, due to its leaky nature, a residual formation of full-length LLOs. N-glycosylation is abnormal because of the transfer of truncated oligosaccharides in addition to that of full-length oligosaccharides and because of the incomplete utilization of N-glycosylation sites. The mannosyltransferase is the structural and functional orthologue of the Saccharomyces cerevisiae ALG3 gene.

@@ -1,0 +1,6 @@
+Molecular heterogeneity of Krabbe disease.
+
+Authors: 
+Fu L, Inui K, Nishigaki T, Tatsumi N, Tsukamoto H, Kokubu C, Muramatsu T, Okada S
+
+Krabbe disease (globoid cell leukodystrophy) is an autosomal recessive neurodegenerative disorder that affects both the central and peripheral nervous system due to an enzymatic defect of galactocerebrosidase (GALC). Following its cloning, many mutations in the galactocerebrosidase gene have been reported, but the correlation between phenotype and genotype was not clear in many cases. In this study we further investigated the molecular defects in another 10 patients (6 Japanese and 4 non-Japanese), using cultured skin fibroblasts, and found 10 mutations, of which 8 were novel, including a nonsense mutation (W647X) and 7 missense mutations (G43R, S52F, T262I, Y319C. W410G, R515H, T652R) in the coding region. Some phenotype-specific mutations were found but the other mutations were private. Mutations reported so far have been distributed over the whole GALC gene and it is difficult to speculate on functional domains of the GALC protein and phenotypically specific regions.

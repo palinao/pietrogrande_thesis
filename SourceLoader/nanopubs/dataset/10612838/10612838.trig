@@ -1,0 +1,8 @@
+{miriam-gene:695 a ncit:C16612 .
+	
+	lld:C0221026 a ncit:C7057 .
+	
+	dgn-gda:DGN8fd9491962c499032c978aae572dc82d sio:SIO_000628 miriam-gene:695 , lld:C0221026 ;
+		a sio:SIO_001122 .
+}
+

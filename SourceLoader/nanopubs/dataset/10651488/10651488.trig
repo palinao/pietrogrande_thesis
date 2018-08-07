@@ -1,0 +1,8 @@
+{miriam-gene:1080 a ncit:C16612 .
+	
+	lld:C0403814 a ncit:C7057 .
+	
+	dgn-gda:DGNc1509301feb87683a4c18d577bf50fc2 sio:SIO_000628 miriam-gene:1080 , lld:C0403814 ;
+		a sio:SIO_001122 .
+}
+

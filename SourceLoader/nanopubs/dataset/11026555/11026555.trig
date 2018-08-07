@@ -1,0 +1,8 @@
+{miriam-gene:554 a ncit:C16612 .
+	
+	lld:C1563705 a ncit:C7057 .
+	
+	dgn-gda:DGN656fa3bf5fa887e3b2e7cc6f8f75f93a sio:SIO_000628 miriam-gene:554 , lld:C1563705 ;
+		a sio:SIO_001122 .
+}
+

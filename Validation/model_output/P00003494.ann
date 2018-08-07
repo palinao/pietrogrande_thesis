@@ -1,0 +1,4 @@
+T0	GENE 43 48	Abeta
+N0	Reference T0 :::GENE	Abeta
+T1	GENE 97 100	APP
+N1	Reference T1 :::GENE	APP

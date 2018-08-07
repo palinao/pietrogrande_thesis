@@ -1,0 +1,4 @@
+T0	GENE 33 40	FTDP-17
+N0	Reference T0 :::GENE	FTDP-17
+T1	GENE 101 104	tau
+N1	Reference T1 :::GENE	tau

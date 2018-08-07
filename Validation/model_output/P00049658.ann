@@ -1,0 +1,6 @@
+T0	GENE 70 76	Day 18
+N0	Reference T0 :::GENE	Day 18
+T1	GENE 273 294	tumor necrosis factor
+N1	Reference T1 :::GENE	tumor necrosis factor
+T2	GENE 470 474	IL-4
+N2	Reference T2 :::GENE	IL-4

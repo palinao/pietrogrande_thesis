@@ -1,0 +1,4 @@
+T0	GENE 11 40	vasoactive intestinal peptide
+N0	Reference T0 :::GENE	vasoactive intestinal peptide
+T1	GENE 80 84	TLR4
+N1	Reference T1 :::GENE	TLR4

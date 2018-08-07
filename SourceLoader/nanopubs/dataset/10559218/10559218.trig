@@ -1,0 +1,8 @@
+{miriam-gene:6584 a ncit:C16612 .
+	
+	lld:C0342788 a ncit:C7057 .
+	
+	dgn-gda:DGN7f3c6ac2b2e590c92f1134d304652202 sio:SIO_000628 miriam-gene:6584 , lld:C0342788 ;
+		a sio:SIO_001122 .
+}
+

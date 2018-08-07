@@ -1,0 +1,4 @@
+T0	GENE 0 4	TrkA
+N0	Reference T0 :::GENE	TrkA
+T1	GENE 45 50	TRPM7
+N1	Reference T1 :::GENE	TRPM7

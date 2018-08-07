@@ -1,0 +1,4 @@
+T0	GENE 14 19	MALDI
+N0	Reference T0 :::GENE	MALDI
+T1	GENE 78 91	transthyretin
+N1	Reference T1 :::GENE	transthyretin

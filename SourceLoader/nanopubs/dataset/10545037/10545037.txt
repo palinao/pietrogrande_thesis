@@ -1,0 +1,6 @@
+Peripheral myelin modification in CMT1B correlates with MPZ gene mutations.
+
+Authors: 
+Lagueny A, Latour P, Vital A, Rajabally Y, Le Masson G, Ferrer X, Bernard I, Julien J, Vital C, Vandenberghe A
+
+Morphological modifications were investigated in the peripheral nerve of three unrelated patients with CMT1B. In two patients, molecular genetic analysis showed an Arg98His mutation in the extracellular domain of MPZ, associated with irregularly uncompacted lamellae. This observation confirms previous studies of a well-defined correlation between mutations and morphological phenotypes. In the third patient, a de novo Asp109Asn mutation was associated with abnormally thick myelin sheaths. This adds to the known list of MPZ gene mutations associated with this morphological phenotype.

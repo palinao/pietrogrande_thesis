@@ -1,0 +1,6 @@
+Identification of four novel mutations of the XLRS1 gene in Japanese patients with X-linked juvenile retinoschisis. Mutation in brief no. 234. Online.
+
+Authors: 
+Mashima Y, Shinoda K, Ishida S, Ozawa Y, Kudoh J, Iwata T, Oguchi Y, Shimizu N
+
+The XLRS1 gene (HUGO-approved symbol, RS1) has been found to cause X-linked recessive retinoschisis (RS) which is characterized by splitting of the superficial layer of the retina. Recent mutation analysis of this gene revealed 82 different mutations in 214 patients with RS. We have now identified 10 mutations of the XLRS1 gene in 11 unrelated Japanese males with RS. Mutations found in these patients were; 1) a 20-kb deletion in exon 1 region; 2) mutations in the initiation sequence (M1V); 3) mutations in the splice donor site (IVS1 + 1 g-->a); 4) two nonsense mutations (Q88X, W163X); and 5) five missense mutations (E72K, Y89C, R182C, G109E, P203L). Four (M1V, Q88X, G109E, and W163X) of the 10 mutations were novel. The R182C mutation was identified in 2 unrelated patients. The 3 mutations found between exons 1 and 3 cause premature translation termination in the XLRS1 protein. The rest of the 7 mutations were clustered between exons 4 and 6. This region of the protein is homologous to the proteins implicated in cell-cell adhesion.

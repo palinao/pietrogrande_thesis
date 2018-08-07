@@ -1,0 +1,6 @@
+Three novel TBX5 mutations in Chinese patients with Holt-Oram syndrome.
+
+Authors: 
+Yang J, Hu D, Xia J, Yang Y, Ying B, Hu J, Zhou X
+
+Holt-Oram syndrome (HOS) is an autosomal dominant syndrome that comprises upper limb and cardiac defects. The gene responsible for HOS, TBX5, was isolated and many mutations have been identified in HOS patients. We analyzed 11 Chinese HOS patients (7 from three families and 4 sporadic cases) for TBX5 mutation by single strand conformation polymorphisms (SSCPs). Three SSCP changes were detected in two of the three familial cases and one sporadic case. Sequence analysis identified three novel, heterozygous mutations in TBX5: a frameshift mutation caused by one base deletion [C416del] in one family, a mis-sense mutation (Gln49Lys) induced by a base substitution (C145A) in another family, and the other mis-sense mutation (Ile54Thr) by T161C in one sporadic case. The patients with the frameshift mutations had severer clinical manifestations that involved aplasia/hypoplasia of the arm and thumbs, while those with the mis-sense mutations presented with milder anomalies such as absent or hypoplastic thumbs but without arm abnormalities. These observations may support a genotype-phenotype correlation in HOS patients with TBX5 mutation.

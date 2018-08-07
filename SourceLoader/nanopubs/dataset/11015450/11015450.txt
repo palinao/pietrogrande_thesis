@@ -1,0 +1,6 @@
+Sporadic primary pulmonary hypertension is associated with germline mutations of the gene encoding BMPR-II, a receptor member of the TGF-beta family.
+
+Authors: 
+Thomson JR, Machado RD, Pauciulo MW, Morgan NV, Humbert M, Elliott GC, Ward K, Yacoub M, Mikhail G, Rogers P, Newman J, Wheeler L, Higenbottam T, Gibbs JS, Egan J, Crozier A, Peacock A, Allcock R, Corris P, Loyd JE, Trembath RC, Nichols WC
+
+Primary pulmonary hypertension (PPH), resulting from occlusion of small pulmonary arteries, is a devastating condition. Mutations of the bone morphogenetic protein receptor type II gene (BMPR2), a component of the transforming growth factor beta (TGF-beta) family which plays a key role in cell growth, have recently been identified as causing familial PPH. We have searched for BMPR2 gene mutations in sporadic PPH patients to determine whether the same genetic defect underlies the more common form of the disorder.

@@ -1,0 +1,8 @@
+{miriam-gene:9479 a ncit:C16612 .
+	
+	lld:C0011860 a ncit:C7057 .
+	
+	dgn-gda:DGN2ddfedc607160c17bbc8e79175ee2992 sio:SIO_000628 miriam-gene:9479 , lld:C0011860 ;
+		a sio:SIO_001122 .
+}
+

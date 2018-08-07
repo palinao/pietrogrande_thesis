@@ -1,0 +1,6 @@
+Mutations in TFAP2B cause Char syndrome, a familial form of patent ductus arteriosus.
+
+Authors: 
+Satoda M, Zhao F, Diaz GA, Burn J, Goodship J, Davidson HR, Pierpont ME, Gelb BD
+
+Char syndrome is an autosomal dominant trait characterized by patent ductus arteriosus, facial dysmorphism and hand anomalies. Using a positional candidacy strategy, we mapped TFAP2B, encoding a transcription factor expressed in neural crest cells, to the Char syndrome critical region and identified missense mutations altering conserved residues in two affected families. Mutant TFAP2B proteins dimerized properly in vitro, but showed abnormal binding to TFAP2 target sequence. Dimerization of both mutants with normal TFAP2B adversely affected transactivation, demonstrating a dominant-negative mechanism. Our work shows that TFAP2B has a role in ductal, facial and limb development and suggests that Char syndrome results from derangement of neural-crest-cell derivatives.

@@ -1,0 +1,8 @@
+{miriam-gene:7038 a ncit:C16612 .
+	
+	lld:C0342194 a ncit:C7057 .
+	
+	dgn-gda:DGNa01e8d31f5df601bd98a32097e90ed8c sio:SIO_000628 miriam-gene:7038 , lld:C0342194 ;
+		a sio:SIO_001122 .
+}
+

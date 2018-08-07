@@ -1,0 +1,4 @@
+T0	GENE 30 35	XLMTM
+N0	Reference T0 :::GENE	XLMTM
+T1	GENE 116 128	myotubularin
+N1	Reference T1 :::GENE	myotubularin
