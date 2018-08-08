@@ -77,10 +77,10 @@ Entrambi i dizionari seguono lo schema suggerito da Neji
 >1. identifier that contains 4 fields concatenated with a ":", following the template <source>:<id>:<type>:<group>;  
 >2. names concatenated with a "|".  
 >  
->UMLS:C0001327:T047:DISO acute laryngitis|acute laryngitis nos  
->UMLS:C0001339:T047:DISO acute pancreatitis|pancreatitis, acute  
->UMLS:C0001344:T047:DISO pharyngitis nos acute|acute pharyngitis|pharyngitis acute  
->UMLS:C0001360:T047:DISO acute thyroiditis|thyroiditis acute   
+>>UMLS:C0001327:T047:DISO acute laryngitis|acute laryngitis nos  
+>>UMLS:C0001339:T047:DISO acute pancreatitis|pancreatitis, acute  
+>>UMLS:C0001344:T047:DISO pharyngitis nos acute|acute pharyngitis|pharyngitis acute  
+>>UMLS:C0001360:T047:DISO acute thyroiditis|thyroiditis acute   
 
 ## Learning Set
 
@@ -90,13 +90,13 @@ Secondo le specifiche di Neji il corpus deve essere nel seguente formato
 
 >The sentences file should contain one sentence per line, which includes the unique identifier and respective sentence   separated by a white space. The unique identifier should not contain white spaces.  
 >  
->P00001606T0076 Comparison with alkaline phosphatases and 5-nucleotidase  
->P00008171T0000 Pharmacologic aspects of neonatal hyperbilirubinemia.  
+>>P00001606T0076 Comparison with alkaline phosphatases and 5-nucleotidase  
+>>P00008171T0000 Pharmacologic aspects of neonatal hyperbilirubinemia.  
 >  
 >The annotations file should contain one annotation per line, which follows the following format: SENTENCE_ID|FIRST_CHAR LAST_CHAR|TEXT. The character counting used for the FIRST_CHAR and LAST_CHAR, must be performed discarding white spaces.  
 >  
->P00001606T0076|14 33|alkaline phosphatases    
->P00001606T0076|37 50|5-nucleotidase    
+>>P00001606T0076|14 33|alkaline phosphatases    
+>>P00001606T0076|37 50|5-nucleotidase    
 
 Nel file "../Additional_files/nanopublications_v4.0.0.0.trig" delle nanopublication, per ogni assertion, è riportato l'id della malattia, l'id del gene e la frase da cui si è ottenuta l'assertion che le lega. 
 
