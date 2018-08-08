@@ -88,12 +88,12 @@ Attraverso Neji è stato possibile trainare dei modelli basati su Conditional Ra
 
 Secondo le specifiche di Neji il corpus deve essere nel seguente formato 
 
->The sentences file should contain one sentence per line, which includes the unique identifier and respective sentence   >separated by a white space. The unique identifier should not contain white spaces.  
+>The sentences file should contain one sentence per line, which includes the unique identifier and respective sentence   separated by a white space. The unique identifier should not contain white spaces.  
 >  
 >P00001606T0076 Comparison with alkaline phosphatases and 5-nucleotidase  
 >P00008171T0000 Pharmacologic aspects of neonatal hyperbilirubinemia.  
 >  
->The annotations file should contain one annotation per line, which follows the following format: SENTENCE_ID|FIRST_CHAR >LAST_CHAR|TEXT. The character counting used for the FIRST_CHAR and LAST_CHAR, must be performed discarding white spaces.  
+>The annotations file should contain one annotation per line, which follows the following format: SENTENCE_ID|FIRST_CHAR LAST_CHAR|TEXT. The character counting used for the FIRST_CHAR and LAST_CHAR, must be performed discarding white spaces.  
 >  
 >P00001606T0076|14 33|alkaline phosphatases    
 >P00001606T0076|37 50|5-nucleotidase    
