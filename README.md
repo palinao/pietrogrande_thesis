@@ -74,7 +74,7 @@ __PER ENTRAMBI I DIZIONARI__
 
 Entrambi i dizionari seguono lo schema suggerito da Neji
 
->1. identifier that contains 4 fields concatenated with a ":", following the template <source>:<id>:<type>:<group>;  
+>1. identifier that contains 4 fields concatenated with a ":", following the template \<source\>:\<id\>:\<type\>:\<group\>;  
 >2. names concatenated with a "|".  
 >  
 >>UMLS:C0001327:T047:DISO acute laryngitis|acute laryngitis nos  
