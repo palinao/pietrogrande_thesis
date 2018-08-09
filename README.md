@@ -18,7 +18,7 @@ dopo aver ottenuto il codice identificativo dell articolo di una singola nanopub
 
 Dopo aver raggiunto il numero di papers stabilito alla chiamata del programma, il codice continua a fare il parsing del file .trig per verificare se ci sono altre nanopubs per un paper già scaricato e le aggiunge in coda alle altre assertion.
 
-Inoltre, si raccolgono statistiche sul dataset di nanopublications, disponibili nella cartella "nanopubs/statistics" che contiene tre file con tutti gli identificativi di "disorders" (identificativi UMLS), "genes" (identificativi NCBI) e "relations" (identificativi SIO) che sono presenti nel file .trig ed infine un file con statistiche sul dataset di nanopublications.
+Inoltre, si raccolgono statistiche sul dataset di nanopublications, disponibili nella cartella "nanopubs/statistics" che contiene tre file con tutti gli identificativi di "disorders" (identificativi UMLS), "genes" (identificativi NCBI) e "relations" (identificativi SIO) che sono presenti nel file .trig, la cosa più interessante riguarda le relation, sono 25 e strutturate ad albero, ovvero alcune sono sottorelazioni di altre. Ad esempio una relazione può essere generica mutazione mentre una sua sottorelazione una mutazione legata ad una deficiency, la gerarchia si ricava dall'ontologia o più facilmente attraverso gli URI. Infine un file c'è con statistiche sul dataset di nanopublications.
 
 file statistics.info per il dataset d'esempio di 1001 coppie abstract/assertions
 
