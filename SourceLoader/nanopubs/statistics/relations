@@ -1,15 +1,20 @@
-sio:SIO_000628
-sio:SIO_001119
-sio:SIO_001120
-sio:SIO_001121
-sio:SIO_001122
-sio:SIO_001343
-sio:SIO_001344
-sio:SIO_001345
-sio:SIO_001346
-sio:SIO_001347
-sio:SIO_001348
-sio:SIO_001349
+subtree of relations in the dataset
+
+sio:SIO_000628	refers to is a relation between one entity and the entity that it makes reference to. 
+sio:SIO_001120	A gene disease association in which the gene is a therapeutic marker for the disease.
+sio:SIO_001121	A gene-disease association in which the gene/protein is involved in the etiology or maintenance of the disease.
+sio:SIO_001122	A gene-disease association in which a sequence variation (a mutation, a SNP) is associated with the disease.
+	- sio:SIO_001119	A gene-variant disease association in which a mutation in the gene/protein results in the development or maintenance of the disease.
+		- sio:SIO_001344	A gene-variant disease association in which a germline mutation in the gene/protein results in the development or maintenance of the disease, and it may be passed on to offspring.
+		- sio:SIO_001345	A gene-variant disease association in which a somatic mutation in the gene/protein results in the development or maintenance of the disease, and it may not be passed on to offspring.
+	- sio:SIO_001343	A gene-disease association in which a germline mutation in the gene predisposes to the development of the disease, and it is necessary but not sufficient for the manifestation of the disease.
+sio:SIO_001346	A gene-variant disease association in which a somatic mutation in the gene modifies the clinical presentation of the disease, and it may not be passed on to offspring.
+sio:SIO_001347	A gene-variant disease association in which a germline mutation in the gene modifies the clinical presentation of the disease, and it may be passed on to offspring.
+sio:SIO_001348	A gene-disease association in which the fusion between two different genes (promotor and/or other coding DNA regions) is associated with the disease.
+sio:SIO_001349	A gene-disease association in which the gene is included in a chromosomal rearrangement associated with a particular manifestation of the disease
+
+list of relations in the dataset
+
 sio:SIO_000628
 sio:SIO_001119
 sio:SIO_001120
