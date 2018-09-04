@@ -194,7 +194,7 @@ Sono stati validati i 16 modelli, rispettivamente con i propri validation sets e
 
 Infine "missing label" si riferisce, più in generale, ad una label che non è presente nel dizionario (quello che non è exact match), cioè può essere un annotazione che
 - si riferisce ad un'entità già annotata correttamente (verrebbe aumentata la precisione e non il recall)
-- si riferisce ad un'annotazione che fa parte del partial match (non aumenta ne recall ne precision)
+- si riferisce ad un'annotazione che fa parte del partial match (non aumenta nè recall nè precision)
 - si riferisce ad un'entità non già annotata ma corretta (aumentaterebbero sia precisione che recall)
 - si riferisce ad un'annotazione sbagliata (non aumenterebbero nè precisione nè recall)
 
